@@ -1,0 +1,1335 @@
+1560256133, 100000, The Best American Political Writing 2004: Special Election Year Edition, PL, 2004, None, 4.18, 400, 12, to-read, Royce Flippin
+0006375170, 100001, Stephen Hawking's Universe, PL, 1989, None, 4.02, 127, 6, to-read, John Boslough
+0002171384, 100002, Beyond The Black Hole: Stephen Hawking's Universe, PL, None, None, 4.02, None, 8, to-read, John Boslough
+1558009868, 100003, Stephen Hawking's Life Works: The Cambridge Lectures, PL, 1994, None, 4.39, None, 73, to-read, Stephen Hawking
+061390737X, 100004, Stephen Hawking: Understanding the Universe, PL, 1996, None, 4.00, 30, 0, to-read, Gail Sakurai
+0552125555, 100005, In Search of Schrödinger's Cat, PL, 1991, None, 4.03, 302, 464, to-read, John Gribbin
+0316328197, 100006, Schrödinger's Kittens and the Search for Reality: Solving the Quantum Mysteries, PL, 1996, None, 4.05, 272, 1367, to-read, John Gribbin
+1574713388, 100007, Detective Dog and the Search for Cat, PL, 1998, None, 3.60, 16, 7, to-read, Sandi Hill
+1592284469, 100010, Beast of Never, Cat of God: The Search for the Eastern Puma, PL, 2005, None, 3.21, 280, 35, to-read, Bob Butz
+0813214300, 100011, In Search of Schopenhauer's Cat: Arthur Schopenhauer's Quantum-Mystical Theory of Justice, PL, 2006, None, 3.43, 193, 7, to-read, Raymond B. Marcin
+0744560527, 100012, The Wonderful Journey Of Cameron Cat, PL, None, None, 5.00, None, 1, to-read, Marjorie Newman
+0307168182, 100013, Witches, Ghosts, And Goblins: A Spooky Search For Miranda's Cat, PL, None, None, 4.53, None, 34, to-read, Ruthanna Long
+1852428309, 100014, Six Easy Pieces, PL, 2003, None, 4.08, None, 14, to-read, Walter Mosley
+0745157556, 100015, Bahama Crisis, PL, None, None, 3.62, None, 1, to-read, Desmond Bagley
+0192853740, 100016, Indian Philosophy: A Very Short Introduction, PL, 2001, None, 3.53, 168, 315, to-read, Sue Hamilton
+0192853597, 100017, Continental Philosophy: A Very Short Introduction, PL, 2001, None, 3.70, 149, 662, to-read, Simon Critchley
+0192803956, 100018, Political Philosophy: A Very Short Introduction, PL, 2003, None, 3.69, 147, 878, to-read, David    Miller
+0192853570, 100019, Ancient Philosophy: A Very Short Introduction, PL, 2001, None, 3.54, 133, 423, to-read, Julia Annas
+0192806912, 100020, Philosophy of Law: A Very Short Introduction, PL, 2006, None, 3.67, 127, 311, to-read, Raymond Wacks
+0195052161, 100021, What Does It All Mean? A Very Short Introduction to Philosophy, PL, 1987, None, 3.66, 112, 2069, to-read, Thomas Nagel
+1851683690, 100022, Quantum Physics: A Beginner's Guide, PL, 2005, None, 3.77, 240, 295, to-read, Alastair I.M. Rae
+067401832X, 100023, The Quantum World:, PL, 2005, None, 3.96, 330, 383, to-read, Kenneth W. Ford
+047187373X, 100024, Quantum Physics of Atoms, Molecules, Solids, Nuclei, and Particles, PL, 1985, None, 4.02, 864, 244, to-read, Robert M. Eisberg
+0748740783, 100025, An Introduction to Quantum Physics, PL, 1979, None, 3.89, 670, 4, to-read, Anthony P. French
+048667164X, 100026, Mathematics of Classical and Quantum Physics, PL, 1992, None, 4.28, 672, 137, to-read, Frederick W. Byron Jr.
+019517559X, 100027, Quantum Enigma: Physics Encounters Consciousness, PL, 2006, None, 4.11, 211, 1107, to-read, Bruce Rosenblum
+0198570473, 100028, Quantum Physics: A First Encounter: Interference, Entanglement, and Reality, PL, 2006, None, 3.83, 125, 32, to-read, Valerio Scarani
+1564148955, 100030, PSIence: How New Discoveries in Quantum Physics and New Science May Explain the Mysteries of Paranormal Phenomenom, PL, 2006, None, 3.73, 256, 86, to-read, Marie D. Jones
+0830641920, 100031, The Probable Universe: An Owner's Guide to Quantum Physics, PL, None, None, 3.50, None, 2, to-read, M.Y. Han
+0198555768, 100032, The Meaning Of Quantum Theory: A Guide For Students Of Chemistry And Physics, PL, 1992, None, 4.22, None, 0, to-read, Jim Baggott
+1841882380, 100034, Quantum: A Guide for the Perplexed, PL, 2004, None, 4.14, 280, 1301, to-read, Jim Al-Khalili
+3527403930, 100035, A Guide to Experiments in Quantum Optics, PL, 2004, None, 3.00, 434, 3, to-read, Hans-A. Bachor
+0521433053, 100036, A Guide to Quantum Groups, PL, 1994, None, 5.00, 667, 0, to-read, Vyjayanthi Chari
+031333448X, 100037, Quantum Mechanics (Greenwood Guides to Great Ideas in Science), PL, 2007, None, 0.00, None, 0, to-read, Kent Peacock
+1853048631, 100038, Bluff Your Way in the Quantum Universe, PL, 1997, None, 3.85, 64, 9, to-read, Anne Taute
+083560845X, 100039, The Visionary Window: A Quantum Physicist's Guide to Enlightenment, PL, 2006, None, 4.02, 339, 65, to-read, Amit Goswami
+0309103118, 100043, Quantum Zoo: A Tourist's Guide to the Neverending Universe, PL, None, None, 4.06, None, 0, to-read, Marcus Chown
+0309096227, 100044, The Quantum Zoo: A Tourist's Guide to the Neverending Universe, PL, 2006, None, 4.06, 200, 184, to-read, Marcus Chown
+0750617772, 100046, The Chaos Cookbook, PL, 1996, None, 0.00, 487, 0, to-read, Joe Pritchard
+0071455337, 100047, Schaum's Easy Outline of Quantum Mechanics, PL, 2005, None, 3.40, 154, 6, to-read, Eliahu Zaarur
+0521661676, 100048, Orbitals in Chemistry: A Modern Guide for Students, PL, 2000, None, 0.00, 326, 0, to-read, Víctor Gil
+0192802526, 100049, Quantum Theory: A Very Short Introduction, PL, 2002, None, 3.81, 113, 875, to-read, John C. Polkinghorne
+0395664985, 100050, Miss Nelson Is Missing!, PL, 1993, None, 4.29, 32, 56, to-read, Harry Allard
+3596148642, 100052, Austerlitz, PL, None, None, 4.04, 417, 199, to-read, W.G. Sebald
+1563410087, 100054, Dykes to Watch Out For: The Sequel (DtWOF, #4), PL, 1992, None, 4.27, 133, 505, to-read, Alison Bechdel
+1878239554, 100055, River Rescue: A Manual for Whitewater Safety, PL, 1997, None, 4.34, 320, 10, to-read, Les Bechdel
+0932379796, 100056, New, Improved! Dykes to Watch Out For (DtWOF, #3), PL, 1990, None, 4.33, 118, 660, to-read, Alison Bechdel
+0192801368, 100057, Oxford, PL, 2001, None, 4.04, 304, 129, to-read, Jan Morris
+8439706243, 100058, Mozart, PL, 1999, None, 3.70, None, 3, to-read, Peter Gay
+0633090352, 100059, When Godly People Do Ungodly Things - Bible Study Book: Arming Yourself in the Age of Seduction, PL, 2003, None, 4.31, 156, 152, to-read, Beth Moore
+0805424652, 100060, When Godly People Do Ungodly Things: Finding Authentic Restoration in the Age of Seduction, PL, 2002, None, 4.31, 320, 1299, to-read, Beth Moore
+0805445625, 100061, When Godly People Do Ungodly Things, PL, 2007, None, 4.31, None, 0, to-read, Beth Moore
+0884199061, 100062, Cuando gente de Dios hace cosas que no son de Dios/when Godly People Do Ungodly Things Beth Moore, PL, 2004, None, 4.31, 217, 4, to-read, Beth Moore
+1594151504, 100063, When Godly People Do Ungodly Things: Arming Yourself in the Age of Seduction, PL, 2007, None, 4.31, 412, 3, to-read, Beth Moore
+0805080287, 100064, Crafty TV Writing: Thinking Inside the Box, PL, 2006, None, 4.03, 327, 278, to-read, Alex Epstein
+0874411033, 100065, As a Driven Leaf, PL, 1996, None, 4.11, 480, 2527, to-read, Milton Steinberg
+0972164448, 100070, Collected Essays 2: Literary Criticism, PL, 2004, None, 4.19, None, 0, to-read, H.P. Lovecraft
+None, 100071, Letters from New York (Letters, Vol 2), PL, 2005, None, 4.30, 332, 12, to-read, H.P. Lovecraft
+0809562685, 100072, The Dark Worlds of H.P. Lovecraft, Vol 1, PL, 2006, None, 3.80, 3, 11, to-read, H.P. Lovecraft
+1593600569, 100074, H.P. Lovecraft's Favorite Weird Tales: The Roots of Modern Horror, PL, 2005, None, 4.14, 391, 92, to-read, Douglas A. Anderson
+0809562669, 100075, The Dark Worlds of H.P. Lovecraft, Vol 2, PL, 2006, None, 3.93, 3, 13, to-read, H.P. Lovecraft
+1591023521, 100076, The Cult of Alien Gods: H.P. Lovecraft And Extraterrestrial Pop Culture, PL, 2005, None, 3.65, 398, 96, to-read, Jason Colavito
+1887797157, 100077, The Lurker in the Lobby, PL, 2000, None, 3.77, 198, 15, to-read, Andrew Migliore
+1897304048, 100078, The Dark Worlds of H.P. Lovecraft, Vol 3, PL, 2006, None, 3.82, 3, 16, to-read, H.P. Lovecraft
+096732159X, 100082, Letters to Alfred Galpin, PL, 2002, None, 4.38, 288, 13, to-read, H.P. Lovecraft
+0972164405, 100083, Primal Sources: Essays on H. P. Lovecraft, PL, 2003, None, 3.85, 212, 26, to-read, S.T. Joshi
+1892389495, 100084, The Letters of H.P. Lovecraft & Donald Wandrei (Letters 1), PL, 2005, None, 4.35, 439, 4, to-read, H.P. Lovecraft
+0586063226, 100085, At the Mountains of Madness and Other Novels of Terror  (The H.P. Lovecraft Omnibus, #1), PL, 1985, None, 4.15, 552, 1300, to-read, H.P. Lovecraft
+0809557541, 100087, The King in Yellow, PL, 2007, None, 3.50, 189, 99, to-read, Robert W. Chambers
+1592240127, 100088, H. P. Lovecraft and Lovecraft Criticism: An Annotated Bibliography., PL, 2002, None, 4.17, 508, 5, to-read, S.T. Joshi
+0940884038, 100089, H.P. Lovecraft & Lovecraft Criticism: An Annotated Bibliography, Supplement, 1980-84, PL, 1985, None, 4.17, 76, 0, to-read, S.T. Joshi
+0870541730, 100091, Lovecraft Remembered, PL, 1998, None, 4.54, 486, 14, to-read, Peter H. Cannon
+1575025353, 100092, Return to Lovecraft Country: Fifteen Frightening Forays into the Lovecraftian Landscape, PL, None, None, 3.35, None, 21, to-read, Scott David Aniolowski
+1582404607, 100094, Midnight Nation, PL, 2004, None, 4.07, 304, 1247, to-read, J. Michael Straczynski
+1582402728, 100095, Midnight Nation, PL, 2003, None, 4.07, 288, 182, to-read, J. Michael Straczynski
+0543968634, 100096, The Land Of The Midnight Sun: Summer And Winter Journeys Through Sweden, Norway, Lapland, And Northern Finland. With Descriptions Of The Inner Life Of ... The Primitive Antiquities, Etc.. Volume 2, PL, None, None, 3.00, None, 2, to-read, Paul Belloni du Chaillu
+0543954358, 100097, The Land Of The Midnight Sun: Summer And Winter Journeys Through Sweden, Norway, Lapland And Northern Finland. With Descriptions Of The Inner Life Of The People, Their Manners And Customs, The Primitive Antiquities, Etc., PL, None, None, 0.00, None, 0, to-read, Paul Belloni du Chaillu
+1889609110, 100099, Conscious Discipline: 7 Basic Skills for Brain Smart Classroom Management, PL, 2001, None, 4.29, 256, 248, to-read, Becky A. Bailey
+0060936991, 100100, The Prophets, PL, 2001, None, 4.38, 704, 976, to-read, Abraham Joshua Heschel
+0738207985, 100101, False Prophets: The Gurus Who Created Modern Management And Why Their Ideas Are Bad For Business Today, PL, 2003, None, 3.26, 352, 48, to-read, James Hoopes
+0226808386, 100102, Cosmopolis: The Hidden Agenda of Modernity, PL, 1992, None, 3.92, 235, 299, to-read, Stephen Toulmin
+0826470459, 100103, Cosmopolis II, PL, 2004, None, 4.08, 271, 2, to-read, Leonie Sandercock
+0882851314, 100104, Cosmopolis: Yesterday's Cities of the Future, PL, 1990, None, 5.00, 172, 4, to-read, Howard Mansfield
+1403968586, 100105, Classical and Modern Thought on International Relations: From Anarchy to Cosmopolis, PL, 2005, None, 3.00, 224, 1, to-read, Robert M.  Jackson
+0471971979, 100106, Towards Cosmopolis: Planning For Multicultural Cities, PL, 1998, None, 3.67, None, 0, to-read, Leonie Sandercock
+0262660644, 100107, Connections and Symbols, PL, 1988, None, 3.77, 264, 13, to-read, Steven Pinker
+0141022388, 100108, Hotheads, PL, None, None, 3.72, 58, 75, to-read, Steven Pinker
+0965491730, 100109, The Blank Slate: The Modern Denial of Human Nature, PL, 2002, None, 4.08, None, 14, to-read, Steven Pinker
+0297816470, 100110, Words and Rules: The Ingredients of Language, PL, 1999, None, 3.90, 348, 30, to-read, Steven Pinker
+8420667323, 100111, El instinto del lenguaje, PL, 2009, None, 4.03, 535, 28, to-read, Steven Pinker
+8449317908, 100112, La tabla rasa, el buen salvaje y el fantasma en la máquina, PL, None, None, 4.08, None, 11, to-read, Steven Pinker
+074253362X, 100113, Happiness Is Overrated, PL, 2003, None, 3.84, 192, 19, to-read, Raymond Angelo Belliotti
+047146984X, 100114, Genuine Happiness: Meditation as the Path to Fulfillment, PL, 2005, None, 4.03, 256, 91, to-read, B. Alan Wallace
+0801063140, 100116, Happiness Is a Choice: The Symptoms, Causes, and Cures of Depression, PL, 2005, None, 3.78, 244, 18, to-read, Frank Minirth
+0060008040, 100117, Choosing Happiness: Keys to a Joyful Life, PL, 2006, None, 3.84, 192, 251, to-read, Alexandra Stoddard
+0883473240, 100118, Happiness is an Inside Job, PL, 1989, None, 4.22, None, 147, to-read, John Joseph Powell
+0192805592, 100119, Happiness: The Science Behind Your Smile, PL, 2006, None, 3.90, 216, 633, to-read, Daniel Nettle
+0143037013, 100120, Happiness: Lessons from a New Science, PL, 2006, None, 3.72, 320, 710, to-read, Richard Layard
+0262532042, 100121, What the Future Holds: Insights from Social Science, PL, 2003, None, 3.50, 289, 2, to-read, Richard N. Cooper
+0140806458, 100125, Cost-benefit Analysis, PL, 1975, None, 3.71, 496, 0, to-read, Richard Layard
+0312215762, 100126, Tackling Inequality, PL, 1999, None, 2.67, 544, 3, to-read, Richard Layard
+0195044673, 100129, Learned Helplessness: A Theory for the Age of Personal Control, PL, 1995, None, 4.10, 376, 36, to-read, Christopher Peterson
+0195167015, 100130, Character Strengths and Virtues: A Handbook and Classification, PL, 2004, None, 4.24, 800, 310, to-read, Christopher Peterson
+0393966607, 100131, Abnormal Psychology, PL, None, None, 4.01, None, 0, to-read, Lisa Butler
+0767923634, 100132, Irrational Exuberance, PL, 2005, None, 3.98, 304, 5753, to-read, Robert J. Shiller
+031225377X, 100133, Biological Exuberance: Animal Homosexuality and Natural Diversity, PL, 2000, None, 4.28, 768, 61, to-read, Bruce Bagemihl
+0394306384, 100134, The Age Of Exuberance: Backgrounds To Eighteenth-Century English Literature, PL, None, None, 3.36, None, 9, to-read, Donald J. Greene
+0374528500, 100135, Toward Rational Exuberance: The Evolution of the Modern Stock Market, PL, None, None, 3.76, None, 21, to-read, B. Mark Smith
+0060580496, 100136, Rational Exuberance: Silencing the Enemies of Growth and Why the Future Is Better Than You Think, PL, None, None, 3.43, None, 6, to-read, Michael Mandel
+096588001X, 100137, Biological Exuberance, PL, None, None, 4.28, None, 0, to-read, Bruce Bagemihl
+0972435395, 100139, American Fancy: Exuberance in the Arts 1790-1840, PL, 2004, None, 4.12, 267, 8, to-read, Sumpter Priddy
+0870995766, 100141, Art and Love: An Illustrated Anthology of Love Poetry, PL, None, None, 4.08, None, 3, to-read, Kate     Farrell
+1420927418, 100143, The Love Books of Ovid (the Loves, the Art of Love, Love's Cure, and the Art of Beauty), PL, 2006, None, 3.93, 116, 18, to-read, Ovid
+0810990687, 100144, The Red Rose Girls: An Uncommon Story of Art and Love, PL, 2002, None, 4.32, 216, 109, to-read, Alice A. Carter
+0231136579, 100146, The Art of Courtly Love, PL, 2014, None, 3.54, 288, 13, to-read, Andreas Capellanus
+0762886943, 100149, Love: A Celebration in Art & Literature, PL, 2001, None, 3.90, 239, 18, to-read, Jane Lahr
+0743243366, 100150, Zen and the Art of Falling in Love, PL, 2004, None, 4.23, 272, 274, to-read, Brenda Shoshanna
+1555914063, 100151, Teaching Art With Books Kids Love: Teaching Art Appreciation, Elements of Art, and Principles of Design With Award-Winning Children's Books, PL, 1999, None, 4.15, 192, 36, to-read, Darcie Frohardt
+0791438368, 100152, The Lives, Loves and Art of Arthur B. Davies, PL, 1999, None, 2.50, 469, 0, art-history, Bennard B. Perlman
+0974308927, 100153, Art and Cook: Love Food, Live Design and Dream Art, PL, None, None, 3.89, None, 6, to-read, Allan Ben
+1854375954, 100154, Summer of Love: Art of the Psychedelic Era, PL, 2005, None, 4.13, 240, 16, to-read, Christoph Grunenberg
+0745619142, 100155, The Love of Art: European Art Museums and Their Public, PL, 1997, None, 3.93, 182, 12, to-read, Pierre Bourdieu
+0810915448, 100156, Medieval Art of Love: Objects and Subjects of Desire, PL, 1998, None, 4.12, 176, 34, to-read, Michael Camille
+1401359418, 100157, The Luck Factor: The Four Essential Principles, PL, 2004, None, 3.80, None, 49, to-read, Richard Wiseman
+0786869143, 100158, The Luck Factor: Changing Your Luck, Changing Your Life - The Four  Essential Principles, PL, 2003, None, 3.80, 232, 967, to-read, Richard Wiseman
+0025465805, 100159, The Luck Factor: Why Some People Are Luckier Than Others And How You Can Become One Of Them, PL, None, None, 3.84, None, 0, to-read, Max Gunther
+0345274407, 100160, The Luck Factor, PL, 1978, None, 3.84, 212, 73, to-read, Max Gunther
+0316895377, 100161, Where Dead Voices Gather, PL, 2002, None, 3.93, 336, 264, to-read, Nick Tosches
+0060920777, 100162, Flow, PL, 1991, None, 4.11, 320, 17, to-read, Csikszentmi
+084466927X, 100164, The Moral Animal: Evolutionary Psychology and Everyday Life, PL, 1997, None, 4.07, None, 9, to-read, Robert Wright
+0349107041, 100165, The Moral Animal, PL, 2007, None, 4.07, 466, 83, to-read, Robert Wright
+0679407731, 100166, The Moral Animal: Why We Are The Way We Are:  The New Science of Evolutionary Psychology, PL, 1994, None, 4.07, 467, 56, to-read, Robert Wright
+0195162021, 100167, Moral, Believing Animals: Human Personhood and Culture, PL, 2003, None, 3.85, 176, 94, to-read, Christian Smith
+0199267677, 100168, Moral Animals: Ideals and Constraints in Moral Theory, PL, 2004, None, 4.67, 332, 0, to-read, Catherine Wilson
+0231508719, 100169, Animal Rights snd Moral Philosophy, PL, 2004, None, 3.71, None, 0, to-read, Julian H. Franklin
+0879756675, 100170, Animal Experimentation, PL, 1991, None, 3.75, 182, 5, to-read, Robert M. Baird
+0192830414, 100172, The Nature of the Beast: Are Animals Moral?, PL, 1984, None, 2.67, 144, 1, to-read, William R. Clark
+1400033594, 100173, Black Maps (John March, #1), PL, 2005, None, 3.58, 320, 40, to-read, Peter Spiegelman
+0307263169, 100174, Red Cat (John March, #3), PL, 2007, None, 3.66, 304, 338, to-read, Peter Spiegelman
+0060273208, 100175, Open Me...I'm a Dog!, PL, 1997, None, 4.10, 32, 311, to-read, Art Spiegelman
+1400033608, 100176, Death's Little Helpers (John March, #2), PL, 2006, None, 3.57, 352, 22, to-read, Peter Spiegelman
+089254077X, 100177, Divine Waba (Within, Among, Between and Around): A Jungian Exploration of Spiritual Paths, PL, 2003, None, 4.00, 288, 4, to-read, J. Marvin Spiegelman
+0679776613, 100178, Flying Home and Other Stories, PL, 1998, None, 3.89, 224, 504, to-read, Ralph Ellison
+0791063747, 100179, Ralph Ellison (Bloom's Biocritiques), PL, 2003, None, 4.00, 147, 0, to-read, Harold Bloom
+0882580051, 100180, Speaking for You: The Vision Of Ralph Ellison, PL, 1990, None, 2.83, 438, 5, to-read, Kimberly W. Benston
+0877453217, 100181, Invisible Criticism: Ralph Ellison and the American Canon, PL, 1991, None, 3.40, 197, 5, to-read, Alan Nadel
+0877457778, 100182, Jazz Country: Ralph Ellison in America, PL, 2001, None, 5.00, 184, 1, to-read, Horace A. Porter
+013274340X, 100183, Ralph Ellison: A Collection of Critical Essays, PL, None, None, 3.50, None, 2, to-read, John Hersey
+0195152506, 100185, A Historical Guide to Ralph Ellison, PL, 2004, None, 4.00, 296, 0, to-read, Steven C. Tracy
+0813191629, 100189, Ralph Ellison and the Raft of Hope: A Political Companion to Invisible Man, PL, 2004, None, 3.67, 249, 2, to-read, Lucas E. Morel
+0393052109, 100190, A Circle of Sisters: Alice Kipling, Georgiana Burne Jones, Agnes Poynter, and Louisa Baldwin, PL, None, None, 3.67, None, 249, to-read, Judith Flanders
+0765341476, 100191, Sister Alice, PL, 2004, None, 3.76, 368, 287, to-read, Robert Reed
+0689802692, 100193, Freedom's Gifts, PL, 1997, None, 4.08, 32, 16, to-read, Valerie Wilson Wesley
+0963826026, 100194, Apples of the Mummy's Eye: The Dickerson Sisters, PL, None, None, 3.91, None, 10, to-read, Elyse Deffke Bliss
+184149125X, 100195, Sister Alice, PL, 2003, None, 3.76, 408, 45, to-read, Robert Reed
+0373229232, 100196, My Sister, Myself (Dead Ringer #1), PL, 2006, None, 3.74, 251, 34, to-read, Alice Sharpe
+0940880687, 100197, Juneteenth: A Celebration of Freedom, PL, None, None, 4.20, None, 7, to-read, Charles A.  Taylor
+0525652221, 100200, Juneteenth, PL, 1998, None, 4.20, 64, 6, to-read, Muriel Miller Branch
+1880000180, 100201, Juneteenth Jamboree, PL, 1995, None, 3.86, 24, 23, to-read, Carole Boston Weatherford
+0152059474, 100202, Come Juneteenth, PL, 2007, None, 3.60, 256, 658, to-read, Ann Rinaldi
+0766022064, 100203, Juneteenth: A Day to Celebrate Freedom from Slavery, PL, 2004, None, 4.25, 48, 4, to-read, Angela Leeper
+0486431630, 100204, The Marrow of Tradition, PL, 2003, None, 3.90, 213, 83, to-read, Charles W. Chesnutt
+1874509123, 100205, The Marrow of Tradition (Black Classics), PL, None, None, 3.90, 233, 11, to-read, Charles W. Chesnutt
+159477112X, 100206, Bone Marrow Nei Kung: Taoist Techniques for Rejuvenating the Blood and Bone, PL, 2006, None, 4.07, 272, 65, to-read, Mantak Chia
+0812566572, 100208, Marrow (Great Ship, #1), PL, 2001, None, 3.83, 512, 1731, to-read, Robert Reed
+0964735237, 100210, Bone Marrow And Blood Stem Cell Transplants: A Guide For Patients, PL, 2006, None, 3.67, None, 9, to-read, Susan  Stewart
+080912744X, 100212, Paul: His Letters and His Theology: An Introduction to Paul's Epistles, PL, 1986, None, 4.00, 278, 5, to-read, Stanley B. Marrow
+0385333854, 100213, Woody Guthrie, PL, 1999, None, 4.32, 512, 1257, to-read, Joe Klein
+0141187220, 100214, Bound for Glory, PL, 2004, None, 4.13, 320, 139, to-read, Woody Guthrie
+0972304568, 100215, To The Marrow, PL, 2006, None, 4.00, 88, 6, to-read, Robert Seder
+0060202823, 100219, Woody's 20 Grow Big Songs, PL, 1992, None, 4.44, 48, 20, to-read, Woody Guthrie
+0744578884, 100220, Howdi Do!, PL, None, None, 3.92, 18, 25, to-read, Woody Guthrie
+0375811133, 100221, Woody Guthrie: Poet of the People, PL, 2001, None, 4.13, 32, 72, to-read, Bonnie Christensen
+0634051032, 100222, This Land is Your Land (Collection of Woody Guthrie Songs), PL, 2002, None, 4.28, None, 1, to-read, Woody Guthrie
+0312328486, 100223, The Preservationist, PL, 2005, None, 3.61, 256, 1209, to-read, David Maine
+0374523401, 100224, Preservationist's Progress: Architectural Adventures in Conserving Yesterday's Houses, PL, 1992, None, 2.50, None, 0, to-read, Hugh Howard
+0978925408, 100225, Bob Marshall in the Adirondacks: Writings of a Pioneering Peak-Bagger, Pond-Hopper, and Wilderness Preservationist, PL, None, None, 4.47, None, 19, to-read, Phil Brown
+082304548X, 100226, Restoring Old Buildings for Contemporary Uses: An American Sourcebook for Architects and Preservationists, PL, 1989, None, 4.00, 208, 2, to-read, William C. Shopsin
+0028629493, 100229, The Complete Idiot's Guide to Improving Your Memory, PL, 1999, None, 3.78, 400, 9, to-read, Michael Kurland
+1592575048, 100230, The Complete Idiot's Guide to Scrapbook Projects Illustrated, PL, 2006, None, 3.33, 240, 7, to-read, Allyson Bright Meyer
+0028641779, 100231, The Complete Idiot's Guide to Knowledge Management, PL, None, None, 3.45, None, 61, to-read, Melissie Clemmons Rumizen
+0028636406, 100232, The Complete Idiot's Guide to Scrapbooking: CIG to Scrapbooking, PL, 1999, None, 3.75, 336, 7, to-read, Wendy Smedley
+0671772465, 100233, How To Win Friends and Influence People, PL, None, None, 4.20, None, 52, to-read, Dale Carnegie
+0618732764, 100234, Five Little Monkeys Jumping on the Bed, PL, 2006, None, 4.11, 32, 16, to-read, Eileen Christelow
+0806527803, 100236, Prank the Monkey: The ZUG Book of Pranks, PL, 2007, None, 3.55, 256, 68, to-read, John  Hargrave
+1854583298, 100238, Work Your Way Around the World, PL, 2005, None, 3.53, 576, 86, to-read, Susan  Griffith
+1854582747, 100239, Work Your Way Around the World, 11th, PL, 2003, None, 3.53, 576, 6, to-read, Susa  Griffith
+1854583514, 100240, Gap Years for Grown Ups, 2nd, PL, 2006, None, 3.67, 358, 27, to-read, Susan  Griffith
+1854582933, 100243, The Au Pair & Nanny's Guide to Working Abroad, 4th, PL, 2002, None, 3.71, 320, 1, to-read, Susan  Griffith
+1578401607, 100245, Disney's Beauty and the Beast Holiday Special (Disney's Beauty and the Beast), PL, None, None, 4.50, None, 2, to-read, Clay Griffith
+0812992180, 100247, Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel, PL, 2002, None, 3.94, 205, 19314, to-read, Rolf Potts
+0915904500, 100248, Vagabonding in the USA: A Guide for Independent Travelers and Foreign Visitors, PL, None, None, 4.50, None, 4, to-read, Ed Buryn
+0394706633, 100249, Vagabonding in Europe and North Africa, PL, None, None, 4.26, None, 38, to-read, Ed Buryn
+1601080107, 100250, Vagabonding, PL, None, None, 3.86, None, 9, to-read, Audra George
+039470973X, 100251, Vagabonding in America, PL, None, None, 4.41, None, 3, to-read, Ed Buryn
+0807067563, 100252, Vagabonding: Feminist Thinking Cut Loose, PL, None, None, 4.80, None, 7, to-read, Christina Thurmer-Rohr
+1929154178, 100253, The Little Guide to Your Well-Read Life: How to Get More Books in Your Life and More Life from Your Books, PL, 2005, None, 3.68, 132, 1022, to-read, Steve Leveen
+1564145301, 100254, The Well-Read Witch: Essential Books for Your Magickal Library, PL, 2001, None, 3.79, 288, 54, to-read, Carl McColman
+0590029134, 100255, Bingo!, PL, 1999, None, 3.59, 18, 64, to-read, Rosemary Wells
+0590029118, 100256, The Itsy Bitsy Spider, PL, 1998, None, 3.26, 18, 103, to-read, Rosemary Wells
+0140074511, 100257, How to Become Ridiculously Well-read in One Evening: A Collection of Literary Encapsulations, PL, 1987, None, 3.15, 188, 71, to-read, E.O. Parrott
+0439871905, 100258, Read To Your Bunny Very First Library Gift Set, PL, 2006, None, 3.90, 64, 10, to-read, Rosemary Wells
+1563138824, 100260, The Well-Read Cat: A Photographic Celebration, PL, None, None, 3.33, None, 3, to-read, NOT A BOOK
+0582297966, 100261, How to Teach English, PL, 2003, None, 3.92, 198, 585, to-read, Jeremy Harmer
+0415306760, 100262, Learning to Teach English in the Secondary School: A Companion to School Experience, PL, 2003, None, 3.79, 344, 6, to-read, Jon Davison
+096814442X, 100266, The World Is a Class: How and Why to Teach English Around the World, PL, None, None, 2.92, None, 15, to-read, Caleb Powell
+0934633584, 100267, Teach Me English: A Musical Journey Through the Day, PL, None, None, 0.00, None, 0, curriculum, Judy Mahoney
+0521585570, 100268, Teach Business English, PL, 2000, None, 3.77, 380, 19, to-read, Sylvie Donna
+0194421848, 100270, The Struggle to Teach English as an International Language, PL, 2005, None, 3.88, 193, 8, to-read, Adrian Holliday
+1857036409, 100271, Teach English as a Foreign Language: All You Need to Know to Enjoy a Caried and Adventurous Career, PL, 2004, None, 4.00, 144, 1, to-read, Sue Tyson-Ward
+0071485198, 100273, Teach Yourself Old English Complete Course (Teach Yourself), PL, 2006, None, 4.08, None, 0, to-read, Mark Atherton
+0071451226, 100274, Teach Yourself English Vocabulary New Edition, PL, 2005, None, 3.67, None, 3, to-read, Martin Hunt
+0684802902, 100277, Darwin's Dangerous Idea: Evolution and the Meanings of Life, PL, 1995, None, 4.04, 586, 59, to-read, Daniel C. Dennett
+0140128670, 100278, Consciousness Explained, PL, 1993, None, 3.89, 511, 198, to-read, Daniel C. Dennett
+0140283897, 100279, Freedom Evolves, PL, 2004, None, 3.83, 347, 69, to-read, Daniel C. Dennett
+0262540908, 100281, Brainchildren: Essays on Designing Minds, PL, 1998, None, 3.86, 430, 33, to-read, Daniel C. Dennett
+0345486455, 100282, Healthy Sleep Habits, Happy Child, PL, 2005, None, 3.90, 544, 378, to-read, Marc Weissbluth
+0060854057, 100283, The Mr.  Mrs. Happy Handbook: Everything I Know About Love and Marriage (with corrections by Mrs. Doocy), PL, 2006, None, 3.33, 245, 207, to-read, Steve Doocy
+039952990X, 100284, How We Choose to Be Happy: The 9 Choices of Extremely Happy People--Their Secrets, Their Stories, PL, 2004, None, 4.00, 256, 405, to-read, Rick Foster
+1580085784, 100285, How to Retire Happy, Wild, and Free: Retirement Wisdom That You Won't Get from Your Financial Advisor, PL, 2004, None, 3.75, 256, 693, to-read, Ernie J. Zelinski
+0375504613, 100286, A Short Guide to a Happy Life, PL, 2000, None, 3.95, 50, 8108, to-read, Anna Quindlen
+1577311108, 100287, You Can Be Happy No Matter What: Five Principles for Keeping Life in Perspective, PL, 1999, None, 4.11, 165, 941, to-read, Richard Carlson
+0801877504, 100288, Basil Bunting on Poetry, PL, 2003, None, 4.20, 288, 5, to-read, Peter Makin
+1857950585, 100289, Basil Bunting: A Northern Life, PL, None, None, 4.00, None, 5, to-read, Richard Caddel
+0915032511, 100290, Basil Bunting: Man and Poet, PL, 1980, None, 3.89, 442, 10, to-read, Carroll F. Terrell
+1852240482, 100292, Poetry of Basil Bunting, PL, 1991, None, 3.29, 275, 7, to-read, Victoria Forde
+1879961199, 100295, The Taming of the Slough: A Comprehensive History of Peacock Springs, PL, None, None, 4.00, None, 30, to-read, Sheck Exley
+059515686X, 100296, Murder at Willow Slough, PL, 2000, None, 3.74, 544, 87, to-read, Josh Thomas
+1890771821, 100297, Gunfight at Mussel Slough: Five Versions of a Western Myth, PL, 2004, None, 4.00, 309, 3, to-read, Terry Beers
+034089864X, 100299, You Can Take the Cat Out of Slough..., PL, 2007, None, 4.14, 208, 37, to-read, Chris Pascoe
+0809016095, 100303, Prague in Black and Gold: Scenes from the Life of a European City, PL, 1998, None, 3.60, 432, 211, to-read, Peter Demetz
+0713992182, 100304, Prague In Black And Gold: The History Of A City, PL, None, None, 3.60, None, 0, to-read, Peter Demetz
+014026888X, 100305, Prague in Black and Gold: The History of a City, PL, 1998, None, 3.60, 432, 39, to-read, Peter Demetz
+056353298X, 100307, Happy Birthday, Fizz!, PL, None, None, 3.50, None, 0, to-read, BBC
+0882822810, 100308, When the Fairy Tale Fails: How Women Today Can Create Their Own "Happy Ever After", PL, 2006, None, 3.45, 224, 13, to-read, Susan Indenbaum
+0517704633, 100309, Little Things Mean a Lot: Creating Happy Memories with Your Grandchildren, PL, 2012, None, 4.14, 128, 8, to-read, Susan Newman
+0688166512, 100311, The Second Time Around: Everything You Need to Know to Make Your Remarriage Happy, PL, 2000, None, 3.00, 264, 2, to-read, Susan Curtin Kelley
+0749924268, 100313, If We're So In Love, Why Aren't We Happy?, PL, 2003, None, 4.37, None, 18, to-read, Susan Page
+0140566643, 100314, Happy Easter Emily, PL, 2000, None, 3.50, 16, 8, to-read, Claire Masurel
+0813914701, 100316, Recollections of a Happy Life: Being the Autobiography of Marianne North, PL, 1993, None, 3.50, 374, 0, to-read, Marianne North
+0060174773, 100319, World History, PL, 1996, None, 3.70, 764, 6, to-read, Hugh Thomas
+0399122869, 100321, The Invisible Fire: The Story of Mankind's Victory Over the Ancient Scourge of Smallpox, PL, None, None, 4.00, None, 4, to-read, Joel N. Shurkin
+1889059188, 100324, Sparks Fly: Women Political Prisoners and Prisoners of War in the U.S., PL, None, None, 4.80, None, 5, to-read, Out of Control
+1556521839, 100325, Inadmissible Evidence: The Story of the African-American Trial Lawyer Who Defended the Black Liberation Army, PL, None, None, 4.18, None, 13, to-read, Evelyn Williams
+0765347644, 100327, The Well of Stars (Great Ship, #2), PL, 2007, None, 3.83, 448, 443, to-read, Robert Reed
+1930846371, 100328, The Cuckoo's Boys, PL, 2005, None, 3.75, 336, 57, to-read, Robert Reed
+1841492558, 100329, Down the Bright Way, PL, None, None, 3.44, None, 210, to-read, Robert Reed
+0140341463, 100330, Henry Reed's Babysitting Service, PL, 1989, None, 4.07, 206, 865, to-read, Keith Robertson
+0634080326, 100332, Lou Reed: Walk on the Wild Side: The Stories Behind the Songs, PL, 2004, None, 2.80, 142, 15, to-read, Chris       Roberts
+0486238695, 100333, Old Washington, D.C. in Early Photographs, 1846-1932, PL, 1980, None, 4.00, 176, 6, to-read, Robert Reed
+1860198481, 100334, Arthurian Myth And Legend An A To Z Of Peo (Spanish Edition), PL, None, None, 3.94, None, 2, to-read, Mike Kennedy
+0750933100, 100335, A Companion to Arthurian and Celtic Myths and Legends, PL, 2005, None, 4.30, 438, 8, to-read, Mike Dixon-Kennedy
+0713727039, 100336, Arthurian Myth & Legend: An A-Z of People and Places, PL, 1951, None, 3.94, 304, 13, to-read, Mike Dixon-Kennedy
+0713725613, 100337, Arthurian Myth and Legend: An A-Z of People and Places, PL, 1996, None, 3.94, 298, 3, to-read, Mike Dixon-Kennedy
+0750933119, 100338, Companion to Arthurian and Celtic Myths and Legend, PL, 2006, None, 4.30, 448, 2, to-read, Mike Dixon-Kennedy
+0850305519, 100339, Celtic Mythology: The Nature and Influence of Celtic Myth, from Druidism to Arthurian Legend, PL, None, None, 3.39, None, 56, to-read, Ward Rutherford
+1852306475, 100340, The Encyclopaedia of Arthurian Legends, PL, 1995, None, 4.06, 256, 36, to-read, Ronan Coghlan
+1901881725, 100341, The Knights of the Round Table (Enid Blyton Myths And Legends), PL, 1998, None, 3.50, 128, 15, to-read, Enid Blyton
+0791418642, 100342, Culture and the King: The Social Implications of the Arthurian Legend, PL, 1994, None, 3.20, 324, 4, to-read, Martin B. Shichtman
+0765347717, 100343, The Draco Tavern, PL, 2006, None, 3.89, 316, 2027, to-read, Larry Niven
+0345353129, 100344, Protector (Known Space), PL, 1987, None, 4.07, 224, 9108, to-read, Larry Niven
+0743416929, 100345, Burning Tower, PL, 2006, None, 3.57, 672, 371, to-read, Larry Niven
+0345404483, 100346, Three Books of Known Space, PL, 1998, None, 4.08, 577, 619, to-read, Larry Niven
+0345381688, 100347, Crashlander (Known Space), PL, 1994, None, 3.93, 281, 1884, to-read, Larry Niven
+0671670557, 100348, Inferno (Inferno, #1), PL, 1988, None, 3.82, None, 38, to-read, Larry Niven
+0345302575, 100351, The Smoke Ring (The State, #3), PL, 1988, None, 3.77, 323, 3230, science-fiction, Larry Niven
+0060908807, 100352, Life in a Medieval City, PL, 1981, None, 3.82, 274, 2561, to-read, Joseph Gies
+1600960642, 100353, Life in a Medieval City, PL, None, None, 3.50, 108, 22, to-read, Edwin Benson
+0803233108, 100354, The Domestic Life of a Medieval City: Women, Children, and the Family in Fourteenth-Century Ghent, PL, 1985, None, 3.00, 261, 5, to-read, David Nicholas
+1406820849, 100355, Life in a Medieval City. Illustrated by York in the XVth century, PL, 2006, None, 3.50, 68, 0, to-read, Edwin Benson
+0312123493, 100356, Medieval Rome: A Portrait of the City and Its Life, PL, 1994, None, 4.00, 119, 1, to-read, Paul Hetherington
+1579120695, 100358, Daily Life in Medieval Times, PL, 1999, None, 3.99, 320, 152, to-read, Frances Gies
+0345334698, 100359, Tales of Known Space: The Universe of Larry Niven (Known Space), PL, 1981, None, 4.19, 240, 5582, to-read, Larry Niven
+0345394801, 100360, Flatlander (Known Space), PL, 2003, None, 3.98, 360, 2872, to-read, Larry Niven
+0743416937, 100361, The Magic Goes Away Collection: The Magic Goes Away/The Magic May Return/More Magic, PL, 2005, None, 3.89, 368, 319, to-read, Larry Niven
+0812510011, 100363, N-Space, PL, 1997, None, 3.93, 693, 2452, to-read, Larry Niven
+156865054X, 100365, The Mote in God's Eye (Moties, #1), PL, 2011, None, 4.07, 596, 57056, to-read, Larry Niven
+0345336941, 100366, Neutron Star (Known Space), PL, 1977, None, 4.12, 285, 11443, to-read, Larry Niven
+076534047X, 100367, Scatterbrain, PL, 2004, None, 3.44, 327, 223, to-read, Larry Niven
+0671036610, 100368, The Burning City, PL, 2001, None, 3.43, 609, 840, to-read, Larry Niven
+0671826581, 100369, Inferno (Inferno, #1), PL, None, None, 3.82, 237, 4612, to-read, Larry Niven
+3404242386, 100371, Ringwelt, PL, 2011, None, 3.96, 480, 77, to-read, Larry Niven
+0897332873, 100373, The Quest for Arthur's Britain, PL, 1987, None, 3.82, 318, 194, to-read, Geoffrey Ashe
+0007181868, 100374, Britain AD: A Quest for Arthur, England and the Anglo-Saxons, PL, 2006, None, 3.84, 268, 15, to-read, Francis Pryor
+1842820125, 100375, The Quest for Arthur, PL, 2001, None, 2.50, 240, 3, to-read, Stuart McHardy
+0752433431, 100376, The Medieval Quest for Arthur, PL, 2005, None, 4.00, 144, 14, to-read, Robert Allen Rouse
+061834151X, 100377, Empire of the Stars: Obsession, Friendship and Betrayal in the Quest for Black Holes, PL, 2005, None, 3.77, 384, 117, to-read, Arthur I. Miller
+0809313847, 100378, The Quest for Sir Arthur Conan Doyle: Thirteen Biographers in Search of a Life, PL, 1987, None, 3.33, 240, 3, to-read, Jon Lellenberg
+3404242904, 100379, Rainbow Mars, PL, 2001, None, 3.35, 477, 1348, to-read, Larry Niven
+0345276574, 100381, Tales of Known Space: The Universe of Larry Niven, PL, 1978, None, 4.19, 240, 32, to-read, Larry Niven
+0006476457, 100382, The Moat Around Murcheson's Eye, PL, 1994, None, 3.82, 480, 95, to-read, Larry Niven
+0786705329, 100383, The Mammoth Book of Arthurian Legends, PL, 1998, None, 3.62, 656, 57, to-read, Mike Ashley
+0785118756, 100384, Earth X, PL, 2005, None, 3.86, 592, 40, to-read, Alex Ross
+1854875337, 100385, The Mammoth book of Arthurian legends, PL, 1998, None, 3.62, 545, 3, to-read, Mike Ashley
+0785111212, 100388, Paradise X, Vol. 2, PL, 2003, None, 3.69, 352, 246, to-read, Jim Krueger
+0785111204, 100389, Paradise X, Vol. 1, PL, 2003, None, 3.72, 304, 302, to-read, Jim Krueger
+1557132615, 100390, Terror of Earth, PL, 1996, None, 4.50, 116, 2, to-read, Tom LaFarge
+0938294423, 100392, The Controllers: The Rulers Of Earth Identified, PL, 2012, None, 3.70, 114, 4, to-read, Commander X
+0763628956, 100394, Wizardology (Ologies, #3), PL, 2005, None, 4.09, 30, 3636, to-read, Master Merlin
+0763634018, 100395, The Wizardology Handbook: A Course for Apprentices, PL, 2007, None, 4.04, 80, 535, to-read, Master Merlin
+0763632333, 100396, Dragonology Tracking and Taming Dragons Volume 1: A Deluxe Book and Model Set: European Dragon, PL, 2006, None, 4.10, 24, 508, to-read, Dugald A. Steer
+076362814X, 100397, The Dragonology Handbook: A Practical Course in Dragons, PL, 2005, None, 4.14, None, 1434, to-read, Dugald A. Steer
+0740757318, 100398, Obscure Spells and Charms of Dragon Origin: A Dragonology Kit, PL, 2006, None, 4.17, 32, 42, to-read, Ernest Drake
+0763635081, 100400, Dragonology Collection   Set, PL, None, None, 4.75, None, 13, to-read, Dugald A. Steer
+0060759682, 100402, The Book of Dragons, PL, 2005, None, 3.93, 146, 150, to-read, Michael Hague
+0486423107, 100403, Dragons: A Book of Designs, PL, 2003, None, 3.56, 32, 18, to-read, Marty Noble
+0794512852, 100405, That's Not My Dragon..., PL, 2006, None, 4.19, None, 681, to-read, Fiona Watt
+0486435121, 100409, Big Book of Dragons, Monsters, and Other Mythical Creatures, PL, 2004, None, 4.00, 192, 18, to-read, Ernst Lehner
+0764155105, 100410, The Book of Dragons & Other Mythical Beasts, PL, 2002, None, 3.79, 128, 86, to-read, Joseph Nigg
+0971843120, 100413, Brinn and the Dragons of Pallan Cliffs, PL, None, None, 4.03, None, 32, to-read, Diana Metz
+0890092419, 100414, The Book Of The Dragon, PL, None, None, 3.22, None, 9, to-read, Judy Allen
+1880323087, 100415, Junior Great Books Series 6: First Semester, PL, None, None, 3.56, 262, 52, to-read, Brenda Shurley
+1880323028, 100416, Junior Great Books, PL, None, None, 4.23, None, 0, to-read, Great Books Foundation
+1880323281, 100417, Junior Great Books, Teacher's Edition (Series 3, Second Semester), PL, 1992, None, 4.00, None, 2, to-read, Great Books Foundation
+1880323109, 100419, Junior Great Books Series 7: Student Anthology, PL, None, None, 4.05, 266, 45, to-read, Great Books Foundation
+1880323257, 100420, Junior Great Books (Teacher's Edition, Series 2, First Semester), PL, None, None, 4.23, None, 0, to-read, Great Books Foundation
+None, 100421, Junior Great Books Read Aloud Program Volume 3, PL, None, None, 3.00, None, 1, to-read, Great Books Foundation
+0786931876, 100423, The Rage (Forgotten Realms: The Year of Rogue Dragons #1), PL, 2004, None, 4.03, 344, 1155, to-read, Richard Lee Byers
+0380707691, 100424, A Book Dragon, PL, 1991, None, 4.01, 197, 255, to-read, Donn Kushner
+0860203360, 100425, Dragons (Usborne Story Books), PL, None, None, 4.13, None, 31, to-read, Christopher Rawson
+0671041525, 100427, Day of the Dragon (WarCraft, #1), PL, 2001, None, 3.81, 378, 6161, to-read, Richard A. Knaak
+0810949008, 100428, Dragons: A Pop-Up Book of Fantastic Adventures, PL, 2006, None, 4.09, 10, 26, to-read, Keith Moseley
+1575450895, 100430, In the Service of Dragons, PL, 2005, None, 2.90, 252, 4, to-read, Robert Stanek
+1592220908, 100431, Crystal Dragon (The Great Migration Duology, #2; Liaden Universe, #2), PL, 2007, None, 4.11, 359, 24, to-read, Sharon Lee
+1878363573, 100432, At the Circus, PL, None, None, 0.00, None, 0, to-read, Sandra Granseth
+0375824154, 100434, The Dragons' Book of Make-Believe, PL, 2003, None, 2.50, 14, 2, to-read, Alison Inches
+0439295017, 100437, Fantastic Beasts and Where to Find Them, PL, 2001, None, 3.99, 42, 1584, to-read, Newt Scamander
+2070549283, 100438, Les Animaux Fantastiques, PL, 2001, None, 3.99, None, 364, to-read, Newt Scamander
+0313306672, 100440, Immortal Monster: The Mythological Evolution of the Fantastic Beast in Modern Fiction and Film, PL, 1999, None, 4.00, 200, 4, to-read, Joseph D. Andriano
+0486995771, 100441, Gesner's Curious and Fantastic Beasts CD-ROM and Book, PL, 2004, None, 3.00, 48, 1, to-read, Konrad Gesner
+0892368888, 100442, Beasts Factual and Fantastic, PL, 2007, None, 3.67, 112, 27, to-read, Elizabeth Morrison
+0679866698, 100443, Beauty and the Beast and Other Fantastic Fairy Tales: A Pop-Up Book, PL, 1995, None, 4.00, 10, 2, to-read, Ron van der Meer
+0595229883, 100444, Dinosaur Memories: Dino-trekking for Beasts of Thunder, Fantastic Saurians, 'Paleo-people,' 'Dinosaurabilia,' and other 'Prehistoria', PL, 2002, None, 0.00, 640, 0, to-read, Allen A. Debus
+0939173476, 100446, Quidditch Through The Ages And Fantastic Beasts And Where To Find Them, PL, 2001, None, 4.40, 150, 59, to-read, J.K. Rowling
+1593070136, 100447, Babes, Beasts, and Brawn, PL, 2006, None, 3.88, 160, 9, to-read, Steve Kiwus
+0060843195, 100448, One Beastly Beast: Two Aliens, Three Inventors, Four Fantastic Tales, PL, 2007, None, 3.54, 176, 232, to-read, Garth Nix
+1600580122, 100449, The Art of Drawing Dragons: Mythological Beasts and Fantasy Creatures, PL, 2007, None, 4.05, 144, 58, to-read, Michael Dobrzycki
+0671413821, 100450, The Captive, PL, 1981, None, 3.94, 207, 46, to-read, Robert Stallman
+0671618296, 100451, The Black Beast (The Book of Isle, #4), PL, 1986, None, 3.78, 192, 2, to-read, Nancy Springer
+0425094529, 100452, The Forgotten Beasts of Eld, PL, 1986, None, 4.09, None, 11, to-read, Patricia A. McKillip
+0879514175, 100454, The Book of the Beast (Secret Books of Paradys, #2), PL, 1991, None, 3.97, 240, 404, to-read, Tanith Lee
+0373806930, 100455, Fabulous Beast, PL, 2000, None, 3.83, 224, 904, to-read, Stephanie James
+1850284105, 100456, Fabulous Beasts, PL, None, None, 3.00, None, 4, to-read, Joyce Hargreaves
+0195095618, 100457, The Book of Fabulous Beasts: A Treasury from Ancient Times to the Present, PL, 1999, None, 3.63, 432, 22, to-read, Joseph Nigg
+0374422540, 100458, Fabulous Beasts, PL, 1999, None, 4.14, 32, 2, to-read, Alison Lurie
+0851156851, 100459, A Dictionary of Fabulous Beasts, PL, 2000, None, 3.95, 168, 16, to-read, Richard Barber
+0714816426, 100460, Fabulous Beasts and Demons, PL, None, None, 4.20, None, 6, to-read, Heinz Adolf Mode
+0879518162, 100461, Fabulous Beasts, PL, None, None, 3.50, None, 2, to-read, Malcolm Ashman
+0807102857, 100463, The Fabulous Beasts: Poems, PL, 1975, None, 3.44, 86, 33, to-read, Joyce Carol Oates
+190444248X, 100464, Dragon Rider (Dragon Rider, #1), PL, 2005, None, 3.97, 527, 71854, to-read, Cornelia Funke
+069111689X, 100465, Here Be Dragons: A Fantastic Bestiary, PL, 2003, None, 3.96, 200, 26, to-read, Ariane Delacampagne
+0671475525, 100466, The Dragon Waiting: A Masque of History, PL, 1983, None, 3.80, 365, 51, to-read, John M. Ford
+1591841496, 100467, Small Giants: Companies That Choose to Be Great Instead of Big, PL, 2007, None, 3.89, None, 3249, to-read, Bo Burlingham
+1418514152, 100468, Facing Your Giants Study Guide, PL, 2006, None, 4.42, 144, 40, to-read, Max Lucado
+0670879835, 100469, Orbiting the Giant Hairball: A Corporate Fool's Guide to Surviving with Grace, PL, 1998, None, 4.11, 224, 4037, to-read, Gordon MacKenzie
+0330303546, 100470, The Giant Jam Sandwich (Piper Picture Books), PL, None, None, 4.25, None, 17, to-read, John Vernon Lord
+0375824774, 100471, The Giant Hug, PL, 2005, None, 4.24, 40, 381, to-read, Sandra Horning
+0374425574, 100472, The Giant's Toe, PL, 2001, None, 3.87, 32, 42, to-read, Brock Cole
+0441379702, 100475, Jack, the Giant Killer (Jack of Kinrowan, #1), PL, 1999, None, 4.13, 186, 1432, to-read, Charles de Lint
+0689867468, 100476, The Sea of Trolls (Sea of Trolls, #1), PL, 2006, None, 4.01, 459, 14209, to-read, Nancy Farmer
+0374479917, 100477, The Trolls, PL, 2001, None, 3.92, 144, 1100, to-read, Polly Horvath
+1581808208, 100478, Fairies, Gnomes & Trolls: Create a Fantasy World in Polymer Clay, PL, 2006, None, 4.15, 127, 104, to-read, Maureen Carlson
+1590172175, 100479, D'Aulaires' Book of Trolls, PL, 2006, None, 4.24, 76, 459, to-read, Ingri d'Aulaire
+0698117913, 100480, Trouble with Trolls, PL, 1999, None, 4.13, 32, 3110, to-read, Jan Brett
+1596690100, 100481, Trolls and Truth: 14 Realities about Today's Church That We Don't Want to See, PL, 2006, None, 4.02, 215, 56, to-read, Jimmy Dorrell
+0007170726, 100482, Troll Fell, PL, 2005, None, 3.63, 336, 71, to-read, Katherine Langrish
+0152021051, 100483, The Toll-Bridge Troll, PL, 2000, None, 3.75, 24, 110, to-read, Patricia Rae Wolff
+1904233570, 100484, The Troll King (Troll King Trilogy), PL, 2005, None, 3.75, None, 13, to-read, John Vornholt
+0802141293, 100485, Troll: A Love Story, PL, 2004, None, 3.59, 278, 2400, to-read, Johanna Sinisalo
+0803292635, 100486, The Trickster and the Troll, PL, 1999, None, 4.32, 110, 21, to-read, Virginia Driving Hawk Sneve
+044100282X, 100487, The Dragon, the Earl, and the Troll (Dragon Knight, #5), PL, 1996, None, 3.80, 442, 692, to-read, Gordon R. Dickson
+0765314266, 100489, The Troll Bridge (A Rock'n' Roll Fairy Tale, #2), PL, 2006, None, 3.47, 240, 443, to-read, Jane Yolen
+006058307X, 100491, Troll Mill (Troll, #2), PL, 2006, None, 3.88, 288, 698, to-read, Katherine Langrish
+0618354034, 100493, The Troll With No Heart in His Body and other Tales of Trolls, from Norway, PL, 2003, None, 4.30, 96, 152, to-read, Lise Lunge-Larsen
+0440402174, 100494, Happy Birthday, Mole and Troll, PL, 1989, None, 4.50, 64, 3, to-read, Tony Johnston
+0810954982, 100495, Gnomes, PL, 2006, None, 4.01, 232, 258, to-read, Wil Huygen
+0743271475, 100496, Lord Vishnu's Love Handles: A Spy Novel (Sort Of), PL, None, None, 3.55, None, 724, to-read, Will        Clarke
+0517270730, 100497, Gnomes, PL, None, None, 4.01, None, 10, to-read, Wil Huygen
+0743271483, 100499, Lord Vishnu's Love Handles: A Spy Novel (Sort Of), PL, 2006, None, 3.55, 304, 99, to-read, Will        Clarke
+1400101751, 100500, Lord Vishnu's Love Handles: A Spy Novel (Sort Of), PL, 2005, None, 3.55, 0, 10, to-read, Will        Clarke
+0810950170, 100501, A Gnome's Christmas, PL, 2004, None, 4.26, 48, 94, to-read, Bruce Goldstone
+1594740100, 100502, Gnome & Garden, PL, 2004, None, 3.67, 64, 11, to-read, Marcus Mennes
+1593270305, 100503, The Official Gnome 2 Developer's Guide, PL, 2004, None, 3.62, 696, 9, to-read, Matthias Warkus
+076242298X, 100504, Wee Little Garden Gnome, PL, 2005, None, 4.00, 32, 17, to-read, Alison Trulock
+0517263130, 100505, The World Guide to Gnomes, Fairies, Elves and Other Little People, PL, None, None, 4.11, None, 716, to-read, Thomas Keightley
+0863153003, 100506, The Gnome Craft Book, PL, 2000, None, 4.21, 180, 18, to-read, Thomas  Berger
+0816732698, 100507, Cooperative Learning: Across the Curriculum, Grades K-6, PL, None, None, 5.00, None, 1, to-read, Troll Books
+0816760012, 100509, Young Orville and Wilbur Wright: First To Fly, PL, None, None, 3.58, None, 0, to-read, Andrew Woods
+0816725942, 100510, Poetry Plus!: Grades K-6, PL, None, None, 5.00, None, 1, professional-resource, Troll Books
+0816731071, 100515, Let's Sing About America, PL, None, None, 0.00, None, 0, to-read, Troll Books
+0816760039, 100519, Young Pocahontas: Indian Princess, PL, None, None, 3.33, None, 1, to-read, Anne Benjamin
+0816732884, 100522, How to Draw Prehistoric Animals, PL, None, None, 3.50, None, 2, to-read, Troll Books
+0893759724, 100523, All about Ponds, PL, 1989, None, 4.00, 31, 1, to-read, Jane Rockwell
+089375885X, 100524, Wonders of Energy (Question & Answer Books (Troll)), PL, 1989, None, 3.00, None, 3, to-read, Lewis Johnson
+089375966X, 100525, All about Deserts (Question & Answer Books), PL, 1989, None, 2.00, None, 0, to-read, John Sanders
+089375899X, 100526, Amazing World of Animals (Question and Answer Book (Troll Associates).), PL, None, None, 0.00, None, 0, to-read, Lawrence Jefferies
+0893759708, 100527, All about Mountains and Volcanoes (Question & Answer Books (Troll)), PL, None, None, 3.33, None, 3, to-read, Elizabeth Marcus
+0816741123, 100528, A Day in the Life of a Baby Dinosaur, PL, 1996, None, 3.33, None, 4, to-read, Lee Randall
+0893758930, 100529, All About Trees (Question and Answer Book), PL, None, None, 5.00, None, 0, give-away-read, Jane Dickinson
+0816711305, 100531, Twas the Night Before Christmas, PL, None, None, 4.00, None, 5, to-read, Troll Books
+0816727856, 100533, The Party Magician (Kit Books), PL, None, None, 0.00, 16, 0, to-read, Troll Books
+0816732779, 100534, Teacher's Messages and Notes Home: Grades 2-6, PL, None, None, 5.00, None, 1, to-read, Troll Books
+0816729255, 100535, Dinosaurs: Pop-Up, PL, None, None, 4.00, None, 0, to-read, Larry Shapiro
+0893758329, 100536, Spring Fun: Dot-To-Dot Activiy Book, PL, None, None, 0.00, None, 0, to-read, Oriental Institute
+0816701156, 100537, Caring for Your Cat, PL, 1985, None, 0.00, 47, 0, to-read, Mark McPherson
+0816725918, 100538, Hands-On Science Activities for Grades K-3, PL, None, None, 0.00, None, 0, to-read, Troll Books
+081672265X, 100540, Orchard of the Crescent Moon (The Magician Trilogy, Book 2), PL, 1990, None, 3.77, None, 16, to-read, Jenny Nimmo
+284055108X, 100544, Les Insoumis (Troll #1), PL, None, None, 3.18, None, 18, to-read, Jean-David Morvan
+0613762533, 100545, Bob, Son of Battle, PL, 1989, None, 3.93, None, 1, to-read, Alfred Ollivant
+0893756458, 100552, Make and Color Christmas Decorations, PL, None, None, 0.00, None, 0, to-read, Jill E. Osborne
+189259725X, 100553, Strangers in Paradise, Volume 14: David's Story, PL, None, None, 4.28, None, 358, to-read, Terry Moore
+1892597357, 100554, Strangers in Paradise, Volume 19: Ever After, PL, None, None, 4.58, None, 372, to-read, Terry Moore
+1892597152, 100555, Strangers in Paradise, Volume 10: Tropic Of Desire, PL, 2001, None, 4.37, 104, 369, to-read, Terry Moore
+1892597276, 100556, Strangers in Paradise, Volume 15: Tomorrow Now, PL, None, None, 4.37, None, 339, to-read, Terry Moore
+0786265175, 100557, The Troll Queen, PL, 2004, None, 3.61, 245, 1, to-read, John Vornholt
+1892597330, 100558, Strangers in Paradise, Volume 17: Tattoo, PL, None, None, 4.37, None, 359, to-read, Terry Moore
+1892597098, 100559, Strangers in Paradise, Volume 7: Sanctuary, PL, None, None, 4.38, 176, 576, to-read, Terry Moore
+0893758957, 100560, Amazing Magnets (Question & Answer Books: Troll), PL, 1989, None, 5.00, None, 0, to-read, David A. Adler
+0816725993, 100561, Be an Artist: Creative Arts Projects, PL, None, None, 0.00, None, 0, to-read, Troll Books
+0816738637, 100562, Butterfly Magic, PL, None, None, 4.75, None, 3, to-read, Melissa Getzoff
+0816724644, 100565, The money book for kids (A Troll survival guide), PL, None, None, 0.00, None, 0, to-read, Nancy Burgeson
+0416672302, 100566, A Book Of Ogres And Trolls, PL, 1972, None, 4.44, 127, 5, to-read, Ruth Manning-Sanders
+0816721963, 100568, United States Atlas for Young People, PL, 1996, None, 0.00, 128, 0, to-read, Kathie Billingslea Smith
+081675991X, 100570, Young George Washington, America's First President, PL, None, None, 3.70, None, 1, to-read, Andrew Woods
+0816714452, 100574, The Troll Monster Pop-Up Book, PL, None, None, 4.40, None, 5, to-read, Karen Ravn
+0816759979, 100577, Young Jackie Robinson: Baseball Hero, PL, None, None, 3.60, None, 11, to-read, Edward Farrell
+1892597047, 100578, Strangers in Paradise, Volume 5: Immortal Enemies, PL, 1998, None, 4.34, None, 546, to-read, Terry Moore
+189259739X, 100579, Strangers In Paradise, Pocket Book 6, PL, 2007, None, 4.50, 288, 1004, graphic-novels, Terry Moore
+189259711X, 100580, Strangers in Paradise, Volume 8: My Other Life, PL, None, None, 4.36, None, 456, to-read, Terry Moore
+1892597039, 100581, Strangers in Paradise, Volume 4: Love Me Tender, PL, 1998, None, 4.33, None, 724, to-read, Terry Moore
+1892597020, 100582, Strangers in Paradise, Volume 3: It's A Good Life, PL, 1997, None, 4.27, None, 943, to-read, Terry Moore
+1892597055, 100583, The Complete Strangers in Paradise, Volume 1, PL, None, None, 4.09, None, 1933, to-read, Terry Moore
+0060568518, 100585, Strangers in Paradise: Treasury Edition, PL, 2004, None, 4.23, 240, 197, to-read, Terry Moore
+0816759936, 100587, Young Harriet Tubman, Freedom Fighter, PL, None, None, 4.07, None, 4, to-read, Anne Benjamin
+0816759871, 100588, Young Amelia Earhart, a Dream to Fly, PL, None, None, 4.00, None, 0, to-read, Sarah Alcott
+0816759855, 100589, Young Abraham Lincoln, Log-Cabin President, PL, None, None, 4.04, None, 0, to-read, Andrew Woods
+0816759995, 100590, Young Martin Luther King, Jr.: "I Have A Dream", PL, None, None, 4.46, None, 0, to-read, Joanne Mattern
+1888444061, 100591, Sheepdog in the Snow, PL, 1996, None, 4.02, None, 20, to-read, Martin Hall
+1892597365, 100592, The Complete Strangers In Paradise, Volume 3, Part 7, PL, 2007, None, 4.62, 256, 78, to-read, Terry Moore
+0810949415, 100593, Goblins! A Survival Guide and Fiasco in Four Parts, PL, 2004, None, 4.19, 88, 2405, to-read, Brian Froud
+1596871784, 100594, Chelsea Morning, PL, None, None, 4.23, None, 36, to-read, Joni Mitchell
+0810909103, 100595, The Faeries Pop-Up Book, PL, 1980, None, 4.61, 12, 48, to-read, Brian Froud
+193378413X, 100596, Brian Froud's World of Faerie, PL, 2007, None, 4.46, 168, 2084, to-read, Brian Froud
+0373223730, 100597, Stranger in Paradise, PL, 1996, None, 3.62, 256, 4, to-read, Amanda Stevens
+1551660385, 100598, Strangers In Paradise, PL, 1995, None, 3.27, 248, 7, to-read, Heather Graham Pozzessere
+0813121345, 100599, New Strangers in Paradise: The Immigrant Experience and Contemporary American Fiction, PL, 1999, None, 3.00, 270, 0, to-read, Gilbert H. Muller
+1892597179, 100600, The Complete Strangers in Paradise, Volume 3, Part 4, PL, 2002, None, 4.47, 208, 102, to-read, Terry Moore
+1892597144, 100601, The Complete Strangers In Paradise, Volume 3, Part 3, PL, 2001, None, 4.51, 288, 112, to-read, Terry Moore
+0508401364, 100602, Strangers in Paradise, PL, 1972, None, 3.42, 170, 35, to-read, Christopher Anvil
+0553096303, 100604, The Wild Wood, PL, 1994, None, 4.02, 221, 129, to-read, Charles de Lint
+0810959429, 100606, Lady Cottington's Pressed Fairy Book: 10 3/4 Anniversary Edition, PL, 2005, None, 4.00, 72, 156, to-read, Terry Jones
+0030619440, 100607, Strangers in Paradise: The Hollywood Emigres, 1933-1950, PL, 1983, None, 2.57, None, 9, to-read, John Russell Taylor
+081420712X, 100608, Stranger in Paradise, PL, 1996, None, 4.14, 255, 3, to-read, Lee K. Abbott
+1594972168, 100609, Strangers in Paradise 2 (Strangers in Paradise Pocket Books #2), PL, None, None, 4.29, None, 11, to-read, Terry Moore
+1843400952, 100610, The Art of Faery, PL, 2003, None, 4.33, 112, 782, to-read, David Riche
+186205648X, 100611, The Goblin Companion, PL, None, None, 4.16, None, 1328, to-read, Brian Froud
+0515072427, 100612, Stranger in Paradise, PL, 1983, None, 1.00, 180, 1, to-read, Laurel Blake
+8484450759, 100613, Oraculo de Las Hadas, PL, None, None, 4.44, None, 2, to-read, Brian Froud
+015201523X, 100615, Are All the Giants Dead?, PL, 1997, None, 4.02, 128, 360, to-read, Mary Norton
+0872264564, 100617, Goblins, PL, 1991, None, 4.59, None, 3, to-read, Brian Froud
+1556709048, 100618, Lady Cottington's Pressed Fairy Journal, PL, 1999, None, 4.00, 112, 47, to-read, Terry Jones
+0760711062, 100620, Lady Cottington's Pressed Fairy Book, PL, None, None, 4.00, None, 41, to-read, Terry Jones
+0330240765, 100621, A Book of Charms and Changelings, PL, None, None, 4.04, None, 0, to-read, Ruth Manning-Sanders
+0333359194, 100624, The Tale of the Dark Crystal, PL, None, None, 4.15, None, 5, to-read, Donna Bass
+6010633850, 100626, Barnabas, Quentin and the Crystal Coffin (Dark Shadows, #19), PL, None, None, 3.88, None, 57, to-read, Marilyn Ross
+0253344085, 100627, The Dark Didn't Catch Me, PL, 2004, None, 3.92, 192, 17, to-read, Crystal Thrasher
+0195141709, 100628, The Birds of Northern Melanesia: Speciation, Ecology & Biogeography, PL, 2001, None, 3.44, 548, 45, to-read, Ernst W. Mayr
+0767920813, 100629, The Universe in a Single Atom: The Convergence of Science and Spirituality, PL, 2006, None, 4.05, 224, 7806, to-read, Dalai Lama XIV
+0766012247, 100630, Adventures with Atoms and Molecules, Book I: Chemistry Experiments for Young People, PL, 1998, None, 4.00, 82, 17, to-read, Robert C. Mebane
+019860632X, 100632, The Atoms of Language: The Mind's Hidden Rules of Grammar, PL, 2002, None, 3.94, None, 0, to-read, Mark C. Baker
+0521457289, 100633, The Ghost in the Atom: A Discussion of the Mysteries of Quantum Physics, PL, 1993, None, 4.11, 176, 173, to-read, Paul Davies
+0942323076, 100634, Skis Against the Atom, PL, None, None, 3.83, None, 108, to-read, Knut Haukelid
+0471595810, 100635, Atoms, Radiation, and Radiation Protection, PL, 1995, None, 4.24, 575, 17, to-read, James E. Turner
+1932394494, 100637, RSS and Atom in Action: Building Applications with Blog Technologies, PL, 2005, None, 2.56, 300, 10, to-read, Dave     Johnson
+0394842952, 100638, The Troll Book, PL, 1980, None, 4.61, 64, 53, to-read, Mike Berenstain
+0316183091, 100639, Atom: An Odyssey from the Big Bang to Life on Earth...and Beyond, PL, 2002, None, 4.02, 320, 413, to-read, Lawrence M. Krauss
+2227137517, 100640, La Physique de Star trek, ou Comment visiter l'univers en pyjama, PL, 1998, None, 3.83, None, 5, to-read, Lawrence M. Krauss
+0060977574, 100641, Beyond Star Trek: From Alien Invasions to the End of Time (The Physics of Star Trek and Beyond, #2), PL, 1998, None, 3.82, 208, 398, to-read, Lawrence M. Krauss
+3453109813, 100642, Die Physik von Star Trek, PL, None, None, 3.83, 207, 15, to-read, Lawrence M. Krauss
+9707771232, 100643, Historia de un átomo, PL, None, None, 4.02, None, 14, to-read, Lawrence M. Krauss
+9561313340, 100644, Miedo a la Física: Una guía para perplejos, PL, None, None, 3.74, 263, 5, to-read, Lawrence M. Krauss
+0465037410, 100645, Quintessence: The Mystery of Missing Mass in the Universe, PL, 2000, None, 3.85, 384, 153, to-read, Lawrence M. Krauss
+0794512127, 100648, Stories of Dragons [With CD], PL, None, None, 4.13, None, 1, to-read, Christopher Rawson
+1885395388, 100649, Flying Serpents and Dragons: The Story of Mankind's Reptilian Past, PL, 1999, None, 3.75, 276, 49, to-read, R.A. Boulay
+0020335202, 100652, Children of the Dragon: The Story of Tiananmen Square, PL, 1990, None, 4.60, 223, 6, to-read, Orville Schell
+0875097030, 100653, Tears for the Smaller Dragon: The Story of Jim and Jean Livingston, PL, None, None, 4.00, None, 4, to-read, Jean Livingston
+075345114X, 100654, A Treasury of Dragon Stories (Read-Aloud Book), PL, 1997, None, 3.66, None, 9, to-read, Margaret Clark
+159030523X, 100655, Tales of the Dancing Dragon: Stories of the Tao, PL, 2007, None, 3.86, 176, 41, to-read, Eva Wong
+0310515114, 100656, From the Claws of the Dragon, PL, 1988, None, 3.86, 134, 10, to-read, Carroll Ferguson Hunt
+0875097006, 100657, The Pearl and the Dragon: The Story of Gerhard and Alma Jacobson, PL, 1997, None, 4.50, None, 3, to-read, S. Winifred Jacobson
+1583225684, 100659, The Shere Hite Reader: New and Selected Writings on Sex, Globalism, and Private Life, PL, 2006, None, 3.97, 560, 34, to-read, Shere Hite
+0810919990, 100660, Animalia, PL, 1997, None, 4.28, 32, 20, to-read, Graeme Base
+1582460124, 100661, Animalia: Thirteen Small Tales, PL, 2004, None, 4.48, 32, 60, to-read, Barbara Helen Berger
+0333454448, 100666, Animalia, PL, 1987, None, 4.28, 32, 4, to-read, Graeme Base
+1588464830, 100667, World of Darkness: Ghost Stories, PL, 2004, None, 3.41, 127, 67, to-read, Rick Chillot
+0884364690, 100668, All about Ghosts, PL, None, None, 4.33, None, 45, to-read, Christopher Maynard
+1565548760, 100669, Ghost Army of World War II, PL, 2001, None, 3.50, 280, 176, to-read, Jack Kneece
+0330240587, 100670, Great Ghosts of the World, PL, None, None, 3.50, None, 2, to-read, Aidan Chambers
+0860201481, 100674, The World of the Unknown: Ghosts, PL, 2000, None, 4.33, 32, 28, to-read, Christopher Maynard
+1594972575, 100675, Rubia de verano, PL, 2006, None, 3.89, 128, 65, to-read, Adrian Tomine
+1896597505, 100676, Summer Blonde, PL, None, None, 3.89, None, 2, to-read, Adrian Tomine
+0586210911, 100680, Raft (Xeelee Sequence, #1), PL, 1992, None, 3.71, 251, 2909, to-read, Stephen Baxter
+0006476201, 100681, Flux (Xeelee Sequence, #3), PL, 1998, None, 3.66, 366, 1209, to-read, Stephen Baxter
+000651183X, 100682, Space, PL, 2001, None, 3.89, 455, 147, to-read, Stephen Baxter
+0345430751, 100683, Manifold: Time, PL, 2000, None, 3.76, 406, 97, to-read, Stephen Baxter
+0061020206, 100684, Silverhair (Mammoth, #1), PL, 2000, None, 3.49, 304, 524, to-read, Stephen Baxter
+0006511821, 100685, Time, PL, 2000, None, 3.76, 464, 180, to-read, Stephen Baxter
+0006498140, 100686, Traces, PL, 1999, None, 3.71, 359, 198, to-read, Stephen Baxter
+0006511856, 100687, Phase Space, PL, 2003, None, 3.88, 426, 480, to-read, Stephen Baxter
+0061051357, 100688, Longtusk (Mammoth, #2), PL, 2002, None, 3.70, 320, 259, to-read, Stephen Baxter
+04650163, 100689, Letters to a Young Lawyer, PL, 2001, None, 3.64, None, 1, to-read, Alan M. Dershowitz
+1844250598, 100690, The Baby Manual, PL, 2003, None, 3.57, None, 19, to-read, Ian Banks
+3035030111, 100691, Alles, Was Männer über Ihre Gesundheit Wissen Sollten, PL, None, None, 3.00, None, 0, to-read, Ian Banks
+0007115881, 100692, The Game-Players of Titan, PL, 2001, None, 3.64, 223, 3076, to-read, Philip K. Dick
+1932841156, 100693, The Player Slayer: The Pocket Guide to Jamming the Player's Game, PL, None, None, 4.00, None, 8, to-read, Ms. T.
+0498073882, 100694, The Lions and the Lambs: Pool Players and the Game Today, PL, 1970, None, 5.00, 167, 1, to-read, Thomas Fensch
+0072820098, 100695, Business Strategy Game Player's Package V7.20 (Manual, Download Code Sticker & CD), PL, 2002, None, 3.60, None, 2, to-read, Arthur A. Thompson Jr.
+0810958821, 100697, Greats of the Game: The Players, Games, Teams, and Managers That Made Baseball History, PL, 2005, None, 3.67, 224, 12, to-read, Ray Robinson
+0807849081, 100699, Much More Than a Game: Players, Owners, and American Baseball since 1921, PL, 2001, None, 3.60, 384, 10, to-read, Robert F. Burk
+0553292811, 100700, Consider Phlebas (Culture #1), PL, 1991, None, 3.86, 497, 184, to-read, Iain M. Banks
+0333454308, 100701, Consider Phlebas, PL, 1987, None, 3.86, None, 1, to-read, Iain M. Banks
+0333441389, 100702, Consider Phlebas, PL, 1987, None, 3.86, 471, 24, to-read, Iain M. Banks
+0312991819, 100703, The Command (Dan Lenson, #8), PL, 2005, None, 4.12, 448, 235, to-read, David Poyer
+0312339615, 100704, The Threat (Dan Lenson, #9), PL, 2006, None, 3.85, 305, 13, to-read, David Poyer
+0671046829, 100705, That Anvil of Our Souls (Civil War at Sea, #3), PL, 2006, None, 3.94, 432, 52, to-read, David Poyer
+0312983859, 100706, Black Storm (Dan Lenson, #7), PL, 2003, None, 3.96, 384, 229, to-read, David Poyer
+0671047418, 100707, A Country of Our Own (Civil War at Sea, #2), PL, 2005, None, 3.98, 448, 55, to-read, David Poyer
+0312927495, 100708, Hatteras Blue (Tiller Galloway, #1), PL, 1992, None, 3.85, 288, 114, to-read, David Poyer
+0671046810, 100709, Fire on the Waters (Civil War at Sea, #1), PL, 2003, None, 3.67, 448, 89, to-read, David Poyer
+0812522982, 100710, Winter in the Heart (Hemlock County, #2), PL, 1994, None, 3.78, None, 52, to-read, David Poyer
+1413004741, 100713, The Wadsworth Anthology of Poetry, Shorter Edition [With CDROM], PL, None, None, 4.17, None, 7, to-read, Jay Parini
+1413014151, 100715, The Wadsworth Anthology of Poetry (Book Only), PL, 2005, None, 3.70, 1760, 10, to-read, Jay Parini
+0753816490, 100716, Henry Wadsworth Longfellow: Selected Poems, PL, 2004, None, 3.50, 128, 14, to-read, Henry Wadsworth Longfellow
+074754686X, 100718, Selected Poems, PL, 1999, None, 3.89, 144, 11, to-read, Henry Wadsworth Longfellow
+0451213475, 100720, The Titans (Kent Family Chronicles, #5), PL, 2004, None, 4.10, 560, 4021, to-read, John Jakes
+076531648X, 100721, Titans of Chaos (Chronicles of Chaos, #3), PL, 2007, None, 3.95, 319, 1053, to-read, John C. Wright
+0439696364, 100722, Raven's Secret (Teen Titans Chapter Book, #4), PL, 2005, None, 3.88, 64, 35, to-read, J. Torres
+1563899515, 100723, The New Teen Titans Archives, Vol. 2, PL, 2004, None, 4.25, 240, 96, to-read, Marv Wolfman
+141650950X, 100724, Orion's Hounds, PL, 2006, None, 3.78, 379, 939, to-read, Christopher L. Bennett
+1844161234, 100727, Titan God Machine (Titan 1, 2 and 3), PL, 2004, None, 4.12, 256, 37, to-read, Dan Abnett
+0312954220, 100728, Louisiana Blue (Tiller Galloway, #3), PL, 1995, None, 3.72, 352, 79, to-read, David Poyer
+0312954506, 100729, The Passage (Dan Lenson, #4), PL, 1997, None, 3.95, 560, 291, to-read, David Poyer
+0312928467, 100730, Bahamas Blue (Tiller Galloway, #2), PL, 1992, None, 3.77, 289, 84, to-read, David Poyer
+0312964072, 100731, Down to a Sunless Sea (Tiller Galloway, #4), PL, 1998, None, 4.01, 368, 101, to-read, David Poyer
+0312974507, 100732, China Sea (Dan Lenson, #6), PL, 2001, None, 4.02, 416, 286, to-read, David Poyer
+0812507878, 100733, The Dead of Winter (Hemlock County, #1), PL, 1988, None, 3.65, 336, 28, to-read, David Poyer
+078616140X, 100734, The Threat (Dan Lenson, #9), PL, 2006, None, 3.85, None, 0, to-read, David Poyer
+0812548159, 100735, The Only Thing to Fear, PL, 1996, None, 3.76, None, 3, to-read, David Poyer
+1557506892, 100736, The Return Of Philo T. McGiffin, PL, 1997, None, 4.10, 288, 44, to-read, David Poyer
+0375801286, 100739, Elmo's Wash & Dry (Magic Bath Book), PL, 1999, None, 4.00, 8, 7, to-read, Carol Nicklaus
+0720611636, 100741, A Book of Nonsense, PL, 2002, None, 3.89, 144, 113, to-read, Mervyn Peake
+1585679070, 100745, Titus Groan, PL, 2007, None, 3.91, 396, 422, to-read, Mervyn Peake
+0142004677, 100749, Sex, Time, and Power: How Women's Sexuality Shaped Human Evolution, PL, 2004, None, 4.06, 464, 1333, to-read, Leonard Shlain
+1574535633, 100750, Sex, Time, and Power: How Woman's Sexuality Changed the Course of Human Evolution, PL, 2004, None, 4.06, None, 3, to-read, Leonard Shlain
+0316736287, 100751, The Girls' Guide to Life: Take Charge of Your Personal Life, Your School Time, Your Social Scene, and Much More!, PL, 2005, None, 3.92, 144, 11, to-read, Catherine Dee
+0415934524, 100752, Gender in Real Time: Power and Transience in a Visual Age, PL, 2002, None, 3.55, 208, 0, to-read, Kath Weston
+1400095247, 100753, Mi Vida, PL, 2005, None, 3.73, 1152, 4, to-read, Bill Clinton
+0684864037, 100754, The Death of Outrage: Bill Clinton and the Assault on American Ideals, PL, 1999, None, 3.56, 176, 224, to-read, William J. Bennett
+1557284407, 100755, Preface to the Presidency: Selected Speeches of Bill Clinton 1974-1992, PL, 1996, None, 4.50, 420, 1, to-read, Bill Clinton
+0345450337, 100756, Bill Clinton and Black America, PL, 2004, None, 3.60, 320, 7, to-read, Dewayne Wickham
+0822957426, 100757, Postmodern Presidency: Bill Clinton's Legacy in U.S. Politics, PL, 2000, None, 3.86, 312, 7, to-read, Steven E. Schier
+0822508192, 100758, Bill Clinton, PL, 2003, None, 3.00, 112, 5, to-read, Michael           Benson
+0486279901, 100759, Bill Clinton and His Family Paper Dolls, PL, 1994, None, 4.50, 32, 2, to-read, Tom Tierney
+0590465724, 100760, Our 42nd President, Bill Clinton, PL, 1993, None, 2.60, None, 6, to-read, Jack L. Roberts
+0761301291, 100761, Bill Clinton, PL, None, None, 4.00, None, 1, to-read, Robert Cwiklik
+0140341706, 100762, Herbie Jones and the Monster Ball, PL, 1990, None, 3.93, 128, 2, to-read, Suzy Kline
+0976237601, 100763, Through A Monster's Ball Deeply: (A Poet's Four Year Struggle With Pre Emptive War), PL, None, None, 0.00, None, 0, None, G.B. Marcus
+0439318564, 100764, Herbie Jones and The Monster Ball, PL, 2002, None, 3.93, 126, 0, to-read, Suzy Kline
+0307139514, 100765, My Pet Monster, Play Ball, PL, None, None, 5.00, None, 1, to-read, Golden Books
+3551732981, 100767, Dragon Ball, Vol. 6. Das Monster Nummer 8, PL, 1997, None, 4.41, 192, 49, to-read, Akira Toriyama
+1584764732, 100768, Phonics Comics: Spooky Sara - Level 3, PL, 2006, None, 3.62, 24, 9, to-read, Melanie Marks
+0553542583, 100769, Show Time (Super Hoops, Volume 6), PL, None, None, 3.00, None, 2, to-read, Hank Herman
+1570628041, 100770, The Kabbalah of Money: Jewish Insights on Giving, Owning, and Receiving, PL, 2001, None, 4.16, 192, 44, to-read, Nilton Bonder
+8532508766, 100772, A Alma Imoral, PL, 1998, None, 4.23, 136, 207, to-read, Nilton Bonder
+8531201942, 100773, A Cabala da Inveja, PL, 1992, None, 4.38, None, 3, to-read, Nilton Bonder
+987226287X, 100774, Judaismo Para El Siglo XXI, PL, 2006, None, 4.00, None, 0, to-read, Nilton Bonder
+0676518559, 100775, A Shambhala Reader (Autumn 1996), PL, 1996, None, 4.00, None, 1, orient, Shambhala Publications
+1570624488, 100776, Yiddishe Kop: Creative Problem Solving in Jewish Learning, Lore, and Humor, PL, 1999, None, 4.07, 112, 31, to-read, Nilton Bonder
+1570628823, 100777, Our Immoral Soul: A Manifesto of Spiritual Disobedience, PL, 2001, None, 4.23, 128, 10, to-read, Nilton Bonder
+8531202604, 100778, O Crime Descompensa: Um Ensaio Místico Sobre A Impunidade, PL, None, None, 4.50, None, 3, to-read, Nilton Bonder
+0471770884, 100779, Reminiscences of a Stock Operator, PL, 1923, None, 4.19, 308, 10698, to-read, Edwin Lefèvre
+1590303326, 100780, Kabbalah of Envy, PL, 1997, None, 4.38, 224, 2, to-read, Nilton Bonder
+0471678767, 100781, Reminiscences of a Stock Operator, PL, 2004, None, 4.19, 253, 78, to-read, Edwin Lefèvre
+1570622949, 100782, The Kabbalah of Envy: Transforming Hatred, Anger, and Other Negative Emotions, PL, 1997, None, 4.38, 216, 30, to-read, Nilton Bonder
+0871923890, 100783, The Great Clay Adventure: Creative Handbuilding Projects for Young Artists, PL, 1999, None, 4.00, 144, 4, to-read, Ellen Kong
+0814783058, 100784, Friendly Advice by Naráyana and King Víkrama's Adventures (Clay Sanskrit Library), PL, 2007, None, 4.00, 737, 1, to-read, Judit Törzsök
+0140376283, 100786, Phoenix Rising, PL, 1995, None, 3.94, 192, 1557, to-read, Karen Hesse
+0812972171, 100787, When Hollywood Had a King: The Reign of Lew Wasserman, Who Leveraged Talent into Power and Influence, PL, 2004, None, 3.94, 528, 85, to-read, Connie Bruck
+0140120904, 100788, The Predators' Ball: The Inside Story of Drexel Burnham and the Rise of the Junk Bond Raiders, PL, 1989, None, 4.07, 400, 3159, to-read, Connie Bruck
+0140244549, 100789, Master of the Game: Steve Ross and the Creation of Time Warner, PL, None, None, 3.64, None, 67, to-read, Connie Bruck
+1558001360, 100790, The Predators' Ball, PL, None, None, 4.07, None, 2, to-read, Connie Bruck
+0306804840, 100792, Eva Hesse, PL, 1992, None, 4.45, 256, 233, to-read, Lucy R. Lippard
+0224008048, 100793, Wandering, PL, 1972, None, 4.03, 119, 875, to-read, Hermann Hesse
+9875661155, 100795, Narciso y Goldmundo, PL, None, None, 4.21, None, 344, to-read, Hermann Hesse
+348688638X, 100796, Hermann Hesse: Demian, Die Geschichte Von Emil Sinclairs Jugend:  Unterm Rad:  Interpretation, PL, None, None, 4.73, None, 16, to-read, Helga Esselborn-Krumbiegel
+0321329503, 100799, American Government: Readings and Cases, PL, 2005, None, 3.38, 512, 22, to-read, Peter Woll
+073520019X, 100800, Breakthrough Rapid Reading, PL, 1998, None, 3.75, 304, 727, to-read, Peter Kump
+0155061232, 100801, Reading to Write: Composition in Context, PL, 2001, None, 0.00, 590, 0, to-read, Peter Elias Sotiriou
+0521653738, 100802, An Independent Study Guide to Reading Latin, PL, 2000, None, 3.89, 281, 30, to-read, Peter Jones
+1852243570, 100803, Peter Reading: Collected Poems 1985-1996, PL, 1997, None, 4.33, 318, 10, to-read, Peter Reading
+0262621142, 100804, Readings in the Philosophy of Language, PL, 1997, None, 3.69, 1091, 11, to-read, Peter Ludlow
+1573123145, 100805, Reading 1 and 2 Peter and Jude: A Literary and Theological Commentary, PL, 2013, None, 3.50, 394, 2, to-read, Earl Richard
+0440413478, 100806, Peter Spier's Rain, PL, 1997, None, 4.22, 40, 566, to-read, Peter Spier
+1852244674, 100809, Reading Peter Reading, PL, 2000, None, 4.67, 320, 4, currently-reading, Isabel Martin
+1556441835, 100811, Peter Matthiessen Reading The Snow Leopard (Excerpts) And "On The River Styx" (Short Story), PL, 1987, None, 4.00, 78, 2, to-read, Peter Matthiessen
+0060088303, 100812, The Good Book: Reading the Bible with Mind and Heart, PL, 2002, None, 4.08, 400, 1363, to-read, Peter J. Gomes
+0814207596, 100817, Before Reading: Narrative Conventions and the Politics of Interpretation, PL, 1998, None, 3.57, 249, 27, to-read, Peter J. Rabinowitz
+0321473140, 100818, American Government: Readings & Cases, PL, 2007, None, 3.38, 446, 6, to-read, Peter Woll
+086091755X, 100820, Readings and Writings: Semiotic Counter-Strategies, PL, 1985, None, 4.50, 228, 6, to-read, Peter Wollen
+1405146923, 100821, The Performance of Reading: An Essay in the Philosophy of Literature, PL, 2006, None, 3.73, 155, 10, to-read, Peter Kivy
+007241376X, 100823, The Art of Critical Reading: Brushing Up on Your Reading, Thinking, and Study Skills, PL, 2004, None, 3.28, 559, 2, to-read, Peter Mather
+None, 100824, titulo, PL, 2007, None, 0.00, None, 0, to-read, autor
+185224321X, 100825, Collected Poems: Poems 1970-1984, PL, None, None, 3.77, None, 14, to-read, Peter Reading
+1852246251, 100826, Collected Poems: Poems 1997-2003, PL, None, None, 4.60, None, 5, to-read, Peter Reading
+8120328795, 100827, Options, Futures and Other Derivatives, PL, None, None, 4.12, None, 735, to-read, John C. Hull
+0131499068, 100828, Students Solutions Manual for Options, Futures, and Other Derivatives, Sixth Edition, PL, 2005, None, 3.99, 227, 34, to-read, John C. Hull
+0131977059, 100829, Studyguide for Options, Futures, and Other Derivatives by Hull, ISBN 9780130090560, PL, 2013, None, 3.00, 284, 1, to-read, Cram101 Textbook Reviews
+8120322371, 100830, Options, Futures, and Other Derivatives, PL, 1989, None, 4.12, 745, 2, to-read, John C. Hull
+0130091448, 100831, Options, Futures and Other Derivatives, Solutions Manual, PL, None, None, 3.99, None, 9, to-read, John C. Hull
+8178089394, 100832, Options, Futures & Other Derivatives, PL, None, None, 4.12, 744, 1, to-read, John C. Hull
+0553803549, 100834, A World Undone: The Story of the Great War, 1914 to 1918, PL, 2006, None, 4.37, 704, 4588, to-read, G.J. Meyer
+0826514014, 100835, Apocalypse Undone: My Survival of Japanese Imprisonment During World War II, PL, 1990, None, 4.00, 276, 1, to-read, Preston John Hubbard
+0743453190, 100837, Alternatives to Sex, PL, 2007, None, 3.36, 304, 745, to-read, Stephen McCauley
+0876309678, 100839, New Directions in Sex Therapy: Innovations and Alternatives, PL, 2001, None, 3.92, 416, 13, to-read, P. Kleinplatz
+141964193X, 100843, Doin One For The Team: Years In The Swinging Lifestyle, PL, None, None, 0.00, None, 0, to-read, Simbaxxx
+0449908186, 100845, Italian Neighbors: Or, A Lapsed Anglo-Saxon in Verona, PL, 1993, None, 3.71, 288, 70, to-read, Tim Parks
+1931885540, 100846, The Adventures of Constantine Cavafy, PL, 2007, None, 4.75, 112, 4, to-read, Duane Michals
+0715632086, 100847, Cavafy: A Biography, PL, 2002, None, 3.62, 222, 5, to-read, Robert Liddell
+1576871827, 100848, Fragments from the Delta Venus, PL, 2004, None, 3.78, 102, 9, to-read, Judy Chicago
+0684838508, 100849, The Sexual State of the Union, PL, 1998, None, 3.83, 256, 214, to-read, Susie Bright
+0743258509, 100850, The Best American Erotica 2005, PL, 2005, None, 3.50, 240, 14, to-read, Susie Bright
+156025551X, 100851, Mommy's Little Girl: On Sex, Motherhood, Porn, and Cherry Pie, PL, 2003, None, 3.81, 172, 103, to-read, Susie Bright
+0743289625, 100852, The Best American Erotica 2007, PL, 2007, None, 3.48, 256, 95, to-read, Susie Bright
+1573440779, 100853, Susie Sexpert's Lesbian Sex World, PL, 1998, None, 3.87, 154, 10, to-read, Susie Bright
+0739417207, 100854, How To Read/Write a Dirty Story, PL, 2001, None, 3.84, 261, 12, to-read, Susie Bright
+0062515918, 100856, Full Exposure: Opening Up to Sexual Creativity and Erotic Expression, PL, 2000, None, 3.84, 176, 219, to-read, Susie Bright
+0590600915, 100858, Where the Wild Things Are, PL, 1989, None, 4.22, None, 0, to-read, Maurice Sendak
+159558112X, 100859, Pretensions to Empire: Notes on the Criminal Folly of the Bush Administration, PL, 2006, None, 3.64, 304, 22, to-read, Lewis H. Lapham
+3426616904, 100862, About A Boy, PL, 2003, None, 3.80, 320, 168, to-read, Nick Hornby
+0451089278, 100864, What Makes a Man Good in Bed, PL, 1979, None, 5.00, None, 1, to-read, Wendy Leigh
+1595581367, 100866, Enemy Combatant, PL, 2006, None, 4.14, 397, 313, to-read, Moazzam Begg
+1422008568, 100870, 2007 Manual for Military Commissions, Defense Department Rules for Prosecution of Alien Unlawful Enemy Combatants, Rules of Evidence, Crimes, Elements (Ring-bound), PL, 2007, None, 0.00, 237, 0, to-read, U.S. Department of Defense
+None, 100873, The Sirens of Titan, PL, 1959, None, 4.16, 319, 9, to-read, Kurt Vonnegut Jr.
+0791078485, 100874, Kurt Vonnegut, PL, 2004, None, 3.45, 153, 13, to-read, John Tomedi
+0804464588, 100875, Kurt Vonnegut, PL, None, None, 3.44, None, 0, to-read, James Lundquist
+090650080X, 100876, What Night Brings, PL, None, None, 4.17, None, 5, to-read, Carla Trujillo
+155876206X, 100877, Trujillo: The Death of a Dictator, PL, 2017, None, 4.09, 286, 38, to-read, Bernard Diederich
+1597800120, 100878, Trujillo, PL, 2005, None, 4.05, 192, 38, to-read, Lucius Shepard
+0131438883, 100880, Introductory Oceanography, PL, 2003, None, 3.80, 608, 18, to-read, Harold V. Thurman
+0965005305, 100881, Trujillo: The Chief, PL, None, None, 0.00, None, 0, to-read, Nat Carnes
+037010286X, 100882, Trujillo, PL, None, None, 4.09, None, 1, to-read, Bernard Diederich
+0132401223, 100883, Essentials of Oceanography, PL, None, None, 3.84, None, 56, to-read, Alan P. Trujillo
+0131447807, 100884, Essentials of Oceanography [with Student Lecture Notebook], PL, 2004, None, 3.84, None, 0, to-read, Alan P. Trujillo
+0802138322, 100885, The Wig My Father Wore, PL, 2001, None, 3.01, 224, 271, to-read, Anne Enright
+0224040553, 100886, The Wig My Father Wore, PL, 1995, None, 3.01, 216, 4, to-read, Anne Enright
+047000746X, 100887, Frommer's England 2007, PL, None, None, 3.66, None, 6, to-read, Darwin Porter
+0471792802, 100888, Frommer's New England, PL, None, None, 3.71, None, 9, to-read, Paul Karr
+1598800035, 100889, Rick Steves' England 2007, PL, 2006, None, 4.35, 512, 4, to-read, Rick Steves
+0470105704, 100890, Frommer's New England's Best-Loved Driving Tours, PL, 2007, None, 3.82, 208, 7, to-read, Kathy Arnold
+092527917X, 100891, The New England Primer, PL, 2004, None, 4.11, 86, 129, to-read, Wallbuilders Press
+0976203952, 100892, Management Secrets of the New England Patriots: From Patsies to Two-Time Super Bowl Champs; Vol. 1: Achievements, Personnel, Teamwork, Motivation, a, PL, 2005, None, 4.05, 420, 20, to-read, James Lavin
+2070417646, 100893, England, England, PL, 2002, None, 3.34, 441, 3729, to-read, Julian Barnes
+0618001026, 100894, This Realm of England, Volume 2, PL, 2000, None, 3.62, 419, 144, to-read, Lacey Baldwin Smith
+1400017254, 100895, Fodor's England: With the Best of Wales [With Pulout Map], PL, None, None, 3.89, None, 0, to-read, Fodor's Travel Publications Inc.
+0896586081, 100896, Backroads of New England: Your Guide To New England's Most Scenic Backroad Adventures, PL, 2004, None, 3.82, 160, 12, to-read, Kim Knox Beckius
+1400030870, 100897, Something to Declare: Essays on France and French Culture, PL, 2003, None, 3.56, 320, 34, to-read, Julian Barnes
+0306811561, 100898, The Odds: One Season, Three Gamblers And The Death Of Their Las Vegas, PL, 2002, None, 3.79, 288, 365, to-read, Chad Millman
+0316734969, 100899, The Detonators: The Secret Plot to Destroy America and an Epic Hunt for Justice, PL, 2006, None, 3.54, 352, 82, to-read, Chad Millman
+1859842437, 100900, Pickup Artists: Street Basketball in America, PL, 1999, None, 3.81, 214, 19, to-read, Lars Anderson
+1401308848, 100901, Invincible: My Journey from Fan to NFL Team Captain, PL, 2006, None, 3.99, 224, 215, to-read, Vince Papale
+0805081275, 100902, The Somme: Heroism and Horror in the First World War, PL, 2006, None, 3.84, 352, 293, to-read, Martin  Gilbert
+0297846892, 100903, Through German Eyes: The British and the Somme, 1916, PL, 2007, None, 3.72, 384, 31, to-read, Christopher Duffy
+0756624770, 100904, Somme: Then and Now A Visual History, PL, 2006, None, 4.08, 208, 14, to-read, Duncan Youel
+0300119631, 100905, The Somme, PL, 2006, None, 3.89, 368, 68, to-read, Robin Prior
+0304367354, 100906, The Somme, PL, 2007, None, 4.01, 608, 27, to-read, Peter Hart
+1844155137, 100907, The German Army on the Somme 1914-1916, PL, 2007, None, 4.06, 432, 5, to-read, Jack Sheldon
+0140171347, 100909, The First Day on the Somme, PL, 1992, None, 4.28, 355, 24, to-read, Martin Middlebrook
+0140178678, 100910, Somme, PL, 1993, None, 4.23, 384, 567, to-read, Lyn Macdonald
+1844154653, 100911, The First Day on the Somme, PL, 2003, None, 4.28, 365, 791, to-read, Martin Middlebrook
+0340800402, 100912, Sylvia Plath: A Beginner's Guide, PL, 2001, None, 3.60, 96, 3, to-read, Gina Wisker
+None, 100915, The Lion, the Witch and the Wardrobe (Chronicles of Narnia, #2), PL, 2005, None, 4.22, 206, 1989299, to-read, C.S. Lewis
+0781442125, 100916, The Soul of the Lion Witch, & the Wardrobe, PL, 2005, None, 3.69, 240, 104, to-read, Gene Edward Veith Jr.
+158743122X, 100917, Seeking the Secret Place: The Spiritual Formation of C. S. Lewis, PL, 2004, None, 4.12, 182, 62, to-read, Lyle Wesley Dorsett
+0521645840, 100918, Studies in Medieval and Renaissance Literature, PL, 1998, None, 4.19, 212, 175, to-read, C.S. Lewis
+0156027984, 100919, Narrative Poems, PL, 2002, None, 3.64, 192, 130, to-read, C.S. Lewis
+0739411462, 100920, The Space Trilogy: Out of the Silent Planet, Perelandra, That Hideous Strength, PL, None, None, 4.13, 724, 176, to-read, C.S. Lewis
+0786193670, 100921, Out of the Silent Planet (Space Trilogy, #1), PL, 2000, None, 3.93, None, 1, to-read, C.S. Lewis
+0007117930, 100923, Out of the Silent Planet and Perelandra (Space Trilogy, #1 and #2), PL, None, None, 4.14, None, 463, to-read, C.S. Lewis
+0007157169, 100924, Perelandra (The Space Trilogy, #2), PL, 2005, None, 3.99, 288, 34422, to-read, C.S. Lewis
+0927978121, 100925, Perelandra Garden Workbook: A Complete Guide to Gardening with Nature Intelligences, PL, 1993, None, 4.29, 334, 59, to-read, Machaelle Small Wright
+092797813X, 100927, Perelandra Garden Workbook II: Co-Creative Energy Processes for Gardening, Agriculture and Life, PL, 1994, None, 4.45, 199, 32, to-read, Machaelle Small Wright
+0927978571, 100928, Perelandra Microbial Balancing Program Manual: Revised and User-Friendly, PL, None, None, 4.33, None, 16, to-read, Machaelle Small Wright
+0380201577, 100929, Perelandra (Space Trilogy, #2), PL, 1954, None, 3.99, None, 14, to-read, C.S. Lewis
+0927978210, 100930, Perelandra Microbial Balancing Program Manual, PL, 1996, None, 4.33, 168, 2, to-read, Machaelle Small Wright
+8445075985, 100931, Perelandra: Un viaje a Venus (Trilogía Cósmica, #2), PL, 2006, None, 3.99, 310, 86, to-read, C.S. Lewis
+0007157177, 100933, That Hideous Strength (The Space Trilogy, #3), PL, 2005, None, 3.88, 534, 25289, to-read, C.S. Lewis
+0425210235, 100934, Don't Eat This Book, PL, 2006, None, 3.70, 308, 1967, to-read, Morgan Spurlock
+0937804649, 100936, Clean and Well Lit: Selected Poems, 1987-1995, PL, 1996, None, 4.58, 106, 24, to-read, Tom Raworth
+1560774134, 100943, Things Fall Apart No Longer At Ease (Chinua Achebe): Curriculum Unit, PL, None, None, 5.00, None, 1, to-read, Ruth L. Van Arsdale
+0435280910, 100944, Things Fall Apart  Chinua Achebe, PL, 1974, None, 3.84, 10, 142, to-read, Gerald  Moore
+None, 100945, Vile Bodies, PL, 2000, None, 3.79, 201, 749, to-read, Evelyn Waugh
+379131940X, 100946, Vile Bodies: Photography and the Crisis of Looking, PL, 1998, None, 3.20, 160, 5, to-read, Chris Townsend
+0237511568, 100948, Revising Things Fall Apart By Chinua Achebe: A Study Guide, PL, None, None, 5.00, None, 1, to-read, Aidan Williams
+0521397227, 100950, Chinua Achebe: Things Fall Apart (Landmarks Of World Literature), PL, None, None, 4.12, None, 18, to-read, F. Abiola Irele
+0374150400, 100951, Everything to Live for, PL, 1968, None, 3.77, 224, 14, to-read, Paul Horgan
+0890966400, 100952, Nueva Granada: Paul Horgan and the Southwest, PL, 1995, None, 5.00, 160, 1, to-read, Robert Franklin Gish
+0553106775, 100953, Valley Of The Dolls, PL, 1967, None, 3.75, 500, 254, to-read, Jacqueline Susann
+1930722583, 100954, Single Woman of a Certain Age: 29 Women Writers on the Unmarried Midlife -- Romantic Escapades, Heavy Petting, Empty Nests, Shifting Shapes and Serene Independence, PL, 2005, None, 3.57, 256, 61, to-read, Jane Ganahl
+0060908335, 100956, Women of a Certain Age: The Midlife Search for Self, PL, None, None, 3.80, None, 5, to-read, Lillian B. Rubin
+0385496117, 100957, A Certain Age, PL, 2000, None, 3.16, 336, 962, to-read, Tama Janowitz
+0231101511, 100959, A Certain Age: Reflections on Menopause, PL, 1995, None, 0.00, 236, 0, to-read, Joanna Goldsworthy
+0747545340, 100962, A Certain Age, PL, None, None, 3.16, None, 13, to-read, Tama Janowitz
+0688178448, 100964, Sherlock in Love, PL, 2001, None, 3.31, 240, 508, to-read, Sena Jeter Naslund
+006093669X, 100965, Four Spirits, PL, 2009, None, 3.79, 560, 1734, to-read, Sena Jeter Naslund
+0688178456, 100966, The Disobedience of Water, PL, 2000, None, 3.44, 224, 246, to-read, Sena Jeter Naslund
+0060825391, 100967, Abundance, PL, 2006, None, 3.73, 556, 8962, to-read, Sena Jeter Naslund
+0935331085, 100968, Ice Skating at the North Pole, PL, None, None, 3.74, None, 20, to-read, Sena Jeter Naslund
+093533114X, 100969, The Animal Way to Love, PL, None, None, 4.00, None, 8, to-read, Sena Jeter Naslund
+1580051219, 100970, Bare: The Naked Truth About Stripping, PL, 2004, None, 3.54, 344, 548, to-read, Elisabeth Eaves
+033043358X, 100972, Bridget Jones: The Edge of Reason, PL, 2004, None, 3.58, 422, 672, to-read, Helen Fielding
+0330373234, 100973, Bridget Jones: The Edge Of Reason, PL, None, None, 3.58, 422, 317, to-read, Helen Fielding
+2290316210, 100974, Bridget Jones: L'Age de Raison, PL, 2002, None, 3.58, 404, 184, to-read, Helen Fielding
+1596911514, 100975, The Wisdom of Uncle Kasimir, PL, 2006, None, 3.00, 224, 9, to-read, Gabi Czerniak
+1844763994, 100976, Best-Ever Comfort Food Recipes: Feed the Soul and Heal the Heart with Classic, Traditional and Familiar Recipes Just Like Mother Used to Make, PL, 2007, None, 3.62, 160, 1, to-read, Bridget Jones
+070637620X, 100977, Mrs. Beeton's Best of British Home Cooking, PL, 1997, None, 4.15, 224, 2, to-read, Isabella Beeton
+1844762424, 100978, Sweet Comfort Food: Glorious Desserts and Treats Like Mother Used to Make, PL, None, None, 4.00, None, 2, to-read, Bridget Jones
+0826474675, 100979, Plato's Republic: A Reader's Guide, PL, 2006, None, 3.50, 168, 2, to-read, Luke Purshouse
+0915144034, 100980, Plato's Republic, PL, 1977, None, 3.94, None, 45, to-read, Plato
+1853992542, 100981, Republic 1, PL, 2009, None, 3.92, 144, 1, to-read, Plato
+0415299977, 100982, Routledge Philosophy Guidebook to Plato and the Republic (Routledge Philosophy Guidebooks), PL, 2003, None, 3.61, 272, 5, to-read, Nickolas Pappas
+1405115645, 100983, The Blackwell Guide to Plato's Republic, PL, 2005, None, 3.00, 292, 5, to-read, Gerasimos Xenophon Santas
+0300109628, 100984, Plato's Republic: A Study, PL, 2005, None, 3.96, 432, 27, to-read, Stanley Rosen
+1402189885, 100985, The Republic of Plato, PL, 2002, None, 3.94, 349, 14, to-read, Plato
+0844669326, 100986, The Denial of Death, PL, None, None, 4.15, None, 12, to-read, Ernest Becker
+0029023106, 100987, The Denial of Death, PL, 1975, None, 4.15, 336, 31, to-read, Ernest Becker
+0939165430, 100988, Death Without Denial, Grief Without Apology: A Guide for Facing Death and Loss, PL, 2002, None, 4.33, 100, 33, to-read, Barbara K. Roberts
+0870235826, 100989, Shakespeare & The Denial Of Death, PL, 1988, None, 4.50, None, 0, to-read, James L. Calderwood
+0275974200, 100990, Death and Denial: Interdisciplinary Perspectives on the Legacy of Ernest Becker, PL, 2002, None, 4.17, 320, 7, to-read, W.D. Wright
+014003997X, 100991, Rosebud, PL, None, None, 3.48, None, 27, to-read, Joan Hemingway
+1565046196, 100992, Mediums: Speakers with the Dead, PL, 1997, None, 3.59, None, 17, to-read, Ronni Radner
+1423600029, 100993, Atomic Ranch: Design Ideas for Stylish Ranch Homes, PL, 2006, None, 4.07, 192, 223, to-read, Michelle Gringeri-Brown
+1561587419, 100995, Ranches: Design Ideas for Renovating, Remodeling, and Building New, PL, 2006, None, 3.71, 202, 23, to-read, M. Caren Connolly
+0060187182, 100996, Canyon Ranch Cooking: Bringing the Spa Home, PL, 1998, None, 3.94, 448, 34, to-read, Jeanne Jones
+0892966866, 100997, L.A. Noir, PL, 1998, None, 3.96, 644, 1276, to-read, James Ellroy
+0380731770, 100998, Brown's Requiem, PL, 1998, None, 3.50, 256, 1904, to-read, James Ellroy
+1597896470, 100999, Petticoat Ranch (Lassoed in Texas, #1), PL, 2007, None, 4.18, 288, 2709, to-read, Mary Connealy
+0375727361, 101000, White Jazz (L.A. Quartet, #4), PL, 2001, None, 3.94, 368, 6932, to-read, James Ellroy
+000692526X, 101001, The Secret of Shadow Ranch (Nancy Drew Mystery Stories, #5), PL, 1992, None, 3.94, 160, 14965, to-read, Carolyn Keene
+060960628X, 101003, Ranch House Style, PL, None, None, 3.57, None, 32, to-read, Katherine Samon
+0380805294, 101004, Clandestine, PL, 1999, None, 3.72, 328, 2975, to-read, James Ellroy
+1594862265, 101005, The Imus Ranch: Cooking for Kids and Cowboys, PL, 2005, None, 3.58, 224, 33, to-read, Deirdre Imus
+0715318373, 101006, Life Lessons From A Ranch Horse, PL, None, None, 4.44, None, 7, to-read, Mark Rashid
+009944674X, 101007, Destination: Morgue, PL, 2005, None, 3.32, None, 23, to-read, James Ellroy
+0385333285, 101008, Hollywood Nocturnes, PL, 1998, None, 3.77, 304, 2132, to-read, James Ellroy
+0099406381, 101009, The Dudley Smith Trio, PL, 1999, None, 4.45, 1334, 272, to-read, James Ellroy
+0099279991, 101010, Crime Wave, PL, 1999, None, 3.59, 292, 41, to-read, James Ellroy
+0099649403, 101011, White Jazz, PL, 1994, None, 3.94, 416, 107, to-read, James Ellroy
+8440665075, 101012, América, PL, 1997, None, 4.21, 568, 27, to-read, James Ellroy
+0099539705, 101014, Silent Terror, PL, 1990, None, 3.63, 280, 101, to-read, James Ellroy
+0739120026, 101016, Like Hot Knives to the Brain: James Ellroy's Search for Himself (Pbk), PL, 2006, None, 2.50, 266, 1, to-read, Peter Wolfe
+2743602678, 101017, American Tabloid, PL, 1997, None, 4.21, 780, 89, to-read, James Ellroy
+0712675884, 101018, My Dark Places, PL, 1996, None, 3.88, 355, 36, to-read, James Ellroy
+8440699662, 101019, Seis de Los Grandes, PL, 2001, None, 4.01, 878, 31, to-read, James Ellroy
+1560256885, 101020, The Badge: True and Terrifying Crime Stories That Could Not Be Presented on TV, from the Creator and Star of Dragnet, PL, 2005, None, 3.61, 348, 165, to-read, Jack Webb
+0345416600, 101021, Dave Barry Slept Here: A Sort of History of the United States, PL, 1997, None, 3.98, 239, 4208, to-read, Dave Barry
+051706457X, 101022, Dave Barry Slept Here, PL, 1991, None, 3.98, 0, 4, to-read, Dave Barry
+0517149184, 101023, Dave Barry: Four Complete Books (The World According to Dave Barry Containing Dave Barry Talks Back, Dave Barry Turns 40, Dave Barry's Greatest Hits) PLUS Dave Barry Slept Here, a Random House Audio Book, PL, 1996, None, 4.10, 0, 10, to-read, Dave Barry
+0676978037, 101025, Iran Awakening: From Prison to Peace Prize: One Woman's Struggle at the Crossroads of History, PL, 2007, None, 4.14, 256, 34, to-read, Shirin Ebadi
+1884167454, 101026, Born Into Brothels: Photographs by the Children of Calcutta, PL, 2005, None, 4.44, 97, 70, to-read, Zana Briski
+0449006581, 101027, Brothel: Mustang Ranch and Its Women, PL, 2002, None, 3.68, 272, 1745, to-read, Alexa Albert
+1930074131, 101028, God's Brothel: The Extortion of Sex for Salvation, PL, None, None, 3.61, None, 448, to-read, Andrea Moore-Emmett
+0786867876, 101029, The Floating Brothel: The Extraordinary True Story of an Eighteenth-Century Ship and Its Cargo of Female Convicts, PL, 2002, None, 3.63, 236, 882, to-read, Siân Rees
+0929712587, 101030, Madam: Inside a Nevada Brothel, PL, 2003, None, 3.79, 360, 54, to-read, Lora Shaner
+0826333427, 101031, Brothels, Bordellos, & Bad Girls: Prostitution in Colorado, 1860-1930, PL, 2004, None, 3.55, 310, 54, to-read, Jan MacKell
+1568984189, 101032, Brothels of Nevada: Candid Views of America's Legal Sex Industry, PL, 2003, None, 3.60, 192, 12, to-read, Alexa Albert
+0747266328, 101033, The Floating Brothel, PL, 2002, None, 3.63, 256, 100, to-read, Siân Rees
+1581125011, 101034, Diary of a Legal Prostitute: Nevada Brothels, PL, 2004, None, 2.78, 176, 10, to-read, Michelle Maverick
+0521855055, 101035, Sisters in Sin, PL, 2006, None, 4.20, 265, 5, to-read, Katie N. Johnson
+0787221031, 101036, Quicksilver: Adventure Games, Initiative Problems, Trust Activities and a Guide to Effective Leadership, PL, 2013, None, 4.03, 304, 38, to-read, Karl Rohnke
+0765352699, 101037, Cat in a Quicksilver Caper (Midnight Louie, #18), PL, 2007, None, 3.90, 384, 314, to-read, Carole Nelson Douglas
+0440238455, 101038, Quicksilver, PL, 2006, None, 3.68, 240, 710, to-read, Stephanie Spinner
+0972101802, 101040, My Husband The Rock Star: Ten Years With Quicksilver Messenger Service, PL, None, None, 3.25, None, 10, to-read, Shelley L. Duncan
+0451453050, 101041, Deadly Quicksilver Lies (Garrett Files, #7), PL, 1994, None, 4.05, 304, 2017, to-read, Glen Cook
+0671028545, 101042, Quicksilver, PL, 2000, None, 3.98, 752, 36, to-read, Judith Reeves-Stevens
+0821731173, 101043, Quicksilver Passion (Panorama of the Old West #7), PL, 1990, None, 3.93, 448, 54, to-read, Georgina Gentry
+0007141505, 101044, Quicksilver Rising (Dreamtime #1), PL, None, None, 3.38, 325, 96, to-read, Stan Nicholls
+0330323695, 101046, Parliament Of Whores: A Lone Humorist Attempts To Explain The Entire U. S. Government, PL, None, None, 4.01, None, 70, to-read, P.J. O'Rourke
+0999006207, 101047, Parliament of Whores, PL, 1991, None, 4.01, None, 4, to-read, P.J. O'Rourke
+0886822335, 101048, All the Troubles of the World, PL, 1989, None, 4.28, 32, 137, to-read, Isaac Asimov
+074321529X, 101049, A Whole World of Trouble, PL, 2003, None, 3.17, 224, 46, to-read, Helen Chappell
+0330356313, 101051, All The Trouble In The World, PL, None, None, 3.87, None, 4, to-read, P.J. O'Rourke
+0330343068, 101053, All Troubles In World (A Format), PL, None, None, 3.87, None, 4, to-read, P.J. O'Rourke
+0679742018, 101054, Give War a Chance, PL, 1993, None, 3.86, 233, 100, to-read, P.J. O'Rourke
+0330325353, 101055, Give War a Chance: Eyewitness Accounts of Mankind's Struggle Against Tyranny, Injustice and Alcohol-Free Beer, PL, None, None, 3.86, None, 3, to-read, P.J. O'Rourke
+0679747478, 101056, Give War a Chance, PL, 1993, None, 3.86, 0, 0, to-read, P.J. O'Rourke
+0330325361, 101057, Give War a Chance, PL, None, None, 3.86, 238, 53, to-read, P.J. O'Rourke
+051716616X, 101060, Bachelor Home Companion, PL, 1996, None, 3.72, 0, 1, to-read, P.J. O'Rourke
+0486426823, 101061, Dead Souls, PL, 2003, None, 3.99, 292, 180, to-read, Nikolai Gogol
+0691013268, 101062, Gogol from the Twentieth Century: Eleven Essays, PL, 1995, None, 4.25, 428, 5, to-read, Robert A. Maguire
+1844710467, 101064, Gogol in Rome, PL, 2004, None, 4.21, 112, 32, to-read, Katia Kapovich
+0316103985, 101065, Miracle at Philadelphia: The Story of the Constitutional Convention, May to September 1787, PL, 1986, None, 4.06, 346, 1712, to-read, Catherine Drinker Bowen
+0848825659, 101066, Miracle at Philadelphia, PL, None, None, 4.06, 346, 14, to-read, Catherine Drinker Bowen
+0226391132, 101067, Crisis of the House Divided: An Interpretation of the Issues in the Lincoln-Douglas Debates, PL, 1999, None, 4.41, 460, 117, to-read, Harry V. Jaffa
+0226391124, 101068, Crisis of the House Divided: An Interpretatoin of the Issues in the Lincoln-Douglas Debates (Phoenix Paperback Series), PL, 1982, None, 4.41, 451, 2, to-read, Harry V. Jaffa
+047010872X, 101070, Hacking Ubuntu, PL, 2007, None, 3.95, 388, 23, to-read, Neal Krawetz
+0596007604, 101071, Running Linux, PL, 2005, None, 3.92, 974, 172, to-read, Matthias Kalle Dalheimer
+0143038044, 101078, The War That Made America: A Short History of the French and Indian War, PL, 2006, None, 3.85, 293, 992, to-read, Fred Anderson
+1426200528, 101079, 1001 People Who Made America, PL, 2007, None, 3.03, 352, 36, to-read, Alan Axelrod
+1428115633, 101082, Sharpe's Fury (Sharpe, #11), PL, 2006, None, 4.10, None, 28, to-read, Bernard Cornwell
+1850221642, 101084, Twenty Years At St Hilary, PL, None, None, 3.71, None, 8, to-read, Bernard Walke
+0060956852, 101086, Stonehenge, PL, 2004, None, 3.65, 578, 8703, to-read, Bernard Cornwell
+0500284679, 101087, Stonehenge Complete, PL, 2004, None, 3.93, 312, 62, to-read, Christopher Chippindale
+076242883X, 101088, Build Your Own Stonehenge, PL, None, None, 4.36, None, 13, to-read, Morgan Beard
+1905624085, 101090, The Stonehenge Companion, PL, 2006, None, 3.75, 160, 4, to-read, James  McClintock
+1850748950, 101091, Stonehenge: A History in Photographs, PL, 2004, None, 4.06, 118, 5, to-read, Julian C. Richards
+8497541308, 101092, Stonehenge: La astronomia en la prehistoria, PL, None, None, 3.39, None, 3, to-read, Robin Heath
+0385425139, 101094, The Famished Road, PL, 1993, None, 3.73, 512, 10245, to-read, Ben Okri
+0753806800, 101095, Infinite Riches, PL, 1999, None, 3.77, 394, 260, to-read, Ben Okri
+0099270382, 101097, X5 Famished Road Reading Guide Ex, PL, None, None, 3.00, None, 1, to-read, Ben Okri
+0970881622, 101100, Harvest of Hope, PL, 2003, None, 0.00, 96, 1, to-read, Phil Grout
+0819217824, 101102, Manna in the Wilderness, PL, 1999, None, 4.00, 69, 2, to-read, Bill     Williams
+1581154267, 101106, Marketing and Buying Fine Art Online: A Guide for Artists and Collectors, PL, 2005, None, 3.80, 224, 6, to-read, Marques Vickers
+0881926906, 101107, Design in the Plant Collector's Garden: From Chaos to Beauty, PL, 2005, None, 3.60, 224, 12, to-read, Roger Turner
+0896892913, 101108, Antique Trader Book Collector's Price Guide, PL, 2006, None, 3.79, 448, 15, to-read, Richard Russell
+1582341494, 101109, The Toy Collector, PL, 2001, None, 3.89, 304, 445, to-read, James Gunn
+157432490X, 101110, The Official Precious Moments Collectors Guide to Figurines, PL, 2006, None, 4.14, 448, 4, to-read, John Bomm
+1594489602, 101111, The Kite Runner, PL, 2007, None, 4.30, 329, 720, to-read, Khaled Hosseini
+0500512159, 101112, Sneakers: The Complete Collectors' Guide, PL, 2005, None, 4.08, 256, 82, to-read, Unorthodox Styles
+097023130X, 101113, Burn Collector: Collected Stories from One Through Nine, PL, None, None, 4.28, None, 576, to-read, Al Burian
+0873499255, 101114, Collector Car Restoration Bible: Practical Techniques for Professional Results, PL, 2005, None, 4.00, 400, 3, to-read, Matt Joseph
+1585744859, 101115, Classic & Antique Fly-Fishing Tackle: A Guide for Collectors & Anglers, PL, 2002, None, 4.00, 368, 2, to-read, A.J.  Campbell
+0393004163, 101116, Tremor of Intent, PL, 2004, None, 3.65, 256, 343, to-read, Anthony Burgess
+0393314413, 101117, Honey for the Bears, PL, 1996, None, 3.53, 256, 505, to-read, Anthony Burgess
+0786705752, 101118, Byrne, PL, 1998, None, 3.48, 160, 125, to-read, Anthony Burgess
+0749006722, 101119, The Kingdom of the Wicked, PL, None, None, 3.89, None, 17, to-read, Anthony Burgess
+0312322518, 101120, Anthony Burgess: A Biography, PL, 2004, None, 2.54, 480, 6, to-read, Roger Lewis
+0582552249, 101122, English Literature: A Survey for Students, PL, 1974, None, 4.14, 278, 228, to-read, Anthony Burgess
+0224618458, 101123, M/F, PL, 1971, None, 3.47, 224, 7, to-read, Anthony Burgess
+9630579359, 101125, Will's Son and Jake's Peer: Anthony Burgess's Joycean Negotiations, PL, 2002, None, 0.00, 148, 0, to-read, A.I. Farkas
+0877546762, 101126, Anthony Burgess (Modern Critical Views), PL, 1987, None, 3.50, 192, 4, to-read, Harold Bloom
+None, 101128, The Nude: A Study in Ideal Form, PL, 1972, None, 4.10, 480, 450, to-read, Kenneth  Clark
+0817371060, 101129, Anthony Burgess, PL, 1979, None, 4.00, 272, 2, to-read, Geoffrey Aggeler
+0804421242, 101131, Anthony Burgess, PL, 1981, None, 3.88, 223, 8, to-read, Samuel Coale
+0520219244, 101134, Los Angeles: The Architecture of Four Ecologies, PL, 2001, None, 4.16, 271, 538, to-read, Reyner Banham
+0713902094, 101135, Los Angeles The Architecture Of Four Ecologies, PL, None, None, 4.16, None, 10, to-read, Reyner Banham
+0316189898, 101136, The French Lieutenant's Woman, PL, None, None, 3.87, None, 18, to-read, John Fowles
+031326399X, 101138, John Fowles: A Reference Companion, PL, 1991, None, 3.00, 344, 1, to-read, James R. Aubrey
+2844810446, 101139, Story, PL, None, None, 4.27, None, 0, to-read, Robert McKee
+0916291375, 101140, The Sad Story of Veronica Who Played the Violin: Being an Explanation of Why the Streets Are Not Full of Happy Dancing People, PL, 1991, None, 3.97, 32, 3, to-read, David McKee
+0836190599, 101141, More Little Stories for Little Children: A Worship Resource, PL, 1996, None, 3.00, 128, 1, to-read, Donna McKee Rhodes
+0862644917, 101144, Willy And The Semolina Pudding And Other Stories, PL, None, None, 2.86, None, 0, to-read, Roger Collinson
+0002245833, 101146, The Loneliness of the Long Distance Runner, PL, 1994, None, 3.79, 176, 95, to-read, Alan Sillitoe
+078671476X, 101147, New and Collected Stories, PL, 2004, None, 4.02, 624, 41, to-read, Alan Sillitoe
+0333581997, 101148, Brodie's Notes On Alan Sillitoe's Selected Fiction, " Saturday Night And Sunday Morning" , " The Loneliness Of The Long Distance Runner" And A Sillitoe Selection., PL, 1992, None, 0.00, 111, 0, to-read, Andrew Copping
+0072381213, 101156, College Writing Skills with Readings, PL, None, None, 3.74, None, 3, to-read, John Langan
+0300091273, 101157, Sexual Personae: Art and Decadence from Nefertiti to Emily Dickinson, PL, 2001, None, 3.95, 736, 2055, to-read, Camille Paglia
+1561586447, 101158, The Cabin: Inspiration for the Classic American Getaway, PL, 2003, None, 4.05, 250, 108, to-read, Dale Mulfinger
+1402723121, 101159, Log Cabin Quilts, PL, 2006, None, 4.50, 160, 10, to-read, Rita Weiss
+1586853112, 101160, The Rustic Cabin: Design & Architecture, PL, 2003, None, 4.20, 256, 10, to-read, Ralph Kylloe
+0020016700, 101161, How to Build and Furnish a Log Cabin: The Easy, Natural Way Using Only Hand Tools and the Woods Around You, PL, 1974, None, 3.96, 166, 59, to-read, W. Ben Hunt
+0684844222, 101162, Cabin Fever, PL, 1998, None, 4.20, 208, 44, to-read, Rachel Carley
+1552093735, 101163, Cabins: A Guide to Building Your Own Nature Retreat, PL, 2001, None, 3.78, 240, 116, to-read, David Stiles
+1845961064, 101164, Kitchen Con: Writing on the Restaurant Racket, PL, 2006, None, 2.68, 272, 5, to-read, Trevor White
+1569243778, 101165, Will Write for Food: The Complete Guide to Writing Cookbooks, Restaurant Reviews, Articles, Memoir, Fiction and More, PL, 2005, None, 3.88, 320, 444, to-read, Dianne Jacob
+1861520468, 101167, Researching and Writing Dissertations in Hospitality and Tourism, PL, 1997, None, 3.50, 296, 2, to-read, Mona Clark
+0879101180, 101168, High Times, Hard Times, PL, 2004, None, 4.19, 376, 178, to-read, Anita O'Day
+0552771406, 101169, Bangkok 8, PL, 2004, None, 3.76, 431, 139, to-read, John Burdett
+0316473049, 101172, The Pugilist at Rest, PL, 1994, None, 4.16, 240, 3042, to-read, Thom Jones
+0571171354, 101173, The Pugilist at Rest: and other stories, PL, 1995, None, 4.16, 230, 27, to-read, Thom Jones
+0803296231, 101174, Cold Snap as Yearning, PL, 2005, None, 4.26, 150, 32, to-read, Robert Vivian
+1563976331, 101175, Cold Snap!, A, PL, 2002, None, 3.62, 32, 16, to-read, Audrey B. Baird
+1879418592, 101176, Cold Snap, PL, None, None, 4.00, None, 6, to-read, Woody Hanstein
+0571179452, 101178, Cold Snap, PL, 2000, None, 3.89, 210, 652, to-read, Thom Jones
+1931882231, 101179, Cloak of the Illuminati, PL, 2015, None, 3.60, 100, 51, to-read, William Henry
+048645133X, 101180, The Bavarian Illuminati in America: The New England Conspiracy Scare, 1798, PL, 2006, None, 2.90, 384, 11, to-read, Vernon Stauffer
+0312422261, 101181, Cocaine: An Unauthorized Biography, PL, 2003, None, 4.26, 528, 916, to-read, Dominic Streatfeild
+1852279214, 101182, Cocaine: An Unauthorised Biography, PL, None, None, 4.26, None, 31, to-read, Dominic Streatfeild
+0894901621, 101183, Cocaine and Crack: What You Need to Know, PL, 1989, None, 0.00, 95, 0, kid, Arnold M. Washton
+1878901192, 101186, Billy Franklin's Tough Enough: The Cocaine Investigation of United States Senator Chuck Robb, PL, None, None, 3.75, None, 4, to-read, Billy Franklin
+0349111146, 101187, Cocaine Train: Tracing My Bloodline Through Colombia, PL, 2000, None, 2.96, 256, 25, to-read, Stephen  Smith
+1879383071, 101188, The Party's Over: The Diary of a Recovering Cocaine Addict, PL, 1992, None, 3.00, 275, 1, to-read, Katy Hendricks
+0333602358, 101189, Whitewash: Pablo Escobar And The Cocaine Wars, PL, None, None, 3.56, None, 3, to-read, Simon  Strong
+0375508317, 101191, What Makes Sammy Run?, PL, 2002, None, 4.08, 320, 1620, to-read, Budd Schulberg
+1568493339, 101192, Waht Makes Sammy Run?, PL, 1941, None, 4.08, 303, 1, to-read, Budd Schulberg
+0736676260, 101193, What Makes Sammy Run?, PL, None, None, 4.08, None, 0, to-read, Budd Schulberg
+0434098000, 101194, A Clockwork Orange, PL, 1989, None, 4.00, 196, 163, to-read, Anthony Burgess
+0892541326, 101195, Secret Societies: Illuminati, Freemasons, and the French Revolution, PL, 2007, None, 3.62, 272, 28, to-read, Una Birch
+1556344856, 101197, Illuminati: Brainwash, PL, None, None, 4.29, None, 7, to-read, Steve  Jackson
+0375421785, 101200, Take On the Street: What Wall Street and Corporate America Don't Want You to Know, PL, 2002, None, 3.46, 352, 126, to-read, Arthur Levitt
+0156281007, 101201, Electromagnetic Fields: A Consumer’s Guide to the Issues and How to Protect Ourselves, PL, 1995, None, 3.00, 448, 1, to-read, Blake B. Levitt
+083113075X, 101202, Handbook of Maintenance Management, PL, 1997, None, 3.83, 477, 0, to-read, Joel Levitt
+0935457496, 101203, A Night of Questions:: A Passover Haggadah., PL, 1950, None, 4.35, 160, 20, to-read, Joy Levitt
+1576871657, 101204, Here and There, PL, 2004, None, 4.23, 120, 34, to-read, Helen Levitt
+0752852043, 101205, Mildred Pierce, PL, 2002, None, 3.92, 288, 6474, to-read, James M. Cain
+142620051X, 101207, 50 Best Girlfriends Getaways in North America, PL, None, None, 3.33, None, 36, to-read, Marybeth Bond
+0762736569, 101208, Girlfriend Getaways, 2nd: You Go Girl! And I'll Go, Too, PL, 2005, None, 3.94, 192, 4, to-read, Pam Grout
+1561585998, 101209, The Getaway Home: Discovering Your Home Away from Home, PL, 2004, None, 4.12, 186, 21, to-read, Dale Mulfinger
+0609603205, 101210, Getaways: Carefree Retreats for All Seasons, PL, 2000, None, 3.96, 224, 26, to-read, Chris Casson Madden
+1578565162, 101211, Girlfriends’ Getaway: A Complete Guide to the Weekend Adventure That Turns Friends into Sisters and Si, PL, 2002, None, 3.00, 192, 1, to-read, Kathleen Laing
+0752864351, 101212, The Getaway, PL, 2005, None, 3.93, 169, 47, to-read, Jim Thompson
+0811840395, 101213, Weekends for Two in Southern California: 50 Romantic Getaways, PL, 2003, None, 3.67, 120, 2, to-read, Bill Gleeson
+0792268628, 101216, National Geographic Guide to Great Weekend Getaways, PL, 2002, None, 4.00, 352, 9, to-read, National Geographic Society
+0722184751, 101217, The Getaway, PL, 1973, None, 3.93, 160, 9, to-read, Jim Thompson
+075284783X, 101218, The Getaway, PL, None, None, 3.93, None, 3, to-read, Jim Thompson
+0491007833, 101219, The Getaway, PL, 1972, None, 3.93, 187, 3, to-read, Jim Thompson
+0752864289, 101221, The Grifters, PL, 2006, None, 3.85, 188, 128, to-read, Jim Thompson
+0517107031, 101222, The Grifters, PL, 1996, None, 3.85, None, 1, to-read, Jim Thompson
+0691119910, 101223, Dickinson's Misery: A Theory of Lyric Reading, PL, 2005, None, 3.56, 320, 47, to-read, Virginia Jackson
+0312154259, 101224, Miseries of Human Life, PL, 1997, None, 3.65, 65, 30, to-read, James Beresford
+1568981368, 101226, Kurt Schwitter's Merzbau: The Cathedral of Erotic Misery, PL, 2000, None, 3.70, 192, 20, to-read, Elizabeth Burns Gamard
+0195142985, 101227, Black Misery, PL, 2001, None, 4.54, 72, 80, to-read, Langston Hughes
+0939631881, 101228, A Vast Sea of Misery: A History & Guide to the Union & Confederate Field Hospitals at Gettysburg, July 1-November 20, 1863, PL, 1988, None, 4.43, 224, 22, to-read, Gregory A. Coco
+0897335074, 101229, The Intellectuals and The Masses: Pride and Prejudice Among the Literary Intelligentsia, 1880-1939, PL, 2005, None, 3.89, 246, 224, to-read, John Carey
+0408211814, 101233, The Intellectual Versus the City, PL, None, None, 3.69, None, 15, to-read, Morton Gabriel White
+0691003815, 101235, The Ultimate Resource 2, PL, 1998, None, 4.40, 778, 113, to-read, Julian L. Simon
+0375704477, 101239, Property and Freedom, PL, 2000, None, 3.80, 352, 93, to-read, Richard Pipes
+0131487876, 101240, Open Source Licensing: Software Freedom and Intellectual Property Law, PL, 2004, None, 3.74, 396, 25, to-read, Lawrence Rosen
+1560003235, 101241, Property and Freedom: Constitution, the Courts and Land-Use Regulation, PL, 1997, None, 4.00, 291, 1, to-read, Bernard Siegan
+1403967504, 101243, The Politics of Property: Labor, Freedom, and Belonging, PL, 2004, None, 0.00, 256, 0, to-read, Laura Brace
+1403967490, 101244, The Politics of Property: Labor, Freedom, and Belonging, PL, 2004, None, 0.00, 256, 0, to-read, Laura Brace
+158479559X, 101246, I'm Just Here for the Food: Version 2.0, PL, 2006, None, 4.12, 328, 804, to-read, Alton Brown
+1584793414, 101247, I'm Just Here for More Food: Food x Mixing + Heat = Baking, PL, 2004, None, 4.26, 336, 4986, to-read, Alton Brown
+1584792965, 101248, Alton Brown's Gear for Your Kitchen, PL, 2003, None, 4.15, 256, 2290, to-read, Alton Brown
+1584790830, 101249, I'm Just Here for the Food: Food + Heat = Cooking, PL, None, None, 4.12, None, 20376, to-read, Alton Brown
+158479299X, 101250, I'm Just Here for the Food: Cook's Notes (Journal), PL, 2003, None, 4.08, 120, 94, to-read, Alton Brown
+1584796189, 101251, I'm Just Here for More Food/Alton Brown's Gear for Your Kitchen Two-Pack: A Special Set for Amazon.com Shoppers, PL, None, None, 4.55, None, 33, to-read, Alton Brown
+1589650298, 101252, Gardner's Guide to Writing and Producing for Television, PL, 2007, None, 4.25, 280, 4, to-read, Dee LaDuke
+0060545550, 101253, Mistress of the Elgin Marbles: A Biography of Mary Nisbet, Countess of Elgin, PL, 2005, None, 3.70, 294, 329, to-read, Susan Nagel
+0754092461, 101254, Mistress Of Justice, PL, 2004, None, 3.82, None, 0, to-read, Jeffery Wilds Deaver
+0684800012, 101255, On Food and Cooking: The Science and Lore of the Kitchen, PL, 2004, None, 4.47, 896, 13065, to-read, Harold McGee
+0070344361, 101256, Trail Food: Drying and Cooking Food for Backpacking and Paddling, PL, 1998, None, 3.75, 112, 122, to-read, Alan S. Kesselheim
+0754816001, 101257, Mediterranean Food & Cooking, PL, 2005, None, 4.33, 512, 3, to-read, Jacqueline Clarke
+0448006391, 101258, The Wise Encyclopedia of Cookery: One of the World's Most Definitive Reference Books on Food and Cooking, PL, None, None, 5.00, None, 9, to-read, W. Wise
+1557882622, 101261, Cooking the Whole Foods Way: Your Complete, Everyday Guide to Healthy, Delicious Eating with 500 Recipes, Menus, Meal Planning, Techniques, Buying, PL, 1997, None, 3.86, None, 178, to-read, Christina Pirello
+1580402712, 101262, Mr. Food's Quick and Easy Diabetic Cooking, PL, 2007, None, 3.93, 212, 13, to-read, Art Ginsburg
+0440243238, 101263, No Man's Mistress (Mistress Trilogy #2), PL, 2006, None, 3.75, 384, 4163, to-read, Mary Balogh
+0394722531, 101264, The Plantation Mistress, PL, 1984, None, 3.81, 352, 340, to-read, Catherine Clinton
+0373294360, 101265, A Scandalous Mistress, PL, 2007, None, 3.25, 304, 46, to-read, Juliet Landon
+0754815781, 101266, Scottish Heritage Food and Cooking: Capture the Tastes and Traditions with Over 150 Easy-To-Follow Recipes and 700 Stunning Photographs, Including Step-By-Step Instructions, PL, 2005, None, 3.91, 256, 21, to-read, Carol Wilson
+0770422462, 101267, Mistress Pat (Pat, #2), PL, 1997, None, 3.85, 288, 3586, to-read, L.M. Montgomery
+0060784024, 101268, His Mistress By Morning (Marlow, #1), PL, 2006, None, 3.72, 384, 1261, to-read, Elizabeth Boyle
+0553588656, 101269, Mistress, PL, 2005, None, 3.94, 384, 7153, to-read, Amanda Quick
+0575074272, 101270, Mistress of the Catacombs (Lord of the Isles, #4), PL, None, None, 3.66, None, 12, to-read, David Drake
+0307237516, 101271, The Perfect Royal Mistress, PL, 2007, None, 3.84, 416, 1629, to-read, Diane Haeger
+0618128069, 101272, Mistress of Modernism: The Life of Peggy Guggenheim, PL, 2004, None, 3.69, 382, 278, to-read, Mary V. Dearborn
+0801843995, 101273, Mistress of Riversdale: The Plantation Letters of Rosalie Stier Calvert, 1795-1821, PL, 1992, None, 4.07, 432, 76, to-read, Margaret Law Callcott
+0306800330, 101274, Music is My Mistress, PL, 1976, None, 3.95, 544, 390, to-read, Duke Ellington
+0786933461, 101275, Mistress of the Night (Forgotten Realms: The Priests, #2), PL, 2004, None, 3.69, 320, 286, to-read, Don Bassingthwaite
+0373820429, 101276, The Rich Man's Mistress  (Models & Millionaires, #3), PL, 2006, None, 3.12, 184, 88, to-read, Cathy Williams
+0373767498, 101277, The Once-A-Mistress Wife (Secret Lives of Society Wives, #5), PL, 2006, None, 3.26, 184, 68, to-read, Katherine Garbera
+0373294263, 101278, The Defiant Mistress (City of Flames, #1), PL, 2006, None, 3.31, 304, 50, to-read, Claire Thornton
+0373125755, 101279, The Rich Man's Royal Mistress (The Royal House of Illyria, #2), PL, 2006, None, 3.07, 186, 59, to-read, Robyn Donald
+1933725222, 101280, Mistress in Training, PL, 2006, None, 3.70, 350, 38, to-read, Edwina Columbia
+0821774107, 101281, A Proper Mistress, PL, 2003, None, 3.32, 223, 144, to-read, Shannon Donnelly
+0821754882, 101282, Rogue's Mistress (Dennehy Sisters, #2) (Zebra Lovegram), PL, 1996, None, 3.97, None, 8, to-read, Jo Goodman
+0373125801, 101283, Reluctant Mistress, Blackmailed Wife, PL, 2006, None, 3.71, 185, 1091, to-read, Lynne Graham
+0802142745, 101284, Nell Gwyn: Mistress to a King, PL, 2006, None, 3.88, 448, 491, to-read, Charles Beauclerk
+0312349475, 101285, Mistress, PL, 2006, None, 3.62, 428, 1340, to-read, Anita Nair
+0373820348, 101286, The Married Mistress, PL, 2006, None, 3.34, 187, 6, to-read, Kate Walker
+1582340536, 101288, The Mistress: Histories, Myths and Interpretations of the Other Woman, PL, 1999, None, 3.03, 320, 25, to-read, Victoria Griffin
+0373233779, 101289, The Italian Boss's Secretary Mistress, PL, 2007, None, 3.34, 251, 152, to-read, Cathy Williams
+0753817713, 101290, Mistress of the House: Great Ladies and Grand Houses, PL, 2004, None, 3.40, 336, 43, to-read, Rosemary Baird
+075960665X, 101291, The Mistress of Murder Hill: The Serial Killings of Belle Gunness, PL, 2001, None, 3.27, 258, 60, to-read, Sylvia Elizabeth Shepherd
+0373121393, 101292, The Sicilian's Mistress, PL, 2000, None, 3.70, 192, 47, to-read, Lynne Graham
+0252066235, 101293, Mistresses and Slaves: Plantation Women in South Carolina, 1830-80, PL, 1997, None, 3.54, 328, 15, to-read, Marli F. Weiner
+0854567054, 101294, Mistress of Mellyn, PL, 1989, None, 3.90, None, 7, to-read, Victoria Holt
+0821735705, 101295, Rebel's Mistress, PL, 1991, None, 3.36, None, 13, to-read, Kathy Jones
+0393978877, 101296, The Norton Reader: An Anthology of Nonfiction, PL, 2007, None, 3.92, 1256, 79, to-read, Linda H. Peterson
+0321481739, 101297, The Longman Reader, PL, 2006, None, 3.38, 675, 13, to-read, Judith Nadell
+0195077296, 101298, The English Reader: What Every Literate Person Needs to Know, PL, 2006, None, 3.91, 512, 52, to-read, Diane Ravitch
+0375408266, 101299, The Reader, PL, 1997, None, 3.76, 216, 142318, to-read, Bernhard Schlink
+0439332087, 101300, The Fluent Reader, PL, 2003, None, 4.05, 192, 166, to-read, Timothy V. Rasinski
+0486258106, 101302, First Spanish Reader: A Beginner's Dual-Language Book, PL, 1988, None, 3.81, 176, 244, to-read, Ángel Flores
+0205443249, 101303, What Really Matters for Struggling Readers: Designing Research-Based Programs, PL, 2005, None, 4.23, 210, 611, to-read, Richard L. Allington
+1592236065, 101304, Uncle John's Gigantic Bathroom Reader (Uncle John's Bathroom Reader #10 & 12), PL, 2006, None, 4.41, 768, 230, to-read, Bathroom Readers' Institute
+031331165X, 101305, Understanding a Separate Peace: A Student Casebook to Issues, Sources, and Historical Documents, PL, 2000, None, 3.50, 224, 5, to-read, Hallman Bryant
+0882792156, 101307, The Blue Book of the John Birch Society, PL, None, None, 3.11, None, 3, to-read, Robert W. Welch Jr.
+0691019134, 101309, The Divine Comedy, Volume III: Paradiso, Part 2: Commentary, PL, 1991, None, 4.43, 624, 16, to-read, Dante Alighieri
+0810966336, 101310, Sandro Botticelli: The Drawings for Dante's Divine Comedy, PL, 2000, None, 4.74, 360, 21, to-read, Hein-Thomas Schulze Altcappenberg
+0691019096, 101311, The Divine Comedy, Volume II: Purgatorio, Part 1: Text, PL, 1991, None, 4.02, 392, 28, to-read, Dante Alighieri
+069101910X, 101312, The Divine Comedy, Volume II: Purgatorio, Part 2: Commentary, PL, 1991, None, 4.56, 872, 18, to-read, Dante Alighieri
+157054204X, 101316, Building Cards: How to Build Castles, PL, 2005, None, 3.25, 28, 4, to-read, Doug Stillinger
+0974396702, 101317, A Day at the Beach: How Absolutely Anyone Can Successfully Build Sand Castles and Build Even Better Beach Memories, PL, 2009, None, 3.00, 120, 3, to-read, Tom Kolarich
+0030143667, 101321, Sand Creatures and Castles: How to Build Them, PL, None, None, 5.00, None, 1, to-read, Bob Reed
+039470391X, 101323, What Is History?, PL, 1967, None, 3.90, 209, 2149, to-read, Edward Hallett Carr
+0192802364, 101324, Spain: A History, PL, 2001, None, 3.40, 335, 205, to-read, Raymond Carr
+0253206030, 101325, Time, Narrative, and History, PL, 1991, None, 3.82, 300, 33, to-read, David    Carr
+0333977017, 101326, What Is History?: With a New Introduction by Richard J. Evans, PL, 2002, None, 3.90, 155, 82, to-read, Edward Hallett Carr
+0375508430, 101327, The Lessons of Terror: A History of Warfare Against Civilians, PL, 2002, None, 3.61, 272, 36, to-read, Caleb Carr
+0393054861, 101328, Arms, Autarky and Aggression: A Study in German Foreign Policy, 1933-1939, PL, None, None, 3.80, None, 0, to-read, William Carr
+0198221274, 101329, Spain 1808-1975, PL, 1997, None, 3.84, 888, 1, to-read, Raymond Carr
+081292455X, 101330, The Illustrated History  of Country Music, PL, 1996, None, 3.67, 564, 3, to-read, Patrick   Carr
+0393301990, 101331, The Bolshevik Revolution 1917-23 (History of Soviet Russia, Vol 3), PL, 1985, None, 3.98, 624, 53, to-read, Edward Hallett Carr
+0307278352, 101334, Remainder, PL, 2007, None, 3.65, 308, 6261, to-read, Tom McCarthy
+0618250778, 101335, A Remainder of One, PL, 2002, None, 4.16, 32, 71, to-read, Elinor J. Pinczes
+0674006747, 101337, Happiness, Death, and the Remainder of Life, PL, 2002, None, 3.80, 204, 57, to-read, Jonathan Lear
+1569474095, 101340, Watcher in the Pine (Tejada, #3), PL, 2006, None, 3.80, 320, 164, to-read, Rebecca Pawel
+0060505125, 101341, Empire of Wealth: The Epic History of American Economic Power, PL, 2005, None, 4.07, 496, 896, to-read, John Steele Gordon
+0878485090, 101342, The Central Asian Republics: Fragments of Empire Magnets of Wealth, PL, 1994, None, 0.00, 143, 0, posseduti, Charles Undeland
+074326410X, 101343, Hershey: Milton S. Hershey's Extraordinary Life of Wealth, Empire, and Utopian Dreams, PL, 2007, None, 3.79, 320, 679, to-read, Michael D'Antonio
+0745317561, 101347, Travels in the Skin Trade: Tourism and the Sex Industry, PL, 2001, None, 3.72, 192, 32, to-read, Jeremy Seabrook
+0140092838, 101348, Adventures in the Alaskan Skin Trade, PL, 1986, None, 3.65, 400, 88, to-read, John Hawkes
+0099497840, 101349, Skin Trade, PL, 2006, None, 3.47, 352, 2, to-read, Reggie Nadelson
+0370309286, 101350, Adventures in the Skin Trade, PL, None, None, 3.83, None, 2, to-read, Dylan Thomas
+0674810848, 101351, Skin Trade, PL, 1996, None, 4.14, 224, 17, to-read, Ann DuCille
+1559948442, 101352, More Dylan Thomas Reads: Adventures in the Skin Trade/Quite Early One Morning/Other Poems, PL, 1993, None, 5.00, None, 4, to-read, Dylan Thomas
+0936055391, 101358, Skin Trades (Booklet Series : No 31), PL, None, None, 5.00, None, 0, to-read, Bruce Boston
+0609607820, 101359, The Gallery of Regrettable Food: Highlights from Classic American Recipe Books, PL, None, None, 4.11, None, 1964, to-read, James Lileks
+1400082285, 101360, Mommy Knows Worst: Highlights from the Golden Age of Bad Parenting Advice, PL, 2005, None, 3.88, 176, 500, to-read, James Lileks
+067173704X, 101361, Fresh Lies, PL, 1995, None, 4.23, None, 37, to-read, James Lileks
+0307238725, 101362, Interior Desecrations: Hideous Homes from the Horrible '70s, PL, 2005, None, 4.17, 176, 71, to-read, James Lileks
+0671737023, 101363, Notes of a Nervous Man, PL, 1992, None, 3.75, None, 38, to-read, James Lileks
+052524655X, 101364, Falling Up the Stairs, PL, 1988, None, 3.71, 310, 61, to-read, James Lileks
+0762418664, 101365, Our Dumb Century, PL, 2004, None, 4.18, 192, 85, to-read, Scott Dikkers
+987550551X, 101370, Elogio de la locura, PL, None, None, 3.88, None, 122, to-read, Erasmus
+0676517315, 101371, A Civil Action, PL, 1996, None, 3.97, 0, 65, to-read, Jonathan Harr
+8420635081, 101374, Elogio de la locura, PL, 1984, None, 3.88, None, 17, to-read, Erasmus
+038069879X, 101375, Free to Choose: A Personal Statement, PL, 1985, None, 4.22, 352, 6, to-read, Milton Friedman
+9500427621, 101376, Nuevo Elogio De La Locura, PL, 2006, None, 3.80, 259, 18, to-read, Alberto Manguel
+0345483154, 101380, Song of the Cuckoo Bird, PL, None, None, 3.78, None, 706, to-read, Amulya Malladi
+0345450299, 101381, A Breath of Fresh Air, PL, 2003, None, 3.86, 240, 1701, to-read, Amulya Malladi
+8495311747, 101382, Elogio De La Locura, PL, 2004, None, 3.88, 173, 4, to-read, Erasmus
+0345450310, 101384, The Mango Season, PL, None, None, 3.59, 229, 3519, to-read, Amulya Malladi
+0749935197, 101385, Serving Crazy with Curry, PL, None, None, 3.59, None, 62, to-read, Amulya Malladi
+8425340012, 101386, La Estacion De Los Aromas/ the Mango Season, PL, None, None, 3.59, None, 3, to-read, Amulya Malladi
+0883658917, 101387, Flavors of India, PL, 1995, None, 5.00, None, 1, to-read, Bharti Kirchner
+006095115X, 101388, Vegetarian Burgers: The Healthy, Delicious Way to Eat America's Favorite Food, PL, 1996, None, 3.38, 144, 15, to-read, Bharti Kirchner
+1565651146, 101389, Healthy Cuisine of India: Recipes from the Bengal Region, PL, 1994, None, 3.91, None, 10, to-read, Bharti Kirchner
+0312316062, 101390, Darjeeling, PL, 2003, None, 3.47, 320, 308, to-read, Bharti Kirchner
+0312423314, 101391, The Red Passport, PL, 2007, None, 3.59, 209, 106, to-read, Katherine Shonk
+1565652002, 101393, Indian Inspired: A New Cuisine for the International Table, PL, 1994, None, 3.33, None, 2, to-read, Bharti Kirchner
+0452278848, 101394, Sharmila's Book, PL, 2000, None, 3.10, 400, 117, to-read, Bharti Kirchner
+950082664X, 101396, Sharmila, PL, None, None, 3.10, None, 0, to-read, Bharti Kirchner
+0452278821, 101397, Shiva Dancing, PL, 1999, None, 3.23, 336, 136, to-read, Bharti Kirchner
+0471359254, 101398, The Professional Pastry Chef: Fundamentals of Baking and Pastry, PL, 2002, None, 4.38, 1020, 1288, to-read, Bo Friberg
+0471443824, 101399, Baking and Pastry: Mastering the Art and Craft, PL, 2004, None, 4.40, 870, 318, to-read, Culinary Institute of America
+0471359262, 101400, The Advanced Professional Pastry Chef, PL, 2003, None, 4.41, 850, 158, to-read, Bo Friberg
+1580085628, 101401, The Pastry Queen: Royally Good Recipes From the Texas Hill Country's Rather Sweet Bakery and Cafe, PL, 2004, None, 4.32, 226, 1576, to-read, Rebecca Rather
+0684813483, 101402, The Pie and Pastry Bible, PL, 1998, None, 4.20, 704, 5056, to-read, Rose Levy Beranbaum
+1581825420, 101403, Puff Pastry Perfection: More Than 175 Recipes for Appetizers, Entrees, & Sweets Made with Frozen Puff Pastry Dough, PL, 2006, None, 4.12, 237, 9, to-read, Camilla V. Saulsbury
+0471293202, 101404, The Making of a Pastry Chef: Recipes and Inspiration from America's Best Pastry Chefs, PL, 1999, None, 3.86, 352, 55, to-read, Andrew MacLauchlan
+0976353962, 101405, Paris by Pastry: Stalking the Sweet Life on the Streets of Paris, PL, 2006, None, 3.16, 130, 22, to-read, Joyce Slayton Mitchell
+0470244097, 101406, Creams, Confections, and Finished Desserts Volume 2, PL, 1997, None, 5.00, 224, 2, to-read, Roland Bilheux
+0316769010, 101407, The Yellow House: Van Gogh, Gauguin, and Nine Turbulent Weeks in Arles, PL, 2006, None, 3.94, 339, 5535, to-read, Martin Gayford
+044080261X, 101408, A Swiftly Tilting Planet, PL, None, None, 4.11, None, 130, to-read, Madeleine L'Engle
+0807277568, 101409, A Swiftly Tilting Planet (Time, Book 3), PL, 1996, None, 4.11, None, 15, to-read, Madeleine L'Engle
+2080135600, 101410, Dalí's Mustache, PL, 1996, None, 4.39, 128, 245, to-read, Salvador Dalí
+0802136303, 101411, Jasmine, PL, 1999, None, 3.41, 256, 3090, to-read, Bharati Mukherjee
+0517158329, 101412, The Holder of the World, PL, 1995, None, 3.51, 0, 2, to-read, Bharati Mukherjee
+0802136508, 101413, The Middleman and Other Stories, PL, 1999, None, 3.59, 208, 538, to-read, Bharati Mukherjee
+0449220982, 101414, Wife, PL, 1992, None, 3.46, 213, 247, to-read, Bharati Mukherjee
+0140079300, 101415, Darkness, PL, 1985, None, 3.72, 199, 9, to-read, Bharati Mukherjee
+0786888660, 101416, The Tree Bride, PL, 2005, None, 3.10, 302, 513, to-read, Bharati Mukherjee
+0449912701, 101419, Tiger's Daughter, PL, 1991, None, 3.26, 248, 143, to-read, Bharati Mukherjee
+0517356937, 101421, Leave It to Me, PL, 1999, None, 2.71, 0, 174, to-read, Bharati Mukherjee
+1400034566, 101422, Babyji, PL, 2005, None, 3.35, 356, 1218, to-read, Abha Dawesar
+0851515991, 101423, Apostles Doctrine of Atonement, PL, 1991, None, 4.61, 548, 18, to-read, George Smeaton
+0802829856, 101424, Saving Power: Theories of Atonement and Forms of the Church, PL, 2005, None, 3.93, 371, 18, to-read, Peter Schmiechen
+1400030722, 101425, Andrew Jackson: His Life and Times, PL, 2006, None, 3.96, 656, 13152, to-read, H.W. Brands
+0451518659, 101426, Nineteen Eighty-Four, PL, 1961, None, 4.18, 268, 231, to-read, George Orwell
+0807083453, 101427, Makai, PL, 2000, None, 3.73, 304, 100, to-read, Kathleen Tyau
+0964984318, 101429, Mountain Biking the Hawaiian Islands: Mauka to Makai, PL, None, None, 4.00, None, 0, to-read, John Alford
+9966465782, 101432, Matigari, PL, 2004, None, 3.75, None, 1, to-read, Ngũgĩ wa Thiong'o
+0971865906, 101435, A Reader's Manifesto: An Attack on the Growing Pretentiousness in American Literary Prose, PL, 2002, None, 3.89, 149, 613, to-read, B.R. Myers
+0393321118, 101437, Candor and Perversion: Literature, Education, and the Arts, PL, 2000, None, 3.62, 432, 36, to-read, Roger Shattuck
+0316743003, 101438, Skunk Works: A Personal Memoir of My Years at Lockheed, PL, 1996, None, 4.41, 382, 6518, to-read, Ben R. Rich
+1857800370, 101439, Lockheed Martin's Skunk Works: The Official History, PL, 1995, None, 4.45, 216, 21, to-read, Jay Miller
+0760309140, 101440, Lockheed Secret Projects: Inside the Skunk Works, PL, 2001, None, 3.80, 128, 15, to-read, Dennis R. Jenkins
+0879386320, 101442, Lockheed Skunk Works, PL, 1992, None, 4.08, 192, 13, to-read, Steve Pace
+1841760595, 101443, Lockheed's Blackworld Skunk Works: U2, SR-71 and F-117 A Unique Pictorial Record, PL, 2000, None, 4.30, 112, 12, to-read, Paul F. Crickmore
+0595343953, 101444, Flint's Gift (Sam Flint, #1), PL, 2005, None, 3.71, 356, 34, to-read, Richard S. Wheeler
+9966460071, 101445, A Grain of Wheat, PL, 2006, None, 3.83, None, 9, to-read, Ngũgĩ wa Thiong'o
+0029177766, 101446, Armchair Economist: Economics & Everyday Life, PL, 1995, None, 3.76, 251, 2673, to-read, Steven E. Landsburg
+0805046666, 101447, The Genius of the System: Hollywood Filmmaking in the Studio Era, PL, 1996, None, 4.28, 528, 342, to-read, Thomas Schatz
+0679728856, 101448, Genius of the System, PL, 1990, None, 4.28, 0, 3, to-read, Thomas Schatz
+0960689613, 101452, Positive Discipline, PL, 1986, None, 4.22, None, 15, to-read, Jane Nelsen
+1932360719, 101453, Jane: A Murder, PL, 2005, None, 4.34, 224, 2389, to-read, Maggie Nelson
+0867095695, 101454, The Politics of Writing Centers, PL, 2001, None, 2.67, 176, 4, to-read, Jane Nelson
+0240805178, 101459, Directing: Film Techniques and Aesthetics, PL, 2003, None, 4.15, 560, 202, to-read, Michael Rabiger
+0240805623, 101460, Film Directing Fundamentals: See Your Film Before Shooting, PL, 2004, None, 4.03, 296, 116, to-read, Nicholas T. Proferes
+1580650678, 101461, The Film Director Prepares: A Complete Guide to Directing for Film and Tv, PL, 2006, None, 4.08, 256, 45, to-read, Myrl A. Schreibman
+0240807359, 101462, Producing and Directing the Short Film and Video, PL, 2006, None, 3.97, 402, 34, to-read, Peter W. Rea
+0941188906, 101463, Film Directing: Cinematic Motion, PL, 2004, None, 4.04, 362, 124, to-read, Steven D. Katz
+0918226155, 101465, Directing the Film: Film Directors Art, PL, 2015, None, 4.23, 100, 25, to-read, Eric Sherman
+0240803949, 101466, Producing and Directing the Short Film and Video, PL, 2000, None, 3.97, 376, 1, to-read, David K. Irving
+0941188434, 101467, Directing Feature Films: The Creative Collaborarion Between Director, Writers, and Actors, PL, 2002, None, 4.07, 350, 29, to-read, Mark W. Travis
+1586634690, 101468, Angela's Ashes: Frank McCourt (SparkNotes Literature Guide), PL, 2002, None, 3.83, 84, 0, to-read, SparkNotes
+0800756991, 101471, One Size Doesn't Fit All: Bringing Out the Best in Any Size Church, PL, 1999, None, 3.76, 176, 141, to-read, Gary L. McIntosh
+0844669008, 101472, Moja Means One: Swahili Counting Book, PL, None, None, 4.00, 20, 6, to-read, Muriel L. Feelings
+5557024107, 101473, Trinity Part 2 of 2, PL, 1976, None, 4.42, None, 50, to-read, Leon Uris
+0553128590, 101474, Trinity: A Novel of Ireland, PL, 1979, None, 4.25, 815, 31, to-read, Leon Uris
+0316796433, 101475, Snowboard Champ, PL, 2004, None, 4.04, 160, 59, to-read, Matt Christopher
+0316139823, 101476, Touchdown for Tommy (Sports Classics), PL, 1985, None, 3.74, 145, 245, to-read, Matt Christopher
+0316140023, 101477, Dirt Bike Runaway, PL, 1989, None, 3.97, 149, 94, to-read, Matt Christopher
+0374299684, 101478, Love, Life, Goethe: Lessons of the Imagination from the Great German Poet, PL, None, None, 4.12, None, 123, to-read, John Armstrong
+0375410449, 101479, Selected Works, PL, 2000, None, 4.19, 1248, 94, to-read, Johann Wolfgang von Goethe
+0486433633, 101481, The Sorrows of Young Werther / Die Leiden Des Jungen Werther, PL, 2004, None, 3.67, 240, 23, to-read, Johann Wolfgang von Goethe
+0521316995, 101482, Goethe: The Sorrows of Young Werther, PL, 1987, None, 3.86, 132, 176, to-read, Martin Swales
+0758213867, 101483, Wolf Tales (Wolf Tales #1), PL, 2006, None, 3.61, 257, 2439, to-read, Kate Douglas
+0295969695, 101486, Quiet Odyssey, PL, 1990, None, 4.08, 264, 158, to-read, Mary Paik Lee
+1893554260, 101487, Who Killed Homer: The Demise of Classical Education and the Recovery of Greek Wisdom, PL, 2001, None, 3.92, 323, 377, to-read, Victor Davis Hanson
+0802081916, 101488, Odysseys Home, PL, 2002, None, 4.57, 504, 7, to-read, George Elliott Clarke
+1561791288, 101489, Adventures in Odyssey: At Home and Abroad (#13), PL, 1992, None, 4.75, 6, 6, to-read, AIO Team
+1561008583, 101490, No Place Like Home, PL, 1996, None, 4.00, None, 10, to-read, Tom Bodett
+156179564X, 101491, Welcome Home (Adventures in Odyssey), PL, 2004, None, 4.64, 4, 11, to-read, AIO Team
+0553213997, 101492, The Odyssey, PL, 2003, None, 3.76, 542, 284, to-read, Homer
+1853995126, 101493, Odyssey XIII-XXIV, PL, None, None, 4.50, 433, 12, to-read, Homer
+1853995029, 101495, Odyssey I–XII, PL, 2009, None, 4.09, 432, 1383, to-read, Homer
+0192750755, 101496, The Odyssey of Homer (Oxford), PL, 2001, None, 3.97, 288, 67, to-read, Barbara Leonie Picard
+158715675X, 101497, The Odyssey of Homer, PL, 2003, None, 3.76, 388, 5, to-read, Homer
+0192741462, 101498, The Odyssey (Adaptation) (Oxford Myths and Legends), PL, 1991, None, 3.97, 288, 11, to-read, Barbara Leonie Picard
+0835902323, 101499, The Odyssey of Homer, PL, 1998, None, 3.76, 297, 228, to-read, Homer
+0674406141, 101500, Homer's Odyssey, PL, 1978, None, 4.50, 244, 4, to-read, John H. Finley Jr.
+0060125314, 101501, The Odyssey of Homer, PL, 1967, None, 3.76, None, 64, to-read, Homer
+0929524667, 101502, The Odyssey, Book  I, VI & IX (Bryn Mawr Greek Commentaries), PL, 1991, None, 4.40, 80, 5, to-read, Homer
+0521310431, 101503, Homer: the Odyssey, PL, 1987, None, 4.00, 116, 10, to-read, Jasper Griffin
+0674991168, 101504, The Odyssey I, PL, 1984, None, 4.09, 465, 11, to-read, Homer
+1565858425, 101508, The Odyssey of Homer, PL, None, None, 4.40, None, 3, to-read, Elizabeth Vandiver
+0451528239, 101509, Nectar in a Sieve, PL, 2002, None, 3.65, 186, 8633, to-read, Kamala Markandaya
+0451156471, 101510, Nectar in a Sieve, PL, 1956, None, 3.65, None, 1, to-read, Kamala Markandaya
+0812420799, 101511, Nectar in a Sieve, PL, 2002, None, 3.65, None, 2, to-read, Kamala Markandaya
+0451035666, 101512, Nectar in a Sieve, PL, 1968, None, 3.65, None, 2, to-read, Kamala Markandaya
+0451096460, 101513, Nectar in a Sieve, PL, 1956, None, 3.65, None, 2, to-read, Kamala Markandaya
+0451153472, 101514, Nectar in a Sieve, PL, 1956, None, 3.65, 190, 21, to-read, Kamala Markandaya
+0345492471, 101515, In at the Death (Settling Accounts, #4), PL, 2007, None, 4.03, 609, 1737, to-read, Harry Turtledove
+0345457250, 101516, The Grapple (Settling Accounts, #3), PL, 2006, None, 3.96, 616, 1712, to-read, Harry Turtledove
+0765314851, 101517, The Disunited States of America (Crosstime Traffic, #4), PL, 2006, None, 3.43, 288, 630, to-read, Harry Turtledove
+0765317109, 101518, Beyond the Gap (Opening of the World, #1), PL, 2007, None, 3.36, 332, 436, to-read, Harry Turtledove
+0345444248, 101519, The Victorious Opposition (American Empire, #3), PL, 2004, None, 3.89, 640, 1805, to-read, Harry Turtledove
+0345464052, 101520, Return Engagement (Settling Accounts, #1), PL, 2005, None, 3.86, 656, 2083, to-read, Harry Turtledove
+1416508996, 101521, The Time of Troubles II (Time of Troubles, #3-4), PL, 2005, None, 4.10, 749, 40, to-read, Harry Turtledove
+0340715502, 101522, Breakthroughs (The Great War, #3), PL, 2001, None, 3.94, 657, 37, to-read, Harry Turtledove
+0801853796, 101523, When the Colts Belonged to Baltimore: A Father and a Son, a Team and a Time, PL, 1996, None, 4.36, 311, 48, to-read, William Gildea
+076531486X, 101524, The Gladiator (Crosstime Traffic, #5), PL, 2007, None, 3.68, 288, 530, to-read, Harry Turtledove
+0345430239, 101525, Down to Earth (Colonization, #2), PL, 2001, None, 3.72, 624, 2177, to-read, Harry Turtledove
+0345405625, 101526, Walk in Hell (Great War, #2), PL, 2000, None, 3.92, 606, 2725, to-read, Harry Turtledove
+034542056X, 101527, In the Balance (Worldwar, #1), PL, 1996, None, 3.82, 465, 5301, to-read, Harry Turtledove
+0345412087, 101528, Striking the Balance (Worldwar, #4), PL, 1997, None, 3.83, 547, 3658, to-read, Harry Turtledove
+0345457234, 101529, Return Engagement (Settling Accounts, #1), PL, 2004, None, 3.86, 623, 94, to-read, Harry Turtledove
+0765346273, 101530, In High Places (Crosstime Traffic, #3), PL, 2007, None, 3.64, 270, 23, to-read, Harry Turtledove
+0743436091, 101531, Marching Through Peachtree (War Between the Provinces, #2), PL, 2003, None, 3.38, 498, 110, to-read, Harry Turtledove
+0671318462, 101532, Sentry Peak (War Between the Provinces, #1), PL, 2002, None, 3.22, 506, 208, to-read, Harry Turtledove
+0345430220, 101533, Second Contact (Colonization, #1), PL, 2000, None, 3.76, 608, 2595, to-read, Harry Turtledove
+0345405668, 101534, Blood & Iron (American Empire, #1), PL, 2002, None, 3.85, 656, 2162, to-read, Harry Turtledove
+0451460847, 101535, Ruled Britannia, PL, 2006, None, 3.69, 464, 1886, to-read, Harry Turtledove
+0345361199, 101536, Krispos of Videssos (The Tale of Krispos, #2), PL, 1991, None, 3.82, 355, 464, to-read, Harry Turtledove
+0312355203, 101537, Fort Pillow, PL, 2006, None, 3.50, 336, 269, to-read, Harry Turtledove
+0345380118, 101538, Departures, PL, 1993, None, 3.63, 342, 260, to-read, Harry Turtledove
+0765343886, 101539, Conan of Venarium, PL, 2004, None, 3.69, 272, 347, to-read, Harry Turtledove
+0345430247, 101540, Aftershocks (Colonization, #3), PL, 2002, None, 3.71, 614, 1991, to-read, Harry Turtledove
+0765343622, 101541, Out of the Darkness (Darkness, #6), PL, 2005, None, 3.94, 655, 620, to-read, Harry Turtledove
+0345361180, 101542, Krispos Rising (The Tale of Krispos, #1), PL, 1991, None, 3.83, 353, 529, to-read, Harry Turtledove
+0439632986, 101543, Harry Potter and the Goblet of Fire Movie Poster Book, PL, 2005, None, 4.43, 48, 373, to-read, Marie Morreale
+0345402995, 101544, Videssos Besieged (Time of Troubles, #4), PL, 1998, None, 3.84, 373, 189, to-read, Harry Turtledove
+074346852X, 101545, Jaws of Darkness (Darkness, #5), PL, 2004, None, 3.91, None, 10, to-read, Harry Turtledove
+0765346095, 101546, Gunpowder Empire (Crosstime Traffic, #1), PL, 2004, None, 3.36, 286, 1100, to-read, Harry Turtledove
+0345380495, 101547, The Thousand Cities (Time of Troubles , #3), PL, 1997, None, 3.75, 404, 162, to-read, Harry Turtledove
+0743488202, 101548, Advance and Retreat (War Between the Provinces, #3), PL, 2004, None, 3.59, 496, 82, to-read, Harry Turtledove
+0345330692, 101549, The Legion of Videssos (The Videssos Cycle, #3), PL, 1987, None, 3.93, 413, 864, to-read, Harry Turtledove
+0340715464, 101550, American Front (The Great War, #1), PL, 1999, None, 3.89, 660, 71, to-read, Harry Turtledove
+207054351X, 101551, Harry Potter et la Coupe de Feu (Harry Potter, #4), PL, 2001, None, 4.56, 768, 675, favorites, J.K. Rowling
+0345380460, 101552, Krispos the Emperor (The Tale of Krispos, #3), PL, 1994, None, 3.77, 387, 380, to-read, Harry Turtledove
+0345458478, 101553, Homeward Bound (Tosev, #8), PL, 2005, None, 3.67, 656, 1529, to-read, Harry Turtledove
+0671721968, 101555, The Case of the Toxic Spell Dump, PL, 2002, None, 3.85, 367, 706, to-read, Harry Turtledove
+0320047954, 101557, Harry Potter y el Caliz de Fuego (Harry Potter, #4), PL, None, None, 4.56, None, 190, favorites, J.K. Rowling
+8983920939, 101559, 해리포터와 불의 잔 (Vol 2 of 4), PL, 2000, None, 4.27, None, 149, to-read, J.K. Rowling
+0313326924, 101560, The Decline and Fall of the Roman Empire, PL, 2004, None, 3.67, 240, 3, to-read, James W. Ermatinger
+040402825X, 101561, The History of the Decline and Fall of the Roman Empire Volume V, PL, None, None, 4.04, 552, 73, to-read, Edward Gibbon
+0345444221, 101563, The Center Cannot Hold (American Empire, #2), PL, 2003, None, 3.91, 640, 2170, to-read, Harry Turtledove
+0345477987, 101564, Counting Up, Counting Down, PL, 2005, None, 3.62, 432, 241, to-read, Harry Turtledove
+0345464060, 101565, Drive to the East (Settling Accounts, #2), PL, 2006, None, 3.96, 640, 1698, to-read, Harry Turtledove
+None, 101566, A World of Difference, PL, 2005, None, 3.56, None, 326, to-read, Harry Turtledove
+0451460251, 101568, The Scepter's Return (Scepter of Mercy #3), PL, 2006, None, 3.44, 480, 17, to-read, Dan Chernenko
+0345420578, 101570, Tilting the Balance (Worldwar, #2), PL, 1997, None, 3.82, 478, 3732, to-read, Harry Turtledove
+081258919X, 101571, Through the Darkness (Darkness, #3), PL, 2002, None, 3.79, 684, 804, to-read, Harry Turtledove
+0345487362, 101572, Every Inch a King, PL, 2007, None, 3.47, 297, 73, to-read, Harry Turtledove
+1416521143, 101573, Alternate Generals III, PL, 2007, None, 3.30, 442, 109, to-read, Harry Turtledove
+8983920955, 101574, 해리포터와 불의 잔 (Vol 4 of 4), PL, 2000, None, 4.46, None, 67, to-read, J.K. Rowling
+1563089874, 101576, Teaching Fantasy Novels: From the Hobbit to Harry Potter and the Goblet of Fire, PL, 2003, None, 4.20, 185, 4, to-read, Phyllis J. Perry
+8983920947, 101578, 해리포터와 불의 잔 (Vol 3 of 4), PL, 2000, None, 4.65, None, 31, to-read, J.K. Rowling
+9955081767, 101579, Haris Poteris ir Ugnies Taurė (Haris Poteris, #4), PL, 2002, None, 4.56, 565, 352, favorites, J.K. Rowling
+0870001981, 101580, The History of the Decline and Fall of the Roman Empire, PL, None, None, 3.96, None, 0, to-read, Edward Gibbon
+141912420X, 101581, History of the Decline and Fall of the Roman Empire, PL, 2004, None, 3.96, 520, 0, to-read, Edward Gibbon
+1857150953, 101582, The Decline and Fall of the Roman Empire, PL, 1993, None, 3.96, 1952, 20, to-read, Edward Gibbon
+8983920920, 101583, 해리포터와 불의 잔 (Vol 1 of 4), PL, 2000, None, 4.50, None, 114, to-read, J.K. Rowling
+1419124161, 101584, History of the Decline and Fall of the Roman Empire, PL, 2004, None, 3.96, 684, 0, to-read, Edward Gibbon
+0739040049, 101586, SHEET MUSIC Harry Potter and the Goblet of Fire (Score), PL, 2005, None, 4.33, 56, 20, to-read, Patrick Doyle
+1416521399, 101587, Bridge of the Separator (The Videssos Books, #12), PL, 2007, None, 3.67, 565, 86, to-read, Harry Turtledove
+0345420586, 101589, Upsetting the Balance (Worldwar, #3), PL, 1997, None, 3.80, 481, 3432, to-read, Harry Turtledove
+0743488350, 101590, 3 x T, PL, 2004, None, 3.72, 704, 51, to-read, Harry Turtledove
+0812574729, 101591, Into the Darkness (Darkness, #1), PL, 2000, None, 3.59, 684, 1385, to-read, Harry Turtledove
+0671033050, 101592, Darkness Descending (Darkness, #2), PL, 2001, None, 3.78, 608, 12, to-read, Harry Turtledove
+067157874X, 101593, Tale of the Fox (Gerin the Fox, #4-5), PL, 2000, None, 3.75, 754, 100, to-read, Harry Turtledove
+082543260X, 101594, The Essential Works, PL, 1995, None, 4.07, 416, 71, to-read, Flavius Josephus
+0743468511, 101595, Rulers of the Darkness (Darkness, #4), PL, None, None, 3.86, None, 9, to-read, Harry Turtledove
+1416509186, 101597, Bridge of the Separator (The Videssos Books, #12), PL, 2005, None, 3.67, 390, 11, to-read, Harry Turtledove
+0968863930, 101598, The Definitive Harry Potter Guide Book Series: The Goblet of Fire, PL, 2001, None, 5.00, 64, 1, to-read, Marie Lesoway
+0345413660, 101599, The Guns of the South, PL, 1997, None, 3.95, 528, 7520, to-read, Harry Turtledove
+0812545206, 101600, Between the Rivers, PL, 1999, None, 3.61, 416, 318, to-read, Harry Turtledove
+1416509046, 101601, The Time of Troubles I (Time of Troubles, #1-2), PL, 2005, None, 4.15, 757, 41, to-read, Harry Turtledove
+0743499042, 101602, The Enchanter Completed, PL, 2005, None, 3.51, 400, 42, to-read, Harry Turtledove
+0691035032, 101603, Ancient Near Eastern Texts Relating to the Old Testament with Supplement, PL, 1969, None, 4.42, 744, 68, to-read, James B. Pritchard
+0889460892, 101608, A Corpus Of Ammonite Inscriptions, PL, None, None, 0.00, None, 0, to-read, Walter E. Aufrecht
+0345330684, 101612, An Emperor for the Legion (The Videssos Cycle, #2), PL, 1987, None, 3.92, 322, 955, to-read, Harry Turtledove
+0340684917, 101613, Striking the Balance (Worldwar, #4), PL, 1997, None, 3.83, 465, 68, to-read, Harry Turtledove
+0671877615, 101614, Thessalonica, PL, 1996, None, 3.56, 408, 134, to-read, Harry Turtledove
+0345380479, 101615, The Stolen Throne (Time of Troubles, #1), PL, 1995, None, 3.77, 356, 209, to-read, Harry Turtledove
+0345364775, 101616, Kaleidoscope, PL, 1990, None, 3.71, 256, 62, to-read, Harry Turtledove
+0340769106, 101617, Aftershocks (Colonisation, #3), PL, 2001, None, 3.71, 672, 38, to-read, Harry Turtledove
+0671578383, 101618, Wisdom of the Fox (Gerin the Fox, #2-3), PL, 1999, None, 3.70, 608, 213, to-read, Harry Turtledove
+0340820128, 101619, The Centre Cannot Hold (American Empire, #2), PL, 2003, None, 3.91, 704, 61, to-read, Harry Turtledove
+0865531838, 101621, Agent of Byzantium, PL, 1987, None, 3.76, 246, 609, to-read, Harry Turtledove
+0865531986, 101622, A Different Flesh, PL, 1988, None, 3.80, 292, 203, to-read, Harry Turtledove
+0345380487, 101623, Hammer and Anvil (Time of Troubles, #2), PL, 1996, None, 3.71, 372, 173, to-read, Harry Turtledove
+0340648996, 101624, Tilting the Balance (Worldwar, #2), PL, 1995, None, 3.82, 482, 57, to-read, Harry Turtledove
+0671878581, 101625, Fox and Empire (Gerin the Fox, #5), PL, 1997, None, 3.90, 449, 107, to-read, Harry Turtledove
+0618133836, 101626, Readings in Ancient History: Thought and Experience from Gilgamesh to St. Augustine, PL, 2001, None, 3.91, 576, 38, to-read, Nels M. Bailkey
+0669002496, 101627, Readings in Ancient History: From Gilgamesh to Diocletian, PL, None, None, 3.83, None, 7, to-read, Nels M. Bailkey
+0345343387, 101629, Noninterference, PL, 1987, None, 3.61, 213, 162, to-read, Harry Turtledove
+0451459598, 101630, In the Presence of Mine Enemies, PL, 2004, None, 3.81, 528, 1498, to-read, Harry Turtledove
+0743471865, 101632, Alternate Generals II, PL, 2004, None, 3.39, 378, 158, to-read, Harry Turtledove
+0765346109, 101633, Curious Notions (Crosstime Traffic, #2), PL, 2005, None, 3.59, 272, 526, to-read, Harry Turtledove
+0345405498, 101634, Striking the Balance (Worldwar, #4), PL, None, None, 3.83, None, 113, to-read, Harry Turtledove
+0345330706, 101635, Swords of the Legion (The Videssos Cycle, #4), PL, 1987, None, 3.98, 394, 933, to-read, Harry Turtledove
+0786888415, 101636, Room Full of Mirrors: A Biography of Jimi Hendrix, PL, 2006, None, 4.14, 400, 7602, to-read, Charles R. Cross
+0804734356, 101637, A Room Full of Mirrors: High School Reunions in Middle America, PL, 1999, None, 3.50, 220, 2, to-read, Keiko Ikeda
+0345913248, 101638, Departures: Stories of Alternate History, PL, 1998, None, 3.63, 326, 6, to-read, Harry Turtledove
+0340820144, 101639, The Victorious Opposition (American Empire, #3), PL, None, None, 3.89, 672, 21, to-read, Harry Turtledove
+0500020736, 101642, The Minoans: Crete In The Bronze Age., PL, None, None, 3.75, None, 8, to-read, Sinclair Hood
+1933102241, 101644, Journey Through Hallowed Ground: The Official Guide to Where America Happened from Gettysburg to Monticello, PL, 2006, None, 3.93, 232, 15, to-read, David Lillard
+089236856X, 101645, Holy Image, Hallowed Ground: Icons from Sinai, PL, 2006, None, 4.76, 320, 18, to-read, Thomas F. Mathews
+0609610236, 101646, Hallowed Ground: A Walk at Gettysburg, PL, 2003, None, 4.18, 144, 1482, to-read, James M. McPherson
+1932815740, 101647, Hallowed Ground (PI Julie Collins, #2), PL, 2006, None, 4.35, 476, 683, to-read, Lori G. Armstrong
+078581552X, 101648, This Hallowed Ground: The Story of the Union Side of the Civil War, PL, 2002, None, 4.33, 448, 782, to-read, Bruce Catton
+0739468774, 101650, Civil War Battlefields: Discovering America's Hallowed Ground, PL, None, None, 4.11, None, 6, to-read, Jeff Shaara
+0415099161, 101653, Resistance Through Rituals: Youth Subcultures in Post-War Britain, PL, 1990, None, 4.18, 288, 105, to-read, Stuart Hall
+0870696327, 101654, Post-War Tin Toys: A Collector's Guide, PL, 1991, None, 4.00, 128, 1, to-read, Jack Tempest
+0882952331, 101655, The Cold War: A Post-Cold War History, PL, 2005, None, 3.58, 212, 26, to-read, Ralph B. Levering
+052100070X, 101656, Memory and Power in Post-War Europe: Studies in the Presence of the Past, PL, 2002, None, 3.70, 302, 10, to-read, Jan-Werner Müller
+1893618544, 101658, Walt Hansgen: His Life and the History of Post-War American Road Racing, PL, 2006, None, 4.67, 399, 3, to-read, Michael Argetsinger
+0961787627, 101659, Colt's Single Action Army Revolver: Pre War Post War Model, PL, None, None, 0.00, None, 0, to-read, Don Wilkerson
+0814762026, 101660, Post-War Cinema and Modernity: A Film Reader, PL, 2001, None, 4.00, 445, 1, to-read, John Orr
+0713460636, 101661, U. S. S. R. Since 1945, PL, 1990, None, 0.00, 64, 0, own-to-read, Elizabeth Campling
+0521522862, 101662, The United States and the Making of Postwar France, 1945 1954, PL, 2002, None, 0.00, 340, 0, to-read, Irwin M. Wall
+0816051305, 101665, Post-War Literature 1945 to the Present: English Literature in Its Historical, Cultural, and Social Contexts, PL, 2003, None, 0.00, 96, 0, to-read, Caroline Merz
+0912823305, 101667, American Dolls from the Post-War Era, 1945-1965, PL, None, None, 3.00, None, 1, to-read, Florence Theriault
+0715633791, 101668, Mount Analogue, PL, 2005, None, 4.15, 120, 1194, to-read, René Daumal
+0894370723, 101669, Capitol, PL, 1979, None, 3.91, 278, 5, to-read, Orson Scott Card
+0849904889, 101670, The Heart of the Chronicles of Narnia: Knowing God Here by Finding Him There, PL, 2005, None, 4.30, 224, 75, to-read, Thomas Williams
+9561308150, 101671, El príncipe Caspian (Las crónicas de Narnia, #4), PL, 2001, None, 3.98, None, 22, to-read, C.S. Lewis
+0439847974, 101673, The Lion, the Witch and the Wardrobe, PL, 2006, None, 4.22, 189, 144, to-read, C.S. Lewis
+0786428767, 101674, Milton, Spenser and the Chronicles of Narnia: Literary Sources for the C.S. Lewis Novels, PL, 2006, None, 4.20, 188, 6, to-read, Elizabeth Baird Hardy
+1589972961, 101675, The Voyage of the Dawn Treader: The Chronicles Of Narnia (Radio Theatre), PL, 2005, None, 4.09, None, 56, to-read, C.S. Lewis
+0439859611, 101677, The Chronicles Of Narnia Boxed Set, PL, 2005, None, 4.26, None, 63, to-read, C.S. Lewis
+9561316692, 101678, El león, la bruja y el ropero (Las crónicas de Narnia #1), PL, None, None, 4.22, None, 121, to-read, C.S. Lewis
+0791093107, 101680, C.S. Lewis's The Chronicles of Narnia (Bloom's Modern Critical Interpretations), PL, 2006, None, 4.24, 236, 40, to-read, Harold Bloom
+0060826487, 101681, The Lion, the Witch and the Wardrobe (Chronicles of Narnia, #2), PL, 2005, None, 4.22, None, 85, to-read, C.S. Lewis
+0140290060, 101682, The Worldly Philosophers (Business Library), PL, 2000, None, 4.14, 365, 128, to-read, Robert L. Heilbroner
+0671201514, 101683, The Worldly Philosophers, PL, 1967, None, 4.14, 320, 15, to-read, Robert L. Heilbroner
+0713901225, 101684, The Worldly Philosophers The Great Economic Thinkers, PL, 1969, None, 4.14, None, 13, to-read, Robert L. Heilbroner
+0072840919, 101685, Eastern Ways of Being Religious, PL, None, None, 3.00, None, 0, to-read, Gary E. Kessler
+0534253326, 101687, Six Ways of Being Religious: A Framework for Comparative Studies of Religion, PL, 1995, None, 4.12, 402, 9, to-read, Dale W. Cannon
+0072840927, 101688, Western Ways of Being Religious [with Free World Religions Powerweb], PL, 2002, None, 2.33, None, 0, to-read, Gary E. Kessler
+007304606X, 101689, Eastern Ways of Being Religious with Shinto Ways and Powerweb: World Religions, PL, None, None, 3.00, None, 0, to-read, Gary E. Kessler
+0791426785, 101690, Being and Time (Contemporary Continental Philosophy), PL, 1996, None, 4.02, 512, 255, to-read, Martin Heidegger
+0072840900, 101691, Ways of Being Religious with Free World Religions Powerweb, PL, None, None, 3.50, None, 0, to-read, Gary E. Kessler
+0073016896, 101693, Shinto Ways of Being Religious, PL, None, None, 2.78, None, 10, to-read, Gary E. Kessler
+0767429621, 101694, Ways of Being Religious, Revised Edition, PL, None, None, 3.50, None, 0, to-read, Gary E. Kessler
+0226323757, 101695, On Time and Being, PL, 2002, None, 4.02, 100, 150, to-read, Martin Heidegger
+0262540568, 101696, Being-In-The-World: A Commentary on Heidegger's Being in Time, Division I, PL, 1990, None, 4.13, 384, 474, to-read, Hubert L. Dreyfus
+0826486096, 101697, Heidegger's 'Being and Time': A Reader's Guide, PL, 2007, None, 4.01, 204, 109, to-read, William Blattner
+0140193014, 101698, The Body of Time: And the Energies of Being, PL, 1991, None, 3.50, 144, 7, to-read, Bruce Thomas
+0742542416, 101699, Heidegger's Being and Time: Critical Essays, PL, 2005, None, 4.80, 247, 2, to-read, Richard Polt
+0791448002, 101700, A Guide to Heidegger's Being and Time (Contemporary Continental Philosophy), PL, 2001, None, 4.32, 413, 58, to-read, Magda King
+156179788X, 101702, The Voyage of the Dawn Treader (Radio Theatre's Chronicles of Narnia, #5), PL, 2001, None, 4.43, None, 1892, to-read, Paul McCusker
+0590254790, 101703, The Voyage of the Dawn Treader (Chronicles of Narnia, #5), PL, 1995, None, 4.09, 248, 599, to-read, C.S. Lewis
+0007194218, 101704, The Chronicles Of Narnia, PL, 2004, None, 4.26, 781, 38, to-read, C.S. Lewis
+0415316871, 101705, Medieval Religion: New Approaches, PL, 2005, None, 4.00, 416, 13, to-read, Constance Hoffman Berman
+0595306799, 101707, Buddhist General Semantics: A New Approach to Buddhist Religion and Its Philosophy, PL, None, None, 3.33, None, 3, to-read, Khai Thien
+0422725102, 101708, Anthropological Approaches to the Study of Religion, PL, 1990, None, 3.25, 176, 4, to-read, Michael Banton
+1891530038, 101709, Modern Wicca: A New Approach To The Old Religion Of Witchcraft, PL, None, None, 0.00, None, 0, to-read, Cerridwen Silverhorn
+1430408030, 101710, No Delusion Possible in the Mystical Knowledge of God - Pamphlet, PL, 2006, None, 0.00, None, 0, to-read, Savinien Louismet
+0060281375, 101711, The Complete Chronicles of Narnia, PL, 2000, None, 4.26, 940, 815, to-read, C.S. Lewis
+0787119423, 101714, Enchantment, PL, 1999, None, 3.90, None, 12, to-read, Orson Scott Card
+155652241X, 101715, The Mole People: Life in the Tunnels Beneath New York City, PL, 1995, None, 3.64, 267, 4665, to-read, Jennifer Toth
+207042703X, 101718, Le Compagnon (Chroniques d'Alvin le faiseur, #4), PL, 2003, None, 3.73, 576, 28, fantasy, Orson Scott Card
+1556561474, 101721, The Best Science Fiction Stories of the Year, 1989, PL, None, None, 3.50, None, 4, to-read, Orson Scott Card
+2070415740, 101722, Le Septième Fils (Les Chroniques d'Alvin le Faiseur, #1), PL, 2000, None, 3.87, 356, 53, to-read, Orson Scott Card
+0099734508, 101724, The Worthing Saga, PL, None, None, 3.85, None, 16, to-read, Orson Scott Card
+1556561652, 101725, Third Annual Best Fantasy Stories of the Year/Cassettes, PL, 1993, None, 4.25, None, 0, to-read, Orson Scott Card
+2070415759, 101727, Le Prophète Rouge (Les Chroniques d'Alvin le Faiseur #2), PL, 2000, None, 3.79, 457, 38, to-read, Orson Scott Card
+1556561466, 101728, Best Horror Value Collection, Volume 2, PL, 1991, None, 0.00, None, 0, to-read, Orson Scott Card
+0195220420, 101729, New Religions: A Guide: New Religious Movements, Sects and Alternative Spiritualities, PL, 2004, None, 4.11, 448, 32, to-read, Christopher Partridge
+0801066204, 101730, The Baker Pocket Guide to New Religions, PL, 2006, None, 4.29, 255, 7, to-read, Nigel Scotland
+0877848378, 101731, Guide to Cults and New Religions, PL, 1983, None, 3.25, 215, 12, to-read, Ronald M. Enroth
+0745951597, 101732, A Pocket Guide To Sects And New Religions, PL, 2005, None, 4.00, 256, 4, to-read, Nigel Scotland
+0133711536, 101733, Guide to the World's Religions: New Edition of a Classic Work, PL, None, None, 3.17, None, 6, to-read, David G. Bradley
+1891824600, 101735, The Gentle Way: A Self-Help Guide for Those Who Believe in Angels, PL, 2006, None, 4.39, 140, 49, to-read, Tom T. Moore
+0007169620, 101737, Wicca: A Comprehensive Guide to the Old Religion in the Modern World, PL, 2003, None, 3.92, 272, 47, to-read, Vivianne Crowley
+0631206701, 101738, Religious Pluralism in the West, PL, 1998, None, 3.25, 364, 3, to-read, David George Mullan
+0879308818, 101739, Remixer's Bible  Build Better Beats - Book/CD, PL, None, None, 3.96, None, 28, to-read, Francis Preve
+0717132366, 101740, One River, Many Wells: Wisdom Springing From Global Faiths, PL, None, None, 4.23, None, 0, to-read, Matthew Fox
+0321267931, 101741, Adobe Audition 1.5 Classroom in a Book, PL, None, None, 3.25, None, 4, to-read, Adobe Creative Team
+0006384447, 101743, Steven Spielberg: The Unauthorised Biography, PL, 1998, None, 3.34, 457, 64, to-read, John Baxter
+8493006521, 101744, Steven Spielberg: Biografia No Autoriazada, PL, None, None, 3.34, None, 1, to-read, John Baxter
+0316597058, 101745, On a Street Called Easy, in a Cottage Called Joye, PL, 1996, None, 4.04, 321, 27, to-read, Gregory White Smith
+006062115X, 101748, Religious Traditions of the World: A Journey Through Africa, Mesoamerica, North America, Judaism, Christianity, Isl, PL, 1992, None, 3.70, 1232, 21, to-read, H. Byron Earhart
+1577660080, 101749, Religions of Japan: Many Traditions Within One Sacred Way, PL, 1998, None, 3.38, 142, 17, to-read, H. Byron Earhart
+1579102301, 101752, Religious Traditions of the World, PL, 1999, None, 3.25, 424, 1, to-read, James F. Lewis
+1577660137, 101753, Buddhism: The Path to NIRVana, PL, 1998, None, 3.25, 160, 0, to-read, Robert C. Lester
+0029237912, 101756, Healing and Restoring: Health and Medicine in the World's Religious Tradition, PL, 1989, None, 0.00, 468, 0, to-read, Lawrence E. Sullivan
+006065211X, 101757, Religions of Africa: Traditions in Transformation, PL, 1985, None, 3.33, 106, 2, to-read, E. Thomas Lawson
+0060626550, 101758, Judaism: Revelations and Traditions, Religious Traditions of the World Series, PL, 1988, None, 3.51, 160, 36, to-read, Michael Fishbane
+0943575834, 101759, The Life and Times of Jesus the Messiah, PL, 1992, None, 4.36, 1136, 327, to-read, Alfred Edersheim
+0529100851, 101760, The Life & Times of Jesus the Messiah, PL, 1994, None, 4.36, 1580, 1, to-read, Alfred Edersheim
+0520077881, 101761, Exits from the Labyrinth: Culture and Ideology in the Mexican National Space, PL, 1993, None, 3.00, 400, 2, to-read, Claudio Lomnitz-Adler
+0816632898, 101762, Deep Mexico, Silent Mexico: An Anthropology of Nationalism, PL, 2001, None, 3.85, 384, 7, to-read, Claudio Lomnitz-Adler
+0684854716, 101763, From Poor Law to Welfare State: A History of Social Welfare in America, PL, 1998, None, 3.69, 464, 232, to-read, Walter I. Trattner
+968168298X, 101765, Idea De La Muerte En Mexico/ Idea of the Death in Mexico (Antropologia), PL, 2008, None, 3.87, 525, 4, to-read, Claudio Lomnitz
+0873223837, 101768, Helping Athletes with Eating Disorders, PL, 1993, None, 5.00, None, 1, to-read, Ron A. Thompson
+0787903612, 101770, Bulimia: A Guide for Family and Friends, PL, 1996, None, 3.71, 176, 5, to-read, Roberta Trattner Sherman
+0830710302, 101772, Autobiography of God: Leader's Guide, PL, 1994, None, 4.26, 324, 0, to-read, Lloyd John Ogilvie
+0312348487, 101773, The Autobiography of God, PL, 2005, None, 3.67, 247, 230, to-read, Julius Lester
+0892438258, 101774, The Book of Margery Kempe: The Autobiography of the Madwoman of God, PL, 1995, None, 3.27, 219, 12, to-read, Margery Kempe
+141965778X, 101776, The Autobiography Of God: As Told To William Harwood, PL, 2006, None, 0.00, 322, 0, to-read, William Harwood
+0156006189, 101778, Nearer, My God: An Autobiography of Faith, PL, 1998, None, 3.89, 336, 265, to-read, William F. Buckley Jr.
+1591020727, 101781, Media Mythmakers: How Journalists, Activists, and Advertisers Mislead Us, PL, 2003, None, 3.65, 230, 52, to-read, Benjamin Radford
+0153334835, 101782, Man the Mythmaker: Literature, PL, 1997, None, 3.83, None, 2, to-read, Northrop Frye
+0062505858, 101783, The Mythmaker: Paul and the Invention of Christianity, PL, 1987, None, 3.92, 249, 34, to-read, Hyam Maccoby
+0380978334, 101784, Mythmaker:: The Life and Work of George Lucas, PL, 1999, None, 3.45, 450, 22, to-read, John Baxter
+0377002070, 101785, Mythmakers: Gospel, Culture, and the Media, PL, None, None, 0.00, None, 0, to-read, William F. Fore
+8497930371, 101788, El maestro de Petersburgo, PL, None, None, 3.64, 272, 146, to-read, J.M. Coetzee
+0533124352, 101789, Law and Grace: How to Be More Sure of Your Standing With God, PL, None, None, 0.00, None, 0, None, Marilyn Chase Hobart
+0804721874, 101795, The California-Mexico Connection, PL, 1993, None, 0.00, 388, 0, currently-reading, Abraham F. Lowenthal
+950900975X, 101796, La montaña mágica, PL, 2006, None, 4.14, 933, 65, to-read, Thomas Mann

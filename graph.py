@@ -13,7 +13,7 @@ books_id_to_name = {row['id'] : row['name'] for ix, row in books[['id', 'name']]
 #print(2048 in books_id_to_name)
 
 tags = pd.read_csv('tags1000-10000.txt',error_bad_lines=False, sep=", ", names=['book_id', 'tag'])
-tags2 = pd.read_csv('10000-11000.txt',error_bad_lines=False, sep=", ", names=['book_id', 'tag'])
+tags2 = pd.read_csv('data/10000-11000.txt', error_bad_lines=False, sep=", ", names=['book_id', 'tag'])
 book_tags = pd.concat([tags, tags2], ignore_index=True)
 
 
