@@ -3,8 +3,9 @@ import pandas as pd
 
 def preprocessing(file_name):
     columns = ["ISBN", "ID", "TITLE", "COUNTRY", "YEAR", "MONTH", "RATE", "PAGES", "POPULARITY", "SHELVE", "AUTHOR"]
-    df = pd.read_csv(file_name, error_bad_lines=False, sep=", ", names=columns)
+    df = pd.read_csv(file_name, error_bad_lines=False, sep=", ", names=columns, warn_bad_lines=False, engine='python')
     df = df[df.ISBN != "None"]
+    df = df[df.ID != "None"]
 
     df.drop('MONTH', axis=1, inplace=True)
     df.drop('SHELVE', axis=1, inplace=True)
@@ -75,6 +76,13 @@ def get_all_data(limit=200):
     df = df.drop_duplicates(subset="ID", keep="first")
     df = df.drop_duplicates(subset="TITLE", keep="first")
     shelv = {**shelv1, **shelv2, **shelv3}
+    id_list = df["ID"].tolist()
+    keys_to_delete = []
+    for key in shelv.keys():
+        if int(key) not in id_list:
+            keys_to_delete.append(key)
+    for key in keys_to_delete:
+        del shelv[key]
     shelv = delete_rare_tags(shelv, limit=limit)
 
     return df, shelv
