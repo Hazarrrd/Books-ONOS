@@ -19,13 +19,26 @@ def preprocessing(file_name):
 
 def shelves_to_dict(file_name):
     dic = {}
+    bad_tags = ['home-library', 'audiobook', 'currently-reading', 'favourites', 'own-it',
+                'to-read', 'owned', 'literature', 'to-buy', 'i-own', 'nonfiction', 'books-i-own', 'my-library',
+                'ebooks', 'default', 'wish-list', 'abandoned', 'library',
+                'favorites',  'owned-books', 'ebook', 'kindle', 'my-books',
+                'calibre', 'audio_wanted', 'on-hold', 'on-my-shelf', 'personal-library',  'did-not-finish','to-read-fiction',
+                'tbr', 'unread', 'audio-books', 'books', 'maybe', 'to-read-non-fiction', 'audio', 'dnf', 'unfinished', 'must-read',
+                'book-club', 'bookshelf', 'e-books', 're-read', 'audible', 'audiobooks', 'have',
+                 'e-book', 'didn-t-finish', 'read-in-2014', 'read-in-2015', 'partially-read', '2006', 'favorite', 'shelved',
+                'want-to-buy', 'general', 'owned-to-read', 'read-in-2017', 'bookclub', 'read-in-2018', 'books-i-have', 'finished',
+                'read-in-english', 'hardcover', 'read-in-2016', 'borrowed', 'my-bookshelf', '1', 'reference', 'not-interested',
+                'in-my-library', 'other', 'on-the-shelf', 'audio-book', 'own-to-read', '1001-books', 'in-translation', 'bought', 'not-read',
+                'lit', '1001', '5-stars', 'suspense', 'reviewed', 'to-re-read', 'read-in-2019']
     with open(file_name, 'r') as f:
         for line in f:
             id, shelve = line.strip().split(', ')
-            if id in dic.keys() and shelve not in dic[id]:
-                dic[id].append(shelve)
-            else:
-                dic[id] = [shelve]
+            if shelve not in bad_tags:
+                if id in dic.keys() and shelve not in dic[id]:
+                    dic[id].append(shelve)
+                else:
+                    dic[id] = [shelve]
     return dic
 
 def delete_rare_tags(dic, limit):
