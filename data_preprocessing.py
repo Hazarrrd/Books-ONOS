@@ -44,7 +44,7 @@ def shelves_to_dict(file_name):
                 'wanted', 'faves', 'read-in-2012', '4-stars', 'shelfari-favorites', 'to-read-nonfiction', 'home', 'recommended', 'translation',
                 'physical-books', 'nonf', 'play', 'paperback', 'interesting', 'interested','to-reread', 'non-fiction', 'collection',
                 'nonfiction-to-read', 'read-for-school', 'university', 'high-school']
-    with open(file_name, 'r') as f:
+    with open(file_name, 'r', encoding="utf-8") as f:
         for line in f:
             id, shelve = line.strip().split(', ')
             if shelve not in bad_tags:
