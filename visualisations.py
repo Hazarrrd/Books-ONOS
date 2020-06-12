@@ -6,6 +6,11 @@ from sklearn.preprocessing import KBinsDiscretizer
 import data_preprocessing as proc
 from igraph import *
 
+from wordcloud import WordCloud, STOPWORDS
+import matplotlib.pyplot as plt
+
+stopwords = set(STOPWORDS)
+
 
 def discretize_data(data, strategy="uniform"):
     data_disc = [[i] for i in data]
@@ -13,7 +18,7 @@ def discretize_data(data, strategy="uniform"):
     enc = KBinsDiscretizer(n_bins=5, encode='ordinal', strategy=strategy)
     enc.fit(data_disc)
     grid_encoded = enc.transform(data_disc)
-    print(enc.bin_edges_)
+    #print(enc.bin_edges_)
     return [int(j) + 1 for sub in grid_encoded for j in sub]
 
 
@@ -50,7 +55,7 @@ def visualise_gaph(g, layout="circular"):
     visual_style["edge_width"] = 1
 
     # Set vertex lable size
-    visual_style["vertex_label_size"] = 8
+    visual_style["vertex_label_size"] = 9
 
     # Don't curve the edges
     visual_style["edge_curved"] = True
@@ -150,13 +155,38 @@ def visualise_normal_graph(data_set, degree, use_layout):
     return g, visual_style
 
 
+def show_wordcloud(data, title=None):
+    wordcloud = WordCloud(
+        background_color='white',
+        stopwords=stopwords,
+        max_font_size=40,
+        scale=3,
+        random_state=1  # chosen at random by flipping a coin; it was heads
+    ).generate(str(data))
+
+    fig = plt.figure(1, figsize=(12, 12))
+    plt.axis('off')
+    if title:
+        fig.suptitle(title, fontsize=20)
+        fig.subplots_adjust(top=2.3)
+
+    plt.imshow(wordcloud)
+    plt.show()
+
+
 def visualuse_similarity(use_layout, how_many, tag_limit, ids, scal, titles, authors,
                          matrix_authors, matrix_years, matrix_pages,
-                         matrix_rates, matrix_popularity, title_list=None):
+                         matrix_rates, matrix_popularity, title_list=None, find_best=None):
     df, shelves = proc.get_all_data(tag_limit)
     size = df.shape[0]
-
     correct = False
+
+    if find_best:
+        how_many_to_find = how_many
+        correct = True
+        inx = [ids.index(int(key)) for key in shelves.keys()]
+        how_many = len(inx)
+
     while not correct:
         inx = np.random.choice(size, how_many, replace=False)
         correct = True
@@ -164,17 +194,36 @@ def visualuse_similarity(use_layout, how_many, tag_limit, ids, scal, titles, aut
             if str(ids[i]) not in shelves.keys():
                 correct = False
 
-    if title_list:
+    if title_list and not find_best:
         inx = [titles.index(title) for title in title_list]
         how_many = len(inx)
-
-    matrix_shelves = np.array([[len(set(shelves[str(ids[i])]) & set(shelves[str(ids[j])])) for i in inx] for j in inx])
 
     matrix = matrix_authors * scal["auth"] + matrix_years * scal["years"] + matrix_pages * scal["pages"] \
              + matrix_rates * scal["rates"] + matrix_popularity * scal["popularity"]
 
+    matrix_shelves = np.array([[len(set(shelves[str(ids[i])]) & set(shelves[str(ids[j])])) for i in inx] for j in inx])
     matrix = np.array([[matrix[j][i] for i in inx] for j in inx])
     matrix += matrix_shelves * scal["shelves"]
+
+    if find_best:
+        b_index = inx.index(titles.index(find_best))
+        top_list = sorted(matrix[b_index], reverse=True)[:how_many_to_find + 1]
+        counter = 0
+        stop = False
+        new_inx = [b_index]
+        for i in range(len(matrix[b_index])):
+            if stop or (matrix[b_index][i] not in top_list and i != b_index):
+                matrix[:][i] = 0
+                matrix[i][:] = 0
+            else:
+                new_inx.append(i)
+                counter += 1
+            if counter == how_many_to_find:
+                stop = True
+                break
+        inx = [inx[i] for i in new_inx]
+        matrix = np.array([[matrix[j][i] for i in new_inx] for j in new_inx])
+        how_many = len(inx)
     sum_weight = 0
     for i in range(how_many):
         for j in range(how_many):

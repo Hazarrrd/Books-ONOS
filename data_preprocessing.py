@@ -30,7 +30,20 @@ def shelves_to_dict(file_name):
                 'want-to-buy', 'general', 'owned-to-read', 'read-in-2017', 'bookclub', 'read-in-2018', 'books-i-have', 'finished',
                 'read-in-english', 'hardcover', 'read-in-2016', 'borrowed', 'my-bookshelf', '1', 'reference', 'not-interested',
                 'in-my-library', 'other', 'on-the-shelf', 'audio-book', 'own-to-read', '1001-books', 'in-translation', 'bought', 'not-read',
-                'lit', '1001', '5-stars', 'suspense', 'reviewed', 'to-re-read', 'read-in-2019']
+                'lit', '1001', '5-stars', 'suspense', 'reviewed', 'to-re-read', 'read-in-2019', 'to-read-own', 'self', 'digital',
+                'non-fiction-to-read', 'audio-wanted', 'ya', 'priority', 'movie', 'library-books', '2005', 'rory-gilmore-challenge',
+                'to-get', 'donated', 'shelfari-wishlist','books-owned', 'read-in-2013', 'want', 'rory-gilmore-reading-challenge', 'nook', 'rory-gilmore',
+                'nonfic', 'english', 'need-to-buy', 'biblioteca', 'female-authors', 'روايات', 'book', 'read-2019', 'great-books', '2000s', 'writing',
+                'book-group', 'kindle-books', 'coming-of-age', 'want-to-read', 'england', 'read-in-2011', 'favorite-authors', 'chick-lit',
+                'books-we-own', 'uni', 'translations', 'mine', 'dont-want-to-read', 'work', '1001-books-to-read', '1990s', 'picture-books',
+                'my-ebooks', 'i-own-it', 'never-finished', 'to-read-business', 'library-book', 'on-my-bookshelf', 'read-2017', 'read-2018',
+                'owned-unread', '1980s', 'owned-tbr', 'adult-non-fiction', 'scanned', 'reread', 'short', 'book-club-books', 'favorite-books',
+                'stand-alone', 'gave-up-on', 'translated', 'my-shelf', 'collections', 'female-author', 'purchased', 'my-collection',
+                '1001-books-to-read-before-you-die', 'music', 'owned-not-read', 'series', 'next', 'stopped-reading', 'to-read-classics',
+                'all-time-favorites', 'classics-to-read', 'to-read-owned', 'middle-grade', 'nf', 'to-read-history', 'my-favorites',
+                'wanted', 'faves', 'read-in-2012', '4-stars', 'shelfari-favorites', 'to-read-nonfiction', 'home', 'recommended', 'translation',
+                'physical-books', 'nonf', 'play', 'paperback', 'interesting', 'interested','to-reread', 'non-fiction', 'collection',
+                'nonfiction-to-read', 'read-for-school', 'university', 'high-school']
     with open(file_name, 'r') as f:
         for line in f:
             id, shelve = line.strip().split(', ')
