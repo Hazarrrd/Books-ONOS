@@ -128,7 +128,6 @@
 10002, imported-candies
 10002, fic-sf
 10002, concession-stand
-10002, 古書可
 10002, to-read-drama
 10002, war
 10002, to-re-read
@@ -260,7 +259,6 @@
 10004, jap-n
 10004, erotica
 10004, re-read
-10004, 日本
 10004, library
 10004, non-white-authors
 10004, 20th-century
@@ -321,7 +319,6 @@
 10005, biographies
 10005, yr1996
 10005, jp
-10005, 新品
 10005, nonf
 10005, crit
 10005, memoir
@@ -404,7 +401,6 @@
 10006, 2004
 10006, united-states
 10006, rory-gilmore-booklist
-10006, روايات
 10006, rgrc
 10006, gg-reading-list
 10006, gilmore-reading-list
@@ -685,7 +681,6 @@
 10009, german-books
 10009, auf-deutsch
 10009, for-school
-10009, bücherregal
 10009, translated
 10009, to-buy
 10009, swiss-literature
@@ -810,7 +805,6 @@
 10017, german-books
 10017, auf-deutsch
 10017, for-school
-10017, bücherregal
 10017, translated
 10017, to-buy
 10017, swiss-literature
@@ -910,7 +904,6 @@
 10018, german-books
 10018, auf-deutsch
 10018, for-school
-10018, bücherregal
 10018, translated
 10018, to-buy
 10018, swiss-literature
@@ -7584,7 +7577,6 @@
 10134, stories
 10134, german
 10134, have
-10134, هاروکی-موراکامی
 10134, 2019-read
 10134, 2019-reads
 10134, jap-lit
@@ -7600,23 +7592,17 @@
 10134, fav
 10134, books-for-school
 10134, 1397
-10134, ادبیات-ژاپنی
 10134, e-book
-10134, 小說
 10134, japanese-authors
 10134, wish-list
-10134, رمان-و-داستان-خارجی
 10134, ebooks
 10134, asian-lit
 10134, re-read
 10134, genre-short-stories
 10134, quick-reads
 10134, bücherregal
-10134, موراكامي
 10134, audiobook
 10134, dropped
-10134, 村上春樹
-10134, دارمشان
 10134, 2016-reads
 10134, read-in-2016
 10134, bookclub
@@ -7653,11 +7639,8 @@
 10142, recomendados
 10142, casa-barcelona
 10142, madeleine-books
-10142, libros-salón-caja-3
 10142, spanish-authors
 10142, books-in-spanish
-10142, españa
-10142, clásicos
 10142, adulto
 10142, libros-mal-catalogados
 10142, leido
@@ -7974,7 +7957,6 @@
 10146, to-buy
 10146, audiobook
 10146, biography
-10146, não-ficção
 10146, ft-mckinsey-business-books
 10146, in-my-library
 10146, business-career
@@ -26717,7 +26699,6 @@
 10528, hermeneutics-interpretation
 10528, literature-art-culture
 10528, contemporary-philosophy
-10528, فنيات-الأدب-الروائي-والكتابي
 10528, litcrit
 10528, lit-crit-and-critical-theory
 10528, academic-reference
@@ -26750,9 +26731,6 @@
 10528, professional-books-for-teachers
 10528, professional-books-for-researchers
 10528, for-dd-research
-10528, النقد-الأدبي
-10528, في-بحور-الفلسفة
-10528, عن-القراءة-وللقراءة
 10528, cultural-studies
 10528, read-long-ago
 10528, умберто-эко
